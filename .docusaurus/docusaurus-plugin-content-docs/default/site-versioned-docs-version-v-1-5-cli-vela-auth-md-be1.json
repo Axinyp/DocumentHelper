@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_auth",
+  "id": "version-v1.5/cli/vela_auth",
+  "title": "vela auth",
+  "description": "Manage identity and authorizations.",
+  "source": "@site/versioned_docs/version-v1.5/cli/vela_auth.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_auth",
+  "permalink": "/docs/cli/vela_auth",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela auth"
+  }
+}

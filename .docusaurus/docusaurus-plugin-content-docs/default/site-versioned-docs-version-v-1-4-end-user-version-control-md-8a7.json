@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/version-control",
+  "id": "version-v1.4/end-user/version-control",
+  "title": "Application Version Control",
+  "description": "Introduction",
+  "source": "@site/versioned_docs/version-v1.4/end-user/version-control.md",
+  "sourceDirName": "end-user",
+  "slug": "/end-user/version-control",
+  "permalink": "/docs/v1.4/end-user/version-control",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Application Version Control"
+  }
+}

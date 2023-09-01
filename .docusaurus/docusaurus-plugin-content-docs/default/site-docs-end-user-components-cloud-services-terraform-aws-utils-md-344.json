@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-utils",
+  "id": "end-user/components/cloud-services/terraform/aws-utils",
+  "title": "AWS UTILS",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-utils.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-utils",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-utils",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS UTILS"
+  }
+}

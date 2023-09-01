@@ -1,0 +1,19 @@
+{
+  "unversionedId": "how-to/dashboard/target/overview",
+  "id": "version-v1.3/how-to/dashboard/target/overview",
+  "title": "Manage Targets",
+  "description": "To deploy application components into different places, VelaUX provides Target for user to manage their deploy destinations like clusters or namespaces.",
+  "source": "@site/versioned_docs/version-v1.3/how-to/dashboard/target/overview.md",
+  "sourceDirName": "how-to/dashboard/target",
+  "slug": "/how-to/dashboard/target/overview",
+  "permalink": "/docs/v1.3/how-to/dashboard/target/overview",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Manage Targets"
+  }
+}

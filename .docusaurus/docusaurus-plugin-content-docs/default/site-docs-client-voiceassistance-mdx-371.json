@@ -1,0 +1,25 @@
+{
+  "unversionedId": "client/voiceassistance",
+  "id": "client/voiceassistance",
+  "title": "8.Voice assistant",
+  "description": "",
+  "source": "@site/docs/client/voiceassistance.mdx",
+  "sourceDirName": "client",
+  "slug": "/client/voiceassistance",
+  "permalink": "/en/docs/client/voiceassistance",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "8.Voice assistant"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "7.Standalone mode",
+    "permalink": "/en/docs/client/singlemode"
+  },
+  "next": {
+    "title": "9.Screen mirroring",
+    "permalink": "/en/docs/client/miracast"
+  }
+}

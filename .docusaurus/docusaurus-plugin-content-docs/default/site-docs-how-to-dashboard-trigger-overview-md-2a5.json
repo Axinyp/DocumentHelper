@@ -1,0 +1,20 @@
+{
+  "unversionedId": "how-to/dashboard/trigger/overview",
+  "id": "how-to/dashboard/trigger/overview",
+  "title": "Triggers",
+  "description": "Integrate with CI system by Triggers",
+  "source": "@site/docs/how-to/dashboard/trigger/overview.md",
+  "sourceDirName": "how-to/dashboard/trigger",
+  "slug": "/how-to/dashboard/trigger/overview",
+  "permalink": "/docs/how-to/dashboard/trigger/overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Triggers",
+    "description": "Integrate with CI system by Triggers"
+  }
+}

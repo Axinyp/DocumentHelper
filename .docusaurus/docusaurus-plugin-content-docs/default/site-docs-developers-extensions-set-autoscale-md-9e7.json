@@ -1,0 +1,19 @@
+{
+  "unversionedId": "developers/extensions/set-autoscale",
+  "id": "developers/extensions/set-autoscale",
+  "title": "Automatically scale workloads by resource utilization metrics and cron",
+  "description": "Prerequisite",
+  "source": "@site/docs/developers/extensions/set-autoscale.md",
+  "sourceDirName": "developers/extensions",
+  "slug": "/developers/extensions/set-autoscale",
+  "permalink": "/docs/developers/extensions/set-autoscale",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Automatically scale workloads by resource utilization metrics and cron"
+  }
+}

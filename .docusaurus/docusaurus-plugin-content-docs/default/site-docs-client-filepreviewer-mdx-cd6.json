@@ -1,0 +1,25 @@
+{
+  "unversionedId": "client/filepreviewer",
+  "id": "client/filepreviewer",
+  "title": "5.File display",
+  "description": "",
+  "source": "@site/docs/client/filepreviewer.mdx",
+  "sourceDirName": "client",
+  "slug": "/client/filepreviewer",
+  "permalink": "/en/docs/client/filepreviewer",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "5.File display"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "4.Annotation",
+    "permalink": "/en/docs/client/annotation"
+  },
+  "next": {
+    "title": "6.Settings",
+    "permalink": "/en/docs/client/setting"
+  }
+}

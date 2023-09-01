@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/alibaba-vpc",
+  "id": "version-v1.3/end-user/components/cloud-services/terraform/alibaba-vpc",
+  "title": "Alibaba Cloud VPC",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.3/end-user/components/cloud-services/terraform/alibaba-vpc.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/alibaba-vpc",
+  "permalink": "/docs/v1.3/end-user/components/cloud-services/terraform/alibaba-vpc",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Alibaba Cloud VPC"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "case-studies/jenkins-cicd",
+  "id": "version-v1.4/case-studies/jenkins-cicd",
+  "title": "Jenkins CI Integration",
+  "description": "This section will introduce how to use KubeVela with existing CI tools such as Jenkins and why.",
+  "source": "@site/versioned_docs/version-v1.4/case-studies/jenkins-cicd.md",
+  "sourceDirName": "case-studies",
+  "slug": "/case-studies/jenkins-cicd",
+  "permalink": "/docs/v1.4/case-studies/jenkins-cicd",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Jenkins CI Integration"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_workflow_rollback",
+  "id": "cli/vela_workflow_rollback",
+  "title": "vela workflow rollback",
+  "description": "Rollback an application workflow to the latest revision.",
+  "source": "@site/docs/cli/vela_workflow_rollback.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_workflow_rollback",
+  "permalink": "/docs/cli/vela_workflow_rollback",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela workflow rollback"
+  }
+}

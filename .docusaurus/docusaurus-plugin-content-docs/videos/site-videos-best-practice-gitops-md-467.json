@@ -1,0 +1,28 @@
+{
+  "unversionedId": "best-practice/gitops",
+  "id": "best-practice/gitops",
+  "title": "Using GitOps + KubeVela for Application Continuous Delivery",
+  "description": "KubeVela is based on OAM model, which naturally solves the orchestration problems of complex resources. It means that KubeVela can manage complex large-scale applications with GitOps. Convergence of team and system size after the system complexity problem.",
+  "source": "@site/videos/best-practice/gitops.md",
+  "sourceDirName": "best-practice",
+  "slug": "/best-practice/gitops",
+  "permalink": "/videos/best-practice/gitops",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Using GitOps + KubeVela for Application Continuous Delivery"
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "Using Jenkins + KubeVela for Application Continuous Delivery",
+    "permalink": "/videos/best-practice/jenkins"
+  },
+  "next": {
+    "title": "Use Nocalhost and KubeVela for cloud debugging and multi-cluster hybrid cloud deployment",
+    "permalink": "/videos/best-practice/kubevela-nocalhost"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/gcp-public-agents",
+  "id": "version-v1.4/end-user/components/cloud-services/terraform/gcp-public-agents",
+  "title": "Gcp-Public-Agents",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.4/end-user/components/cloud-services/terraform/gcp-public-agents.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/gcp-public-agents",
+  "permalink": "/docs/v1.4/end-user/components/cloud-services/terraform/gcp-public-agents",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Gcp-Public-Agents"
+  }
+}

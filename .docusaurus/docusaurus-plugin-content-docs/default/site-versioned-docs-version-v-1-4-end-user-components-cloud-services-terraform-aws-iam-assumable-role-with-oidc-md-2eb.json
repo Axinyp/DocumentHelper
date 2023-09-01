@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-iam-assumable-role-with-oidc",
+  "id": "version-v1.4/end-user/components/cloud-services/terraform/aws-iam-assumable-role-with-oidc",
+  "title": "AWS IAM-ASSUMABLE-ROLE-WITH-OIDC",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.4/end-user/components/cloud-services/terraform/aws-iam-assumable-role-with-oidc.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-iam-assumable-role-with-oidc",
+  "permalink": "/docs/v1.4/end-user/components/cloud-services/terraform/aws-iam-assumable-role-with-oidc",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS IAM-ASSUMABLE-ROLE-WITH-OIDC"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "client/account",
+  "id": "client/account",
+  "title": "8.账号切换",
+  "description": "",
+  "source": "@site/docs/client/account.mdx",
+  "sourceDirName": "client",
+  "slug": "/client/account",
+  "permalink": "/en/docs/client/account",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "8.账号切换"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "7.单机模式",
+    "permalink": "/en/docs/client/singlemode"
+  },
+  "next": {
+    "title": "9.语音助手",
+    "permalink": "/en/docs/client/voiceassistance"
+  }
+}

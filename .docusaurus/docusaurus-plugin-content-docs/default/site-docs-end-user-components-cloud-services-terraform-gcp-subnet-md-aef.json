@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/gcp-subnet",
+  "id": "end-user/components/cloud-services/terraform/gcp-subnet",
+  "title": "Gcp-Subnet",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/gcp-subnet.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/gcp-subnet",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/gcp-subnet",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Gcp-Subnet"
+  }
+}

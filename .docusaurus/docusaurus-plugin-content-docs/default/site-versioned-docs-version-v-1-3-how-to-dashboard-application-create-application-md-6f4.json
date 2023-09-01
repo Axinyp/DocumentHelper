@@ -1,0 +1,20 @@
+{
+  "unversionedId": "how-to/dashboard/application/create-application",
+  "id": "version-v1.3/how-to/dashboard/application/create-application",
+  "title": "Lifecycle of Application",
+  "description": "lifecycle of an application by kubevela dashboard",
+  "source": "@site/versioned_docs/version-v1.3/how-to/dashboard/application/create-application.md",
+  "sourceDirName": "how-to/dashboard/application",
+  "slug": "/how-to/dashboard/application/create-application",
+  "permalink": "/docs/v1.3/how-to/dashboard/application/create-application",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Lifecycle of Application",
+    "description": "lifecycle of an application by kubevela dashboard"
+  }
+}

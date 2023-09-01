@@ -1,0 +1,19 @@
+{
+  "unversionedId": "reference/addons/overview",
+  "id": "version-v1.4/reference/addons/overview",
+  "title": "Overview",
+  "description": "There's an community addon registry (https",
+  "source": "@site/versioned_docs/version-v1.4/reference/addons/overview.md",
+  "sourceDirName": "reference/addons",
+  "slug": "/reference/addons/overview",
+  "permalink": "/docs/v1.4/reference/addons/overview",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Overview"
+  }
+}

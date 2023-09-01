@@ -1,0 +1,19 @@
+{
+  "unversionedId": "reference/user-improvement-plan",
+  "id": "version-v1.3/reference/user-improvement-plan",
+  "title": "User Improvement Plan",
+  "description": "Welcome to join the \"User Improvement Plan\"! To improve the KubeVela open source product, avoid bugs and improve the product quality, we need to collect some of your system and usage information.",
+  "source": "@site/versioned_docs/version-v1.3/reference/user-improvement-plan.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/user-improvement-plan",
+  "permalink": "/docs/v1.3/reference/user-improvement-plan",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "User Improvement Plan"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "tutorials/sso",
+  "id": "tutorials/sso",
+  "title": "SSO Login",
+  "description": "Description",
+  "source": "@site/docs/tutorials/sso.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/sso",
+  "permalink": "/docs/tutorials/sso",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "SSO Login"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_addon_status",
+  "id": "version-v1.3/cli/vela_addon_status",
+  "title": "vela addon status",
+  "description": "get an addon's status.",
+  "source": "@site/versioned_docs/version-v1.3/cli/vela_addon_status.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_addon_status",
+  "permalink": "/docs/v1.3/cli/vela_addon_status",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela addon status"
+  }
+}

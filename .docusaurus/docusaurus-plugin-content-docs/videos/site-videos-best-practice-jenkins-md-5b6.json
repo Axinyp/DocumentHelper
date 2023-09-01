@@ -1,0 +1,24 @@
+{
+  "unversionedId": "best-practice/jenkins",
+  "id": "best-practice/jenkins",
+  "title": "Using Jenkins + KubeVela for Application Continuous Delivery",
+  "description": "This section will use Jenkins, a popular continuous integration tool, as basis and give a brief introduction to how to build GitOps-based application continuous delivery highway.",
+  "source": "@site/videos/best-practice/jenkins.md",
+  "sourceDirName": "best-practice",
+  "slug": "/best-practice/jenkins",
+  "permalink": "/videos/best-practice/jenkins",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Using Jenkins + KubeVela for Application Continuous Delivery"
+  },
+  "sidebar": "videos",
+  "next": {
+    "title": "Using GitOps + KubeVela for Application Continuous Delivery",
+    "permalink": "/videos/best-practice/gitops"
+  }
+}

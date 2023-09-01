@@ -1,0 +1,51 @@
+{
+  "permalink": "/blog/2022/03/27/kubevela-with-nocalhost",
+  "editUrl": "https://github.com/kubevela/kubevela.io/tree/main/blog/2022-03-27-kubevela-with-nocalhost.md",
+  "source": "@site/blog/2022-03-27-kubevela-with-nocalhost.md",
+  "title": "Use Nocalhost and KubeVela for cloud debugging and multi-cluster hybrid cloud deployment",
+  "description": "",
+  "date": "2022-03-27T00:00:00.000Z",
+  "formattedDate": "March 27, 2022",
+  "tags": [
+    {
+      "label": "kubevela",
+      "permalink": "/blog/tags/kubevela"
+    },
+    {
+      "label": "use-case",
+      "permalink": "/blog/tags/use-case"
+    }
+  ],
+  "readingTime": 9.875,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Tianxin Dong and Yicai Yu",
+      "title": "KubeVela and Nocalhost team",
+      "url": "https://github.com/kubevela/kubevela",
+      "imageURL": "https://kubevela.io/img/logo.svg"
+    }
+  ],
+  "frontMatter": {
+    "title": "Use Nocalhost and KubeVela for cloud debugging and multi-cluster hybrid cloud deployment",
+    "author": "Tianxin Dong and Yicai Yu",
+    "author_title": "KubeVela and Nocalhost team",
+    "author_url": "https://github.com/kubevela/kubevela",
+    "author_image_url": "https://kubevela.io/img/logo.svg",
+    "tags": [
+      "kubevela",
+      "use-case"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/kubevela/kubevela.io/main/docs/resources/KubeVela-03.png",
+    "hide_table_of_contents": false
+  },
+  "prevItem": {
+    "title": "China Merchants Bank's Practice on Offline Installation with KubeVela",
+    "permalink": "/blog/2022/04/01/offline-deployment-practice"
+  },
+  "nextItem": {
+    "title": "Machine Learning Practice with KubeVela",
+    "permalink": "/blog/2022/03/02/kubevela-with-machine-learning"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/provision-and-initiate-database",
+  "id": "version-v1.5/end-user/components/cloud-services/provision-and-initiate-database",
+  "title": "Provision a Database and Import a SQL File for initialization",
+  "description": "This tutorial will talk about how to provision a relational database with SQL file imported, and bootstrap an",
+  "source": "@site/versioned_docs/version-v1.5/end-user/components/cloud-services/provision-and-initiate-database.md",
+  "sourceDirName": "end-user/components/cloud-services",
+  "slug": "/end-user/components/cloud-services/provision-and-initiate-database",
+  "permalink": "/docs/end-user/components/cloud-services/provision-and-initiate-database",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Provision a Database and Import a SQL File for initialization"
+  }
+}

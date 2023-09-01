@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/gcp-gke-ecommerce",
+  "id": "version-v1.3/end-user/components/cloud-services/terraform/gcp-gke-ecommerce",
+  "title": "Gcp-Gke-Ecommerce",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.3/end-user/components/cloud-services/terraform/gcp-gke-ecommerce.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/gcp-gke-ecommerce",
+  "permalink": "/docs/v1.3/end-user/components/cloud-services/terraform/gcp-gke-ecommerce",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Gcp-Gke-Ecommerce"
+  }
+}

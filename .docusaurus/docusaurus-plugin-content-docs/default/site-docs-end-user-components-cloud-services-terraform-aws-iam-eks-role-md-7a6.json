@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-iam-eks-role",
+  "id": "end-user/components/cloud-services/terraform/aws-iam-eks-role",
+  "title": "AWS IAM-EKS-ROLE",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-iam-eks-role.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-iam-eks-role",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-iam-eks-role",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS IAM-EKS-ROLE"
+  }
+}

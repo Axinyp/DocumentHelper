@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_def_vet",
+  "id": "cli/vela_def_vet",
+  "title": "vela def vet",
+  "description": "Validate X-Definition.",
+  "source": "@site/docs/cli/vela_def_vet.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_def_vet",
+  "permalink": "/docs/cli/vela_def_vet",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela def vet"
+  }
+}

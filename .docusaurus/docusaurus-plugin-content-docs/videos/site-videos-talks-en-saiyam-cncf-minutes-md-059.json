@@ -1,0 +1,28 @@
+{
+  "unversionedId": "talks/en/saiyam-cncf-minutes",
+  "id": "talks/en/saiyam-cncf-minutes",
+  "title": "CNCF Minutes from Saiyam Pathak: KubeVela - Walkthrough",
+  "description": "In this video, Saiyam Pathak introduces OAM and KubeVela with live demos.",
+  "source": "@site/videos/talks/en/saiyam-cncf-minutes.md",
+  "sourceDirName": "talks/en",
+  "slug": "/talks/en/saiyam-cncf-minutes",
+  "permalink": "/videos/talks/en/saiyam-cncf-minutes",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "CNCF Minutes from Saiyam Pathak: KubeVela - Walkthrough"
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "1024 Live Lessons",
+    "permalink": "/videos/lessons/live-1024"
+  },
+  "next": {
+    "title": "Building an Application-centric Kubernetes Platform for Enterprise Scale",
+    "permalink": "/videos/talks/en/application-centric-platform"
+  }
+}

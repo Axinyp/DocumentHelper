@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_show",
+  "id": "cli/vela_show",
+  "title": "vela show",
+  "description": "Show the reference doc for a component, trait, policy or workflow.",
+  "source": "@site/docs/cli/vela_show.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_show",
+  "permalink": "/docs/cli/vela_show",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela show"
+  }
+}

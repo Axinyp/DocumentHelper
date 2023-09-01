@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/system-operation/bootstrap-parameters",
+  "id": "platform-engineers/system-operation/bootstrap-parameters",
+  "title": "Bootstrap Parameters",
+  "description": "The introduction of bootstrap parameters in KubeVela controller are listed as below",
+  "source": "@site/docs/platform-engineers/system-operation/bootstrap-parameters.md",
+  "sourceDirName": "platform-engineers/system-operation",
+  "slug": "/platform-engineers/system-operation/bootstrap-parameters",
+  "permalink": "/docs/platform-engineers/system-operation/bootstrap-parameters",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Bootstrap Parameters"
+  }
+}

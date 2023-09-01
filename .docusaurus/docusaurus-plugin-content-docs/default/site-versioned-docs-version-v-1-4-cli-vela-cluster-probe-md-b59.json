@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_cluster_probe",
+  "id": "version-v1.4/cli/vela_cluster_probe",
+  "title": "vela cluster probe",
+  "description": "health probe managed cluster.",
+  "source": "@site/versioned_docs/version-v1.4/cli/vela_cluster_probe.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_cluster_probe",
+  "permalink": "/docs/v1.4/cli/vela_cluster_probe",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela cluster probe"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/system-operation/vela-cli-image",
+  "id": "version-v1.4/platform-engineers/system-operation/vela-cli-image",
+  "title": "Vela CLI Docker Image",
+  "description": "This topic describes how to run, version control, and configure the Vela CLI on Docker. For more information on how to use Docker, see Docker's documentation.",
+  "source": "@site/versioned_docs/version-v1.4/platform-engineers/system-operation/vela-cli-image.md",
+  "sourceDirName": "platform-engineers/system-operation",
+  "slug": "/platform-engineers/system-operation/vela-cli-image",
+  "permalink": "/docs/v1.4/platform-engineers/system-operation/vela-cli-image",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Vela CLI Docker Image"
+  }
+}

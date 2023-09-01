@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/alibaba-ram-fc",
+  "id": "end-user/components/cloud-services/terraform/alibaba-ram-fc",
+  "title": "Alibaba Cloud RAM-FC",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/alibaba-ram-fc.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/alibaba-ram-fc",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/alibaba-ram-fc",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Alibaba Cloud RAM-FC"
+  }
+}

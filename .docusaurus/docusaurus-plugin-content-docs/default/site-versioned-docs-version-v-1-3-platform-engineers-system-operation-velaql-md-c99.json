@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/system-operation/velaql",
+  "id": "version-v1.3/platform-engineers/system-operation/velaql",
+  "title": "VelaQL - Query Resources behind Application",
+  "description": "Introduction",
+  "source": "@site/versioned_docs/version-v1.3/platform-engineers/system-operation/velaql.md",
+  "sourceDirName": "platform-engineers/system-operation",
+  "slug": "/platform-engineers/system-operation/velaql",
+  "permalink": "/docs/v1.3/platform-engineers/system-operation/velaql",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "VelaQL - Query Resources behind Application"
+  }
+}

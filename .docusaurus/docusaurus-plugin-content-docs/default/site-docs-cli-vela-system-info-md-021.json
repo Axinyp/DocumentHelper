@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_system_info",
+  "id": "cli/vela_system_info",
+  "title": "vela system info",
+  "description": "Print the system deployment detail information in all namespaces with label app.kubernetes.io/name=vela-core.",
+  "source": "@site/docs/cli/vela_system_info.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_system_info",
+  "permalink": "/docs/cli/vela_system_info",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela system info"
+  }
+}

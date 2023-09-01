@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_workflow",
+  "id": "cli/vela_workflow",
+  "title": "vela workflow",
+  "description": "Operate application delivery workflow.",
+  "source": "@site/docs/cli/vela_workflow.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_workflow",
+  "permalink": "/docs/cli/vela_workflow",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela workflow"
+  }
+}

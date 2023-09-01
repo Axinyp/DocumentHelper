@@ -1,0 +1,19 @@
+{
+  "unversionedId": "reference/topology-rule",
+  "id": "reference/topology-rule",
+  "title": "Resource Relationships",
+  "description": "Resource Relationships mainly specify the relationship between two types of resources. Its main function is to help KubeVela establish the topological relationship of the resources managed by a KubeVela application. For example, the system has a built-in relationship rule: The sub-resources under the Deployment  can only be ReplicaSet , and the child resource of ReplicaSet can only be Pod.",
+  "source": "@site/docs/reference/topology-rule.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/topology-rule",
+  "permalink": "/docs/reference/topology-rule",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Resource Relationships"
+  }
+}

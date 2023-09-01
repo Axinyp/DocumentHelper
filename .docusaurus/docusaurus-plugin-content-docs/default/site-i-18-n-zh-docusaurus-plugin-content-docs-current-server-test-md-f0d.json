@@ -1,0 +1,21 @@
+{
+  "unversionedId": "server/test",
+  "id": "server/test",
+  "title": "登录",
+  "description": "登录",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/server/test.md",
+  "sourceDirName": "server",
+  "slug": "/server/test",
+  "permalink": "/docs/server/test",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "登录"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "测试",
+    "permalink": "/docs/getting-started/test"
+  }
+}

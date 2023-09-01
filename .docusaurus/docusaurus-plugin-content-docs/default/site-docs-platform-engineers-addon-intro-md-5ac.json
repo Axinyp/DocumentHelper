@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/addon/intro",
+  "id": "platform-engineers/addon/intro",
+  "title": "Make Your Own Addon",
+  "description": "A KubeVela addon is a collection that can contain the following three types of files；",
+  "source": "@site/docs/platform-engineers/addon/intro.md",
+  "sourceDirName": "platform-engineers/addon",
+  "slug": "/platform-engineers/addon/intro",
+  "permalink": "/docs/platform-engineers/addon/intro",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Make Your Own Addon"
+  }
+}

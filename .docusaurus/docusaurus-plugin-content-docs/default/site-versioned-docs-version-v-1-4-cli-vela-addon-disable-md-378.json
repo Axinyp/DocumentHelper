@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_addon_disable",
+  "id": "version-v1.4/cli/vela_addon_disable",
+  "title": "vela addon disable",
+  "description": "disable an addon",
+  "source": "@site/versioned_docs/version-v1.4/cli/vela_addon_disable.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_addon_disable",
+  "permalink": "/docs/v1.4/cli/vela_addon_disable",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela addon disable"
+  }
+}

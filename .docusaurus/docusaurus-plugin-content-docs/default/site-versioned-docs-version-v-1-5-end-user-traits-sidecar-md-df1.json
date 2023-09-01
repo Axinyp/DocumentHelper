@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/traits/sidecar",
+  "id": "version-v1.5/end-user/traits/sidecar",
+  "title": "Attaching Sidecar Container",
+  "description": "The sidecar trait allows you to attach a sidecar container to the component.",
+  "source": "@site/versioned_docs/version-v1.5/end-user/traits/sidecar.md",
+  "sourceDirName": "end-user/traits",
+  "slug": "/end-user/traits/sidecar",
+  "permalink": "/docs/end-user/traits/sidecar",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Attaching Sidecar Container"
+  }
+}

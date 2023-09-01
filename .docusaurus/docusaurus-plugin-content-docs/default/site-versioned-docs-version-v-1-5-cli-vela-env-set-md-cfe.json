@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_env_set",
+  "id": "version-v1.5/cli/vela_env_set",
+  "title": "vela env set",
+  "description": "Set an environment.",
+  "source": "@site/versioned_docs/version-v1.5/cli/vela_env_set.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_env_set",
+  "permalink": "/docs/cli/vela_env_set",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela env set"
+  }
+}

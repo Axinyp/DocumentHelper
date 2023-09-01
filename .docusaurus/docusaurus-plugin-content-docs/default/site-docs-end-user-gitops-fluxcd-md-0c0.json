@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/gitops/fluxcd",
+  "id": "end-user/gitops/fluxcd",
+  "title": "GitOps with FluxCD",
+  "description": "In this section, we will introduce how to use KubeVela to deliver in GitOps mode.",
+  "source": "@site/docs/end-user/gitops/fluxcd.md",
+  "sourceDirName": "end-user/gitops",
+  "slug": "/end-user/gitops/fluxcd",
+  "permalink": "/docs/end-user/gitops/fluxcd",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "GitOps with FluxCD"
+  }
+}

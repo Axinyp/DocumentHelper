@@ -1,0 +1,19 @@
+{
+  "unversionedId": "developers/port-forward",
+  "id": "version-v1.4/developers/port-forward",
+  "title": "Port Forwarding",
+  "description": "Once your web services of the application deployed, you can access it locally via port-forward.",
+  "source": "@site/versioned_docs/version-v1.4/developers/port-forward.md",
+  "sourceDirName": "developers",
+  "slug": "/developers/port-forward",
+  "permalink": "/docs/v1.4/developers/port-forward",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Port Forwarding"
+  }
+}

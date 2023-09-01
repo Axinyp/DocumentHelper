@@ -1,0 +1,2493 @@
+{
+  "pluginId": "default",
+  "version": "v1.5",
+  "label": "v1.5",
+  "banner": null,
+  "badge": true,
+  "noIndex": false,
+  "className": "docs-version-v1.5",
+  "isLast": true,
+  "docsSidebars": {},
+  "docs": {
+    "case-studies/gitops": {
+      "id": "case-studies/gitops",
+      "title": "Overview of GitOps",
+      "description": "This section will introduce how to use KubeVela in GitOps area and why."
+    },
+    "case-studies/initialize-env": {
+      "id": "case-studies/initialize-env",
+      "title": "Initialize/Destroy Environment",
+      "description": "This section will introduce what is environment and how to initialize and destroy an environment with KubeVela easily."
+    },
+    "case-studies/jenkins-cicd": {
+      "id": "case-studies/jenkins-cicd",
+      "title": "Jenkins CI Integration",
+      "description": "This section will introduce how to use KubeVela with existing CI tools such as Jenkins and why."
+    },
+    "case-studies/multi-cluster": {
+      "id": "case-studies/multi-cluster",
+      "title": "Multi Cluster Application",
+      "description": "KubeVela is by design a full functional Continuous Delivery (CD) platform with fine grained support for hybrid/multi-cloud/multi-cluster deployment."
+    },
+    "cli/vela": {
+      "id": "cli/vela",
+      "title": "CLI Commands",
+      "description": "Getting Started"
+    },
+    "cli/vela_addon": {
+      "id": "cli/vela_addon",
+      "title": "vela addon",
+      "description": "Manage addons for extension."
+    },
+    "cli/vela_addon_disable": {
+      "id": "cli/vela_addon_disable",
+      "title": "vela addon disable",
+      "description": "disable an addon"
+    },
+    "cli/vela_addon_enable": {
+      "id": "cli/vela_addon_enable",
+      "title": "vela addon enable",
+      "description": "enable an addon"
+    },
+    "cli/vela_addon_init": {
+      "id": "cli/vela_addon_init",
+      "title": "vela addon init",
+      "description": "create an addon scaffold"
+    },
+    "cli/vela_addon_list": {
+      "id": "cli/vela_addon_list",
+      "title": "vela addon list",
+      "description": "List addons"
+    },
+    "cli/vela_addon_package": {
+      "id": "cli/vela_addon_package",
+      "title": "vela addon package",
+      "description": "package an addon directory"
+    },
+    "cli/vela_addon_push": {
+      "id": "cli/vela_addon_push",
+      "title": "vela addon push",
+      "description": "uploads an addon package to ChartMuseum"
+    },
+    "cli/vela_addon_registry": {
+      "id": "cli/vela_addon_registry",
+      "title": "vela addon registry",
+      "description": "Manage addon registry."
+    },
+    "cli/vela_addon_registry_add": {
+      "id": "cli/vela_addon_registry_add",
+      "title": "vela addon registry add",
+      "description": "Add an addon registry."
+    },
+    "cli/vela_addon_registry_delete": {
+      "id": "cli/vela_addon_registry_delete",
+      "title": "vela addon registry delete",
+      "description": "Delete an addon registry"
+    },
+    "cli/vela_addon_registry_get": {
+      "id": "cli/vela_addon_registry_get",
+      "title": "vela addon registry get",
+      "description": "Get an addon registry."
+    },
+    "cli/vela_addon_registry_list": {
+      "id": "cli/vela_addon_registry_list",
+      "title": "vela addon registry list",
+      "description": "List addon registries."
+    },
+    "cli/vela_addon_registry_update": {
+      "id": "cli/vela_addon_registry_update",
+      "title": "vela addon registry update",
+      "description": "Update an addon registry."
+    },
+    "cli/vela_addon_status": {
+      "id": "cli/vela_addon_status",
+      "title": "vela addon status",
+      "description": "get an addon's status."
+    },
+    "cli/vela_addon_upgrade": {
+      "id": "cli/vela_addon_upgrade",
+      "title": "vela addon upgrade",
+      "description": "upgrade an addon"
+    },
+    "cli/vela_auth": {
+      "id": "cli/vela_auth",
+      "title": "vela auth",
+      "description": "Manage identity and authorizations."
+    },
+    "cli/vela_auth_gen-kubeconfig": {
+      "id": "cli/vela_auth_gen-kubeconfig",
+      "title": "vela auth gen-kubeconfig",
+      "description": "Generate kubeconfig for user"
+    },
+    "cli/vela_auth_grant-privileges": {
+      "id": "cli/vela_auth_grant-privileges",
+      "title": "vela auth grant-privileges",
+      "description": "Grant privileges for user/group/serviceaccount"
+    },
+    "cli/vela_auth_list-privileges": {
+      "id": "cli/vela_auth_list-privileges",
+      "title": "vela auth list-privileges",
+      "description": "List privileges for user/group/serviceaccount"
+    },
+    "cli/vela_cluster": {
+      "id": "cli/vela_cluster",
+      "title": "vela cluster",
+      "description": "Manage Kubernetes Clusters"
+    },
+    "cli/vela_cluster_alias": {
+      "id": "cli/vela_cluster_alias",
+      "title": "vela cluster alias",
+      "description": "alias a named cluster."
+    },
+    "cli/vela_cluster_detach": {
+      "id": "cli/vela_cluster_detach",
+      "title": "vela cluster detach",
+      "description": "detach managed cluster."
+    },
+    "cli/vela_cluster_join": {
+      "id": "cli/vela_cluster_join",
+      "title": "vela cluster join",
+      "description": "join managed cluster."
+    },
+    "cli/vela_cluster_labels": {
+      "id": "cli/vela_cluster_labels",
+      "title": "vela cluster labels",
+      "description": "Manage Kubernetes Cluster Labels"
+    },
+    "cli/vela_cluster_labels_add": {
+      "id": "cli/vela_cluster_labels_add",
+      "title": "vela cluster labels add",
+      "description": "add labels to managed cluster"
+    },
+    "cli/vela_cluster_labels_del": {
+      "id": "cli/vela_cluster_labels_del",
+      "title": "vela cluster labels del",
+      "description": "delete labels for managed cluster"
+    },
+    "cli/vela_cluster_list": {
+      "id": "cli/vela_cluster_list",
+      "title": "vela cluster list",
+      "description": "list managed clusters"
+    },
+    "cli/vela_cluster_probe": {
+      "id": "cli/vela_cluster_probe",
+      "title": "vela cluster probe",
+      "description": "health probe managed cluster."
+    },
+    "cli/vela_cluster_rename": {
+      "id": "cli/vela_cluster_rename",
+      "title": "vela cluster rename",
+      "description": "rename managed cluster."
+    },
+    "cli/vela_completion": {
+      "id": "cli/vela_completion",
+      "title": "vela completion",
+      "description": "Output shell completion code for the specified shell (bash or zsh)"
+    },
+    "cli/vela_completion_bash": {
+      "id": "cli/vela_completion_bash",
+      "title": "vela completion bash",
+      "description": "generate autocompletions script for bash"
+    },
+    "cli/vela_completion_zsh": {
+      "id": "cli/vela_completion_zsh",
+      "title": "vela completion zsh",
+      "description": "generate autocompletions script for zsh"
+    },
+    "cli/vela_component": {
+      "id": "cli/vela_component",
+      "title": "vela component",
+      "description": "List/get components"
+    },
+    "cli/vela_component_get": {
+      "id": "cli/vela_component_get",
+      "title": "vela component get",
+      "description": "get component from registry"
+    },
+    "cli/vela_debug": {
+      "id": "cli/vela_debug",
+      "title": "vela debug",
+      "description": "Debug running application"
+    },
+    "cli/vela_def": {
+      "id": "cli/vela_def",
+      "title": "vela def",
+      "description": "Manage Definitions"
+    },
+    "cli/vela_def_apply": {
+      "id": "cli/vela_def_apply",
+      "title": "vela def apply",
+      "description": "Apply X-Definition."
+    },
+    "cli/vela_def_del": {
+      "id": "cli/vela_def_del",
+      "title": "vela def del",
+      "description": "Delete X-Definition."
+    },
+    "cli/vela_def_doc-gen": {
+      "id": "cli/vela_def_doc-gen",
+      "title": "vela def doc-gen",
+      "description": "Generate documentation of definitions (Only Terraform typed definitions are supported)"
+    },
+    "cli/vela_def_edit": {
+      "id": "cli/vela_def_edit",
+      "title": "vela def edit",
+      "description": "Edit X-Definition."
+    },
+    "cli/vela_def_gen-api": {
+      "id": "cli/vela_def_gen-api",
+      "title": "vela def gen-api",
+      "description": "Generate Go struct of Parameter from X-Definition."
+    },
+    "cli/vela_def_get": {
+      "id": "cli/vela_def_get",
+      "title": "vela def get",
+      "description": "Get definition"
+    },
+    "cli/vela_def_init": {
+      "id": "cli/vela_def_init",
+      "title": "vela def init",
+      "description": "Init a new definition"
+    },
+    "cli/vela_def_list": {
+      "id": "cli/vela_def_list",
+      "title": "vela def list",
+      "description": "List definitions."
+    },
+    "cli/vela_def_render": {
+      "id": "cli/vela_def_render",
+      "title": "vela def render",
+      "description": "Render X-Definition."
+    },
+    "cli/vela_def_show": {
+      "id": "cli/vela_def_show",
+      "title": "vela def show",
+      "description": "Show the reference doc for a component, trait, policy or workflow."
+    },
+    "cli/vela_def_vet": {
+      "id": "cli/vela_def_vet",
+      "title": "vela def vet",
+      "description": "Validate X-Definition."
+    },
+    "cli/vela_delete": {
+      "id": "cli/vela_delete",
+      "title": "vela delete",
+      "description": "Delete an application"
+    },
+    "cli/vela_dry-run": {
+      "id": "cli/vela_dry-run",
+      "title": "vela dry-run",
+      "description": "Dry Run an application, and output the K8s resources as result to stdout"
+    },
+    "cli/vela_env": {
+      "id": "cli/vela_env",
+      "title": "vela env",
+      "description": "Manage environments for vela applications to run."
+    },
+    "cli/vela_env_delete": {
+      "id": "cli/vela_env_delete",
+      "title": "vela env delete",
+      "description": "Delete an environment."
+    },
+    "cli/vela_env_init": {
+      "id": "cli/vela_env_init",
+      "title": "vela env init",
+      "description": "Create environment for vela applications to run."
+    },
+    "cli/vela_env_ls": {
+      "id": "cli/vela_env_ls",
+      "title": "vela env ls",
+      "description": "List environments for vela applications to run."
+    },
+    "cli/vela_env_set": {
+      "id": "cli/vela_env_set",
+      "title": "vela env set",
+      "description": "Set an environment."
+    },
+    "cli/vela_exec": {
+      "id": "cli/vela_exec",
+      "title": "vela exec",
+      "description": "Execute command in a container"
+    },
+    "cli/vela_export": {
+      "id": "cli/vela_export",
+      "title": "vela export",
+      "description": "Export deploy manifests from appfile"
+    },
+    "cli/vela_help": {
+      "id": "cli/vela_help",
+      "title": "vela help",
+      "description": "Help about any command"
+    },
+    "cli/vela_init": {
+      "id": "cli/vela_init",
+      "title": "vela init",
+      "description": "Create scaffold for an application."
+    },
+    "cli/vela_install": {
+      "id": "cli/vela_install",
+      "title": "vela install",
+      "description": "Installs or Upgrades Kubevela control plane on a Kubernetes cluster."
+    },
+    "cli/vela_kube": {
+      "id": "cli/vela_kube",
+      "title": "vela kube",
+      "description": "Managing native Kubernetes resources across clusters."
+    },
+    "cli/vela_kube_apply": {
+      "id": "cli/vela_kube_apply",
+      "title": "vela kube apply",
+      "description": "Apply resources in Kubernetes YAML file to clusters."
+    },
+    "cli/vela_kube_delete": {
+      "id": "cli/vela_kube_delete",
+      "title": "vela kube delete",
+      "description": "Delete resources in clusters."
+    },
+    "cli/vela_live-diff": {
+      "id": "cli/vela_live-diff",
+      "title": "vela live-diff",
+      "description": "Compare application and revisions"
+    },
+    "cli/vela_logs": {
+      "id": "cli/vela_logs",
+      "title": "vela logs",
+      "description": "Tail logs for application."
+    },
+    "cli/vela_ls": {
+      "id": "cli/vela_ls",
+      "title": "vela ls",
+      "description": "List applications"
+    },
+    "cli/vela_port-forward": {
+      "id": "cli/vela_port-forward",
+      "title": "vela port-forward",
+      "description": "Forward local ports to container/service port of vela application."
+    },
+    "cli/vela_provider": {
+      "id": "cli/vela_provider",
+      "title": "vela provider",
+      "description": "Authenticate Terraform Cloud Providers"
+    },
+    "cli/vela_provider_add": {
+      "id": "cli/vela_provider_add",
+      "title": "vela provider add",
+      "description": "Authenticate Terraform Cloud Provider"
+    },
+    "cli/vela_provider_add_terraform-alibaba": {
+      "id": "cli/vela_provider_add_terraform-alibaba",
+      "title": "vela provider add terraform-alibaba",
+      "description": "Authenticate Terraform Cloud Provider terraform-alibaba"
+    },
+    "cli/vela_provider_add_terraform-aws": {
+      "id": "cli/vela_provider_add_terraform-aws",
+      "title": "vela provider add terraform-aws",
+      "description": "Authenticate Terraform Cloud Provider terraform-aws"
+    },
+    "cli/vela_provider_add_terraform-azure": {
+      "id": "cli/vela_provider_add_terraform-azure",
+      "title": "vela provider add terraform-azure",
+      "description": "Authenticate Terraform Cloud Provider terraform-azure"
+    },
+    "cli/vela_provider_add_terraform-baidu": {
+      "id": "cli/vela_provider_add_terraform-baidu",
+      "title": "vela provider add terraform-baidu",
+      "description": "Authenticate Terraform Cloud Provider terraform-baidu"
+    },
+    "cli/vela_provider_add_terraform-gcp": {
+      "id": "cli/vela_provider_add_terraform-gcp",
+      "title": "vela provider add terraform-gcp",
+      "description": "Authenticate Terraform Cloud Provider terraform-gcp"
+    },
+    "cli/vela_provider_add_terraform-tencent": {
+      "id": "cli/vela_provider_add_terraform-tencent",
+      "title": "vela provider add terraform-tencent",
+      "description": "Authenticate Terraform Cloud Provider terraform-tencent"
+    },
+    "cli/vela_provider_add_terraform-ucloud": {
+      "id": "cli/vela_provider_add_terraform-ucloud",
+      "title": "vela provider add terraform-ucloud",
+      "description": "Authenticate Terraform Cloud Provider terraform-ucloud"
+    },
+    "cli/vela_provider_delete": {
+      "id": "cli/vela_provider_delete",
+      "title": "vela provider delete",
+      "description": "Delete Terraform Cloud Provider"
+    },
+    "cli/vela_provider_delete_terraform-alibaba": {
+      "id": "cli/vela_provider_delete_terraform-alibaba",
+      "title": "vela provider delete terraform-alibaba",
+      "description": "Delete Terraform Cloud Provider terraform-alibaba"
+    },
+    "cli/vela_provider_delete_terraform-aws": {
+      "id": "cli/vela_provider_delete_terraform-aws",
+      "title": "vela provider delete terraform-aws",
+      "description": "Delete Terraform Cloud Provider terraform-aws"
+    },
+    "cli/vela_provider_delete_terraform-azure": {
+      "id": "cli/vela_provider_delete_terraform-azure",
+      "title": "vela provider delete terraform-azure",
+      "description": "Delete Terraform Cloud Provider terraform-azure"
+    },
+    "cli/vela_provider_delete_terraform-baidu": {
+      "id": "cli/vela_provider_delete_terraform-baidu",
+      "title": "vela provider delete terraform-baidu",
+      "description": "Delete Terraform Cloud Provider terraform-baidu"
+    },
+    "cli/vela_provider_delete_terraform-gcp": {
+      "id": "cli/vela_provider_delete_terraform-gcp",
+      "title": "vela provider delete terraform-gcp",
+      "description": "Delete Terraform Cloud Provider terraform-gcp"
+    },
+    "cli/vela_provider_delete_terraform-tencent": {
+      "id": "cli/vela_provider_delete_terraform-tencent",
+      "title": "vela provider delete terraform-tencent",
+      "description": "Delete Terraform Cloud Provider terraform-tencent"
+    },
+    "cli/vela_provider_delete_terraform-ucloud": {
+      "id": "cli/vela_provider_delete_terraform-ucloud",
+      "title": "vela provider delete terraform-ucloud",
+      "description": "Delete Terraform Cloud Provider terraform-ucloud"
+    },
+    "cli/vela_provider_list": {
+      "id": "cli/vela_provider_list",
+      "title": "vela provider list",
+      "description": "List Terraform Cloud Providers"
+    },
+    "cli/vela_ql": {
+      "id": "cli/vela_ql",
+      "title": "vela ql",
+      "description": "Show result of executing velaQL."
+    },
+    "cli/vela_ql_apply": {
+      "id": "cli/vela_ql_apply",
+      "title": "vela ql apply",
+      "description": "Create and store a VelaQL view"
+    },
+    "cli/vela_registry": {
+      "id": "cli/vela_registry",
+      "title": "vela registry",
+      "description": "Manage Registry"
+    },
+    "cli/vela_registry_config": {
+      "id": "cli/vela_registry_config",
+      "title": "vela registry config",
+      "description": "Configure (add if not exist) a registry, default is local (built-in capabilities)"
+    },
+    "cli/vela_registry_ls": {
+      "id": "cli/vela_registry_ls",
+      "title": "vela registry ls",
+      "description": "List all registry"
+    },
+    "cli/vela_registry_remove": {
+      "id": "cli/vela_registry_remove",
+      "title": "vela registry remove",
+      "description": "Remove specified registry"
+    },
+    "cli/vela_revision": {
+      "id": "cli/vela_revision",
+      "title": "vela revision",
+      "description": "Manage Application Revisions"
+    },
+    "cli/vela_revision_list": {
+      "id": "cli/vela_revision_list",
+      "title": "vela revision list",
+      "description": "list application revisions"
+    },
+    "cli/vela_show": {
+      "id": "cli/vela_show",
+      "title": "vela show",
+      "description": "Show the reference doc for a component, trait, policy or workflow."
+    },
+    "cli/vela_status": {
+      "id": "cli/vela_status",
+      "title": "vela status",
+      "description": "Show status of an application."
+    },
+    "cli/vela_system": {
+      "id": "cli/vela_system",
+      "title": "vela system",
+      "description": "Manage system."
+    },
+    "cli/vela_system_diagnose": {
+      "id": "cli/vela_system_diagnose",
+      "title": "vela system diagnose",
+      "description": "Diagnoses system problems."
+    },
+    "cli/vela_system_info": {
+      "id": "cli/vela_system_info",
+      "title": "vela system info",
+      "description": "Print the system deployment detail information in all namespaces with label app.kubernetes.io/name=vela-core."
+    },
+    "cli/vela_trait": {
+      "id": "cli/vela_trait",
+      "title": "vela trait",
+      "description": "List/get traits."
+    },
+    "cli/vela_trait_get": {
+      "id": "cli/vela_trait_get",
+      "title": "vela trait get",
+      "description": "get trait from registry"
+    },
+    "cli/vela_uischema": {
+      "id": "cli/vela_uischema",
+      "title": "vela uischema",
+      "description": "Manage UI schema for addons."
+    },
+    "cli/vela_uischema_apply": {
+      "id": "cli/vela_uischema_apply",
+      "title": "vela uischema apply",
+      "description": "apply"
+    },
+    "cli/vela_uninstall": {
+      "id": "cli/vela_uninstall",
+      "title": "vela uninstall",
+      "description": "Uninstalls KubeVela from a Kubernetes cluster"
+    },
+    "cli/vela_up": {
+      "id": "cli/vela_up",
+      "title": "vela up",
+      "description": "Deploy one application"
+    },
+    "cli/vela_version": {
+      "id": "cli/vela_version",
+      "title": "vela version",
+      "description": "Prints vela build version information"
+    },
+    "cli/vela_version_list": {
+      "id": "cli/vela_version_list",
+      "title": "vela version list",
+      "description": "List all available versions"
+    },
+    "cli/vela_workflow": {
+      "id": "cli/vela_workflow",
+      "title": "vela workflow",
+      "description": "Operate application delivery workflow."
+    },
+    "cli/vela_workflow_restart": {
+      "id": "cli/vela_workflow_restart",
+      "title": "vela workflow restart",
+      "description": "Restart an application workflow."
+    },
+    "cli/vela_workflow_resume": {
+      "id": "cli/vela_workflow_resume",
+      "title": "vela workflow resume",
+      "description": "Resume a suspend application workflow."
+    },
+    "cli/vela_workflow_rollback": {
+      "id": "cli/vela_workflow_rollback",
+      "title": "vela workflow rollback",
+      "description": "Rollback an application workflow to the latest revision."
+    },
+    "cli/vela_workflow_suspend": {
+      "id": "cli/vela_workflow_suspend",
+      "title": "vela workflow suspend",
+      "description": "Suspend an application workflow."
+    },
+    "cli/vela_workflow_terminate": {
+      "id": "cli/vela_workflow_terminate",
+      "title": "vela workflow terminate",
+      "description": "Terminate an application workflow."
+    },
+    "contributor/cli-ref-doc": {
+      "id": "contributor/cli-ref-doc",
+      "title": "Update Reference Docs",
+      "description": "This guide is an introduction of how to generate docs automatically from Golang scripts."
+    },
+    "contributor/code-contribute": {
+      "id": "contributor/code-contribute",
+      "title": "Code Contribution Guide",
+      "description": "You will learn the following things in the code contribution guide:"
+    },
+    "contributor/code-conventions": {
+      "id": "contributor/code-conventions",
+      "title": "Code Conventions",
+      "description": "In this section, you will find the code conventions for all kinds of code KubeVela project related. It's not necessary to learn all of them at once, but make sure you have read corresponding parts before you start to code."
+    },
+    "contributor/non-code-contribute": {
+      "id": "contributor/non-code-contribute",
+      "title": "Non-code Contribution Guide",
+      "description": "You can pick up any of the following ways you're interested to contribute."
+    },
+    "contributor/overview": {
+      "id": "contributor/overview",
+      "title": "Developer Overview",
+      "description": "The developer guide including two parts:"
+    },
+    "contributor/principle-of-test": {
+      "id": "contributor/principle-of-test",
+      "title": "Principle of Test",
+      "description": "Definition of Concept"
+    },
+    "contributor/release-process": {
+      "id": "contributor/release-process",
+      "title": "Release Process And Cadence",
+      "description": "KubeVela is being developed using the following process:"
+    },
+    "developers/cap-center": {
+      "id": "developers/cap-center",
+      "title": "Managing Capabilities",
+      "description": "In KubeVela, developers can install more capabilities (i.e. new component types and traits) from any GitHub repo that contains OAM definition files. We call these GitHub repos as Capability Centers."
+    },
+    "developers/check-logs": {
+      "id": "developers/check-logs",
+      "title": "Check Application Logs",
+      "description": "It will let you select the container to get logs from. If there is only one container it will select automatically."
+    },
+    "developers/check-ref-doc": {
+      "id": "developers/check-ref-doc",
+      "title": "The Reference Documentation Guide of Capabilities",
+      "description": "In this documentation, we will show how to check the detailed schema of a given capability (i.e. workload type or trait)."
+    },
+    "developers/config-app": {
+      "id": "developers/config-app",
+      "title": "Configuring data/env in Application",
+      "description": "vela provides a config command to manage config data."
+    },
+    "developers/config-enviroments": {
+      "id": "developers/config-enviroments",
+      "title": "Setting Up Deployment Environment",
+      "description": "A deployment environment is where you could configure the workspace, email for contact and domain for your applications globally."
+    },
+    "developers/exec-cmd": {
+      "id": "developers/exec-cmd",
+      "title": "Execute Commands in Container",
+      "description": "Run:"
+    },
+    "developers/extensions/set-autoscale": {
+      "id": "developers/extensions/set-autoscale",
+      "title": "Automatically scale workloads by resource utilization metrics and cron",
+      "description": "Prerequisite"
+    },
+    "developers/extensions/set-metrics": {
+      "id": "developers/extensions/set-metrics",
+      "title": "Monitoring Application",
+      "description": "If your application has exposed metrics, you can easily tell the platform how to collect the metrics data from your app with metrics capability."
+    },
+    "developers/extensions/set-rollout": {
+      "id": "developers/extensions/set-rollout",
+      "title": "Setting Rollout Strategy",
+      "description": "Note: rollout is one of the extension capabilities installed from cap center,"
+    },
+    "developers/extensions/set-route": {
+      "id": "developers/extensions/set-route",
+      "title": "Setting Routes",
+      "description": "The route section is used to configure the access to your app."
+    },
+    "developers/learn-appfile": {
+      "id": "developers/learn-appfile",
+      "title": "Learning Appfile",
+      "description": "A sample Appfile is as below:"
+    },
+    "developers/port-forward": {
+      "id": "developers/port-forward",
+      "title": "Port Forwarding",
+      "description": "Once your web services of the application deployed, you can access it locally via port-forward."
+    },
+    "developers/references/devex/cli": {
+      "id": "developers/references/devex/cli",
+      "title": "KubeVela CLI",
+      "description": "Auto-completion"
+    },
+    "developers/references/devex/faq": {
+      "id": "developers/references/devex/faq",
+      "title": "FAQ",
+      "description": "Common Questions"
+    },
+    "end-user/component-observability": {
+      "id": "end-user/component-observability",
+      "title": "Component Observability",
+      "description": "WIP"
+    },
+    "end-user/components/cloud-services/cloud-resource-scenarios": {
+      "id": "end-user/components/cloud-services/cloud-resource-scenarios",
+      "title": "Overview of Terraform",
+      "description": "This section introduces some scenarios of cloud resources management"
+    },
+    "end-user/components/cloud-services/cloud-resources-list": {
+      "id": "end-user/components/cloud-services/cloud-resources-list",
+      "title": "Supported Cloud Resource list",
+      "description": "| Orchestration Type |    Cloud Provider     |                                                    Cloud Resource                                                     |                                                                              Description                                                                              | Verified |"
+    },
+    "end-user/components/cloud-services/provision-an-RDS-instance-with-more-than-one-database": {
+      "id": "end-user/components/cloud-services/provision-an-RDS-instance-with-more-than-one-database",
+      "title": "Provision an RDS instance with more than one database",
+      "description": "In the guide Provision and Binding Cloud Resources and Provision a Database and Import a SQL File for initialization,"
+    },
+    "end-user/components/cloud-services/provision-and-consume-database": {
+      "id": "end-user/components/cloud-services/provision-and-consume-database",
+      "title": "Provision and Binding Database",
+      "description": "This tutorial will talk about how to provision and consume Alibaba Cloud RDS (and OSS) by Terraform."
+    },
+    "end-user/components/cloud-services/provision-and-initiate-database": {
+      "id": "end-user/components/cloud-services/provision-and-initiate-database",
+      "title": "Provision a Database and Import a SQL File for initialization",
+      "description": "This tutorial will talk about how to provision a relational database with SQL file imported, and bootstrap an"
+    },
+    "end-user/components/cloud-services/provision-cloud-resources-by-crossplane": {
+      "id": "end-user/components/cloud-services/provision-cloud-resources-by-crossplane",
+      "title": "Crossplane",
+      "description": "The guide Deploy Cloud Services shows how to provision cloud resources by Terraform in"
+    },
+    "end-user/components/cloud-services/provision-instance-and-database-separately": {
+      "id": "end-user/components/cloud-services/provision-instance-and-database-separately",
+      "title": "Provision Instance and Database Separately",
+      "description": "In the guide Provision and Binding Cloud Resources and Provision a Database and Import a SQL File for initialization,"
+    },
+    "end-user/components/cloud-services/secure-your-database-connection": {
+      "id": "end-user/components/cloud-services/secure-your-database-connection",
+      "title": "Secure your Database Connection",
+      "description": "In the guide Provision and Binding Cloud Resources and Provision a Database and Import a SQL File for initialization,"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-ack": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-ack",
+      "title": "Alibaba Cloud ACK",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-amqp": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-amqp",
+      "title": "Alibaba Cloud AMQP",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-ask": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-ask",
+      "title": "Alibaba Cloud ASK",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-deploy-website": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-deploy-website",
+      "title": "Alibaba Cloud DEPLOY-WEBSITE",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-dns": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-dns",
+      "title": "Alibaba Cloud DNS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-ecs": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-ecs",
+      "title": "Alibaba Cloud ECS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-eip": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-eip",
+      "title": "Alibaba Cloud EIP",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-eip-slb-ecs-rds": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-eip-slb-ecs-rds",
+      "title": "Alibaba Cloud EIP-SLB-ECS-RDS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-kms": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-kms",
+      "title": "Alibaba Cloud KMS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-kubernetes-networking": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-kubernetes-networking",
+      "title": "Alibaba Cloud KUBERNETES-NETWORKING",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-market-tensorflow": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-market-tensorflow",
+      "title": "Alibaba Cloud MARKET-TENSORFLOW",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-mns-queue": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-mns-queue",
+      "title": "Alibaba Cloud MNS-QUEUE",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-mns-topic": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-mns-topic",
+      "title": "Alibaba Cloud MNS-TOPIC",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-mongodb": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-mongodb",
+      "title": "Alibaba Cloud MONGODB",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-mongodb-multi": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-mongodb-multi",
+      "title": "Alibaba Cloud MONGODB-MULTI",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-mse": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-mse",
+      "title": "Alibaba Cloud MSE",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-nas": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-nas",
+      "title": "Alibaba Cloud NAS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-network-with-nat": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-network-with-nat",
+      "title": "Alibaba Cloud NETWORK-WITH-NAT",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-oss": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-oss",
+      "title": "Alibaba Cloud OSS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-oss-website": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-oss-website",
+      "title": "Alibaba Cloud OSS-WEBSITE",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-private-zone": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-private-zone",
+      "title": "Alibaba Cloud PRIVATE-ZONE",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-rabbitmq": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-rabbitmq",
+      "title": "Alibaba Cloud RABBITMQ",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-ram": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-ram",
+      "title": "Alibaba Cloud RAM",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-ram-fc": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-ram-fc",
+      "title": "Alibaba Cloud RAM-FC",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-rds": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-rds",
+      "title": "Alibaba Cloud RDS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-rds-preview": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-rds-preview",
+      "title": "Alibaba Cloud RDS-PREVIEW",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-redis": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-redis",
+      "title": "Alibaba Cloud REDIS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-remote-backend": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-remote-backend",
+      "title": "Alibaba Cloud REMOTE-BACKEND",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-rocketmq": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-rocketmq",
+      "title": "Alibaba Cloud ROCKETMQ",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-sae-application": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-sae-application",
+      "title": "Alibaba Cloud SAE-APPLICATION",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-sae-auto-config-application": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-sae-auto-config-application",
+      "title": "Alibaba Cloud SAE-AUTO-CONFIG-APPLICATION",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-sae-namespace": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-sae-namespace",
+      "title": "Alibaba Cloud SAE-NAMESPACE",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-security-group": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-security-group",
+      "title": "Alibaba Cloud SECURITY-GROUP",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-slb": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-slb",
+      "title": "Alibaba Cloud SLB",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-slb-acl": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-slb-acl",
+      "title": "Alibaba Cloud SLB-ACL",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-slb-listener": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-slb-listener",
+      "title": "Alibaba Cloud SLB-LISTENER",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-slb-rule": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-slb-rule",
+      "title": "Alibaba Cloud SLB-RULE",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-sls-project": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-sls-project",
+      "title": "Alibaba Cloud SLS-PROJECT",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-sls-store": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-sls-store",
+      "title": "Alibaba Cloud SLS-STORE",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-vpc": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-vpc",
+      "title": "Alibaba Cloud VPC",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-vpc-ecs-eip": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-vpc-ecs-eip",
+      "title": "Alibaba Cloud VPC-ECS-EIP",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-vpc-privatelink-connection": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-vpc-privatelink-connection",
+      "title": "Alibaba Cloud VPC-PRIVATELINK-CONNECTION",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-vpn-gateway": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-vpn-gateway",
+      "title": "Alibaba Cloud VPN-GATEWAY",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/alibaba-vswitch": {
+      "id": "end-user/components/cloud-services/terraform/alibaba-vswitch",
+      "title": "Alibaba Cloud VSWITCH",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-acm": {
+      "id": "end-user/components/cloud-services/terraform/aws-acm",
+      "title": "AWS ACM",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-alb": {
+      "id": "end-user/components/cloud-services/terraform/aws-alb",
+      "title": "AWS ALB",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-autoscaling": {
+      "id": "end-user/components/cloud-services/terraform/aws-autoscaling",
+      "title": "AWS AUTOSCALING",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-bridgecrew-read-only": {
+      "id": "end-user/components/cloud-services/terraform/aws-bridgecrew-read-only",
+      "title": "AWS BRIDGECREW-READ-ONLY",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-cis-alarms": {
+      "id": "end-user/components/cloud-services/terraform/aws-cis-alarms",
+      "title": "AWS CIS-ALARMS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-cloudfront": {
+      "id": "end-user/components/cloud-services/terraform/aws-cloudfront",
+      "title": "AWS CLOUDFRONT",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-cloudfront-s3-cdn": {
+      "id": "end-user/components/cloud-services/terraform/aws-cloudfront-s3-cdn",
+      "title": "AWS CLOUDFRONT-S3-CDN",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-cloudwatch-cis-alarms": {
+      "id": "end-user/components/cloud-services/terraform/aws-cloudwatch-cis-alarms",
+      "title": "AWS CLOUDWATCH-CIS-ALARMS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-cloudwatch-log-group": {
+      "id": "end-user/components/cloud-services/terraform/aws-cloudwatch-log-group",
+      "title": "AWS CLOUDWATCH-LOG-GROUP",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-cloudwatch-log-metric-filter": {
+      "id": "end-user/components/cloud-services/terraform/aws-cloudwatch-log-metric-filter",
+      "title": "AWS CLOUDWATCH-LOG-METRIC-FILTER",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-cloudwatch-metric-alarm": {
+      "id": "end-user/components/cloud-services/terraform/aws-cloudwatch-metric-alarm",
+      "title": "AWS CLOUDWATCH-METRIC-ALARM",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-cloudwatch-metric-alarms": {
+      "id": "end-user/components/cloud-services/terraform/aws-cloudwatch-metric-alarms",
+      "title": "AWS CLOUDWATCH-METRIC-ALARMS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-cloudwatch-metric-alarms-by-multiple-dimensions": {
+      "id": "end-user/components/cloud-services/terraform/aws-cloudwatch-metric-alarms-by-multiple-dimensions",
+      "title": "AWS CLOUDWATCH-METRIC-ALARMS-BY-MULTIPLE-DIMENSIONS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-config": {
+      "id": "end-user/components/cloud-services/terraform/aws-config",
+      "title": "AWS CONFIG",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-delegation-sets": {
+      "id": "end-user/components/cloud-services/terraform/aws-delegation-sets",
+      "title": "AWS DELEGATION-SETS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-dynamodb-table": {
+      "id": "end-user/components/cloud-services/terraform/aws-dynamodb-table",
+      "title": "AWS DYNAMODB-TABLE",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-ec2-instance": {
+      "id": "end-user/components/cloud-services/terraform/aws-ec2-instance",
+      "title": "AWS EC2-INSTANCE",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-ecs": {
+      "id": "end-user/components/cloud-services/terraform/aws-ecs",
+      "title": "AWS ECS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-ecs-container-definition": {
+      "id": "end-user/components/cloud-services/terraform/aws-ecs-container-definition",
+      "title": "AWS ECS-CONTAINER-DEFINITION",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-eks": {
+      "id": "end-user/components/cloud-services/terraform/aws-eks",
+      "title": "AWS EKS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-eks-cluster-autoscaler": {
+      "id": "end-user/components/cloud-services/terraform/aws-eks-cluster-autoscaler",
+      "title": "AWS EKS-CLUSTER-AUTOSCALER",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-eks-external-dns": {
+      "id": "end-user/components/cloud-services/terraform/aws-eks-external-dns",
+      "title": "AWS EKS-EXTERNAL-DNS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-eks-kube-state-metrics": {
+      "id": "end-user/components/cloud-services/terraform/aws-eks-kube-state-metrics",
+      "title": "AWS EKS-KUBE-STATE-METRICS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-eks-node-problem-detector": {
+      "id": "end-user/components/cloud-services/terraform/aws-eks-node-problem-detector",
+      "title": "AWS EKS-NODE-PROBLEM-DETECTOR",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-elasticache-redis": {
+      "id": "end-user/components/cloud-services/terraform/aws-elasticache-redis",
+      "title": "AWS ELASTICACHE-REDIS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-elb": {
+      "id": "end-user/components/cloud-services/terraform/aws-elb",
+      "title": "AWS ELB",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-emr": {
+      "id": "end-user/components/cloud-services/terraform/aws-emr",
+      "title": "AWS EMR",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-guardduty": {
+      "id": "end-user/components/cloud-services/terraform/aws-guardduty",
+      "title": "AWS GUARDDUTY",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-iam-account": {
+      "id": "end-user/components/cloud-services/terraform/aws-iam-account",
+      "title": "AWS IAM-ACCOUNT",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-iam-assumable-role": {
+      "id": "end-user/components/cloud-services/terraform/aws-iam-assumable-role",
+      "title": "AWS IAM-ASSUMABLE-ROLE",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-iam-assumable-role-with-oidc": {
+      "id": "end-user/components/cloud-services/terraform/aws-iam-assumable-role-with-oidc",
+      "title": "AWS IAM-ASSUMABLE-ROLE-WITH-OIDC",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-iam-assumable-role-with-saml": {
+      "id": "end-user/components/cloud-services/terraform/aws-iam-assumable-role-with-saml",
+      "title": "AWS IAM-ASSUMABLE-ROLE-WITH-SAML",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-iam-assumable-roles": {
+      "id": "end-user/components/cloud-services/terraform/aws-iam-assumable-roles",
+      "title": "AWS IAM-ASSUMABLE-ROLES",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-iam-assumable-roles-with-saml": {
+      "id": "end-user/components/cloud-services/terraform/aws-iam-assumable-roles-with-saml",
+      "title": "AWS IAM-ASSUMABLE-ROLES-WITH-SAML",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-iam-eks-role": {
+      "id": "end-user/components/cloud-services/terraform/aws-iam-eks-role",
+      "title": "AWS IAM-EKS-ROLE",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-iam-group-with-assumable-roles-policy": {
+      "id": "end-user/components/cloud-services/terraform/aws-iam-group-with-assumable-roles-policy",
+      "title": "AWS IAM-GROUP-WITH-ASSUMABLE-ROLES-POLICY",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-iam-group-with-policies": {
+      "id": "end-user/components/cloud-services/terraform/aws-iam-group-with-policies",
+      "title": "AWS IAM-GROUP-WITH-POLICIES",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-iam-nofile": {
+      "id": "end-user/components/cloud-services/terraform/aws-iam-nofile",
+      "title": "AWS IAM-NOFILE",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-iam-policy": {
+      "id": "end-user/components/cloud-services/terraform/aws-iam-policy",
+      "title": "AWS IAM-POLICY",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-iam-policy-document-aggregator": {
+      "id": "end-user/components/cloud-services/terraform/aws-iam-policy-document-aggregator",
+      "title": "AWS IAM-POLICY-DOCUMENT-AGGREGATOR",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-iam-read-only-policy": {
+      "id": "end-user/components/cloud-services/terraform/aws-iam-read-only-policy",
+      "title": "AWS IAM-READ-ONLY-POLICY",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-iam-role": {
+      "id": "end-user/components/cloud-services/terraform/aws-iam-role",
+      "title": "AWS IAM-ROLE",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-iam-s3-user": {
+      "id": "end-user/components/cloud-services/terraform/aws-iam-s3-user",
+      "title": "AWS IAM-S3-USER",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-iam-system-user": {
+      "id": "end-user/components/cloud-services/terraform/aws-iam-system-user",
+      "title": "AWS IAM-SYSTEM-USER",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-iam-user": {
+      "id": "end-user/components/cloud-services/terraform/aws-iam-user",
+      "title": "AWS IAM-USER",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-key-pair": {
+      "id": "end-user/components/cloud-services/terraform/aws-key-pair",
+      "title": "AWS KEY-PAIR",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-kms-key": {
+      "id": "end-user/components/cloud-services/terraform/aws-kms-key",
+      "title": "AWS KMS-KEY",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-lambda": {
+      "id": "end-user/components/cloud-services/terraform/aws-lambda",
+      "title": "AWS LAMBDA",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-lambda-do-it-all": {
+      "id": "end-user/components/cloud-services/terraform/aws-lambda-do-it-all",
+      "title": "AWS LAMBDA-DO-IT-ALL",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-lambda-with-inline-code": {
+      "id": "end-user/components/cloud-services/terraform/aws-lambda-with-inline-code",
+      "title": "AWS LAMBDA-WITH-INLINE-CODE",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-log-group": {
+      "id": "end-user/components/cloud-services/terraform/aws-log-group",
+      "title": "AWS LOG-GROUP",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-log-metric-filter": {
+      "id": "end-user/components/cloud-services/terraform/aws-log-metric-filter",
+      "title": "AWS LOG-METRIC-FILTER",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-metric-alarm": {
+      "id": "end-user/components/cloud-services/terraform/aws-metric-alarm",
+      "title": "AWS METRIC-ALARM",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-metric-alarms-by-multiple-dimensions": {
+      "id": "end-user/components/cloud-services/terraform/aws-metric-alarms-by-multiple-dimensions",
+      "title": "AWS METRIC-ALARMS-BY-MULTIPLE-DIMENSIONS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-mq": {
+      "id": "end-user/components/cloud-services/terraform/aws-mq",
+      "title": "AWS MQ",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-notify-slack": {
+      "id": "end-user/components/cloud-services/terraform/aws-notify-slack",
+      "title": "AWS NOTIFY-SLACK",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-rds": {
+      "id": "end-user/components/cloud-services/terraform/aws-rds",
+      "title": "AWS RDS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-rds-aurora": {
+      "id": "end-user/components/cloud-services/terraform/aws-rds-aurora",
+      "title": "AWS RDS-AURORA",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-records": {
+      "id": "end-user/components/cloud-services/terraform/aws-records",
+      "title": "AWS RECORDS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-route53-alias": {
+      "id": "end-user/components/cloud-services/terraform/aws-route53-alias",
+      "title": "AWS ROUTE53-ALIAS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-route53-cluster-hostname": {
+      "id": "end-user/components/cloud-services/terraform/aws-route53-cluster-hostname",
+      "title": "AWS ROUTE53-CLUSTER-HOSTNAME",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-route53-delegation-sets": {
+      "id": "end-user/components/cloud-services/terraform/aws-route53-delegation-sets",
+      "title": "AWS ROUTE53-DELEGATION-SETS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-route53-records": {
+      "id": "end-user/components/cloud-services/terraform/aws-route53-records",
+      "title": "AWS ROUTE53-RECORDS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-route53-zones": {
+      "id": "end-user/components/cloud-services/terraform/aws-route53-zones",
+      "title": "AWS ROUTE53-ZONES",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-s3": {
+      "id": "end-user/components/cloud-services/terraform/aws-s3",
+      "title": "AWS S3",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-s3-log-storage": {
+      "id": "end-user/components/cloud-services/terraform/aws-s3-log-storage",
+      "title": "AWS S3-LOG-STORAGE",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-secretsmanager-for-rollbar-access-tokens": {
+      "id": "end-user/components/cloud-services/terraform/aws-secretsmanager-for-rollbar-access-tokens",
+      "title": "AWS SECRETSMANAGER-FOR-ROLLBAR-ACCESS-TOKENS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-security-group": {
+      "id": "end-user/components/cloud-services/terraform/aws-security-group",
+      "title": "AWS SECURITY-GROUP",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-security-hub": {
+      "id": "end-user/components/cloud-services/terraform/aws-security-hub",
+      "title": "AWS SECURITY-HUB",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-sns-topic": {
+      "id": "end-user/components/cloud-services/terraform/aws-sns-topic",
+      "title": "AWS SNS-TOPIC",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-sqs": {
+      "id": "end-user/components/cloud-services/terraform/aws-sqs",
+      "title": "AWS SQS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-ssm-parameter-store": {
+      "id": "end-user/components/cloud-services/terraform/aws-ssm-parameter-store",
+      "title": "AWS SSM-PARAMETER-STORE",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-subnet": {
+      "id": "end-user/components/cloud-services/terraform/aws-subnet",
+      "title": "AWS SUBNET",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-utils": {
+      "id": "end-user/components/cloud-services/terraform/aws-utils",
+      "title": "AWS UTILS",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-vpc": {
+      "id": "end-user/components/cloud-services/terraform/aws-vpc",
+      "title": "AWS VPC",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/aws-zones": {
+      "id": "end-user/components/cloud-services/terraform/aws-zones",
+      "title": "AWS ZONES",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/azure-database-mariadb": {
+      "id": "end-user/components/cloud-services/terraform/azure-database-mariadb",
+      "title": "Azure DATABASE-MARIADB",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/azure-resource-group": {
+      "id": "end-user/components/cloud-services/terraform/azure-resource-group",
+      "title": "Azure RESOURCE-GROUP",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/azure-storage-account": {
+      "id": "end-user/components/cloud-services/terraform/azure-storage-account",
+      "title": "Azure STORAGE-ACCOUNT",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/azure-subnet": {
+      "id": "end-user/components/cloud-services/terraform/azure-subnet",
+      "title": "Azure SUBNET",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/azure-virtual-network": {
+      "id": "end-user/components/cloud-services/terraform/azure-virtual-network",
+      "title": "Azure VIRTUAL-NETWORK",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/baidu-vpc": {
+      "id": "end-user/components/cloud-services/terraform/baidu-vpc",
+      "title": "Baidu-Vpc",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/deploy-website": {
+      "id": "end-user/components/cloud-services/terraform/deploy-website",
+      "title": "Deploy-Website",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/elastic-ec-deployment": {
+      "id": "end-user/components/cloud-services/terraform/elastic-ec-deployment",
+      "title": "Elastic Cloud EC Deployment",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-appengine": {
+      "id": "end-user/components/cloud-services/terraform/gcp-appengine",
+      "title": "Gcp-Appengine",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-audit-log": {
+      "id": "end-user/components/cloud-services/terraform/gcp-audit-log",
+      "title": "Gcp-Audit-Log",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-backend-service": {
+      "id": "end-user/components/cloud-services/terraform/gcp-backend-service",
+      "title": "Gcp-Backend-Service",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-basic-vpc-module": {
+      "id": "end-user/components/cloud-services/terraform/gcp-basic-vpc-module",
+      "title": "Gcp-Basic-Vpc-Module",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-bastion": {
+      "id": "end-user/components/cloud-services/terraform/gcp-bastion",
+      "title": "Gcp-Bastion",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-bootstrap": {
+      "id": "end-user/components/cloud-services/terraform/gcp-bootstrap",
+      "title": "Gcp-Bootstrap",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-cloudfunction": {
+      "id": "end-user/components/cloud-services/terraform/gcp-cloudfunction",
+      "title": "Gcp-Cloudfunction",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-cloudsql": {
+      "id": "end-user/components/cloud-services/terraform/gcp-cloudsql",
+      "title": "Gcp-Cloudsql",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-cluster": {
+      "id": "end-user/components/cloud-services/terraform/gcp-cluster",
+      "title": "Gcp-Cluster",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-compute-firewall": {
+      "id": "end-user/components/cloud-services/terraform/gcp-compute-firewall",
+      "title": "Gcp-Compute-Firewall",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-compute-forwarding-rule": {
+      "id": "end-user/components/cloud-services/terraform/gcp-compute-forwarding-rule",
+      "title": "Gcp-Compute-Forwarding-Rule",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-compute-forwarding-rule-dcos": {
+      "id": "end-user/components/cloud-services/terraform/gcp-compute-forwarding-rule-dcos",
+      "title": "Gcp-Compute-Forwarding-Rule-Dcos",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-compute-forwarding-rule-masters": {
+      "id": "end-user/components/cloud-services/terraform/gcp-compute-forwarding-rule-masters",
+      "title": "Gcp-Compute-Forwarding-Rule-Masters",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-compute-forwarding-rule-public-agents": {
+      "id": "end-user/components/cloud-services/terraform/gcp-compute-forwarding-rule-public-agents",
+      "title": "Gcp-Compute-Forwarding-Rule-Public-Agents",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-config": {
+      "id": "end-user/components/cloud-services/terraform/gcp-config",
+      "title": "Gcp-Config",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-custom-role": {
+      "id": "end-user/components/cloud-services/terraform/gcp-custom-role",
+      "title": "Gcp-Custom-Role",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-dcos": {
+      "id": "end-user/components/cloud-services/terraform/gcp-dcos",
+      "title": "Gcp-Dcos",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-dns-module": {
+      "id": "end-user/components/cloud-services/terraform/gcp-dns-module",
+      "title": "Gcp-Dns-Module",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-elasticsearch": {
+      "id": "end-user/components/cloud-services/terraform/gcp-elasticsearch",
+      "title": "Gcp-Elasticsearch",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-environment-setup": {
+      "id": "end-user/components/cloud-services/terraform/gcp-environment-setup",
+      "title": "Gcp-Environment-Setup",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-firewall-rules": {
+      "id": "end-user/components/cloud-services/terraform/gcp-firewall-rules",
+      "title": "Gcp-Firewall-Rules",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-gci": {
+      "id": "end-user/components/cloud-services/terraform/gcp-gci",
+      "title": "Gcp-Gci",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-gcs": {
+      "id": "end-user/components/cloud-services/terraform/gcp-gcs",
+      "title": "Gcp-Gcs",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-gke-ecommerce": {
+      "id": "end-user/components/cloud-services/terraform/gcp-gke-ecommerce",
+      "title": "Gcp-Gke-Ecommerce",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-gke-regional": {
+      "id": "end-user/components/cloud-services/terraform/gcp-gke-regional",
+      "title": "Gcp-Gke-Regional",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-googlecomputeinstance": {
+      "id": "end-user/components/cloud-services/terraform/gcp-googlecomputeinstance",
+      "title": "Gcp-Googlecomputeinstance",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-hashicorp-suite": {
+      "id": "end-user/components/cloud-services/terraform/gcp-hashicorp-suite",
+      "title": "Gcp-Hashicorp-Suite",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-helmrepo": {
+      "id": "end-user/components/cloud-services/terraform/gcp-helmrepo",
+      "title": "Gcp-Helmrepo",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-infrastructure": {
+      "id": "end-user/components/cloud-services/terraform/gcp-infrastructure",
+      "title": "Gcp-Infrastructure",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-instance": {
+      "id": "end-user/components/cloud-services/terraform/gcp-instance",
+      "title": "Gcp-Instance",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-instance-module": {
+      "id": "end-user/components/cloud-services/terraform/gcp-instance-module",
+      "title": "Gcp-Instance-Module",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-kthw": {
+      "id": "end-user/components/cloud-services/terraform/gcp-kthw",
+      "title": "Gcp-Kthw",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-masters": {
+      "id": "end-user/components/cloud-services/terraform/gcp-masters",
+      "title": "Gcp-Masters",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-memorystore-redis": {
+      "id": "end-user/components/cloud-services/terraform/gcp-memorystore-redis",
+      "title": "Gcp-Memorystore-Redis",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-mq": {
+      "id": "end-user/components/cloud-services/terraform/gcp-mq",
+      "title": "Gcp-Mq",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-network": {
+      "id": "end-user/components/cloud-services/terraform/gcp-network",
+      "title": "Gcp-Network",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-network-peering": {
+      "id": "end-user/components/cloud-services/terraform/gcp-network-peering",
+      "title": "Gcp-Network-Peering",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-openwisp": {
+      "id": "end-user/components/cloud-services/terraform/gcp-openwisp",
+      "title": "Gcp-Openwisp",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-private-agents": {
+      "id": "end-user/components/cloud-services/terraform/gcp-private-agents",
+      "title": "Gcp-Private-Agents",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-public-agents": {
+      "id": "end-user/components/cloud-services/terraform/gcp-public-agents",
+      "title": "Gcp-Public-Agents",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-service": {
+      "id": "end-user/components/cloud-services/terraform/gcp-service",
+      "title": "Gcp-Service",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-service-account": {
+      "id": "end-user/components/cloud-services/terraform/gcp-service-account",
+      "title": "Gcp-Service-Account",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-sfabric": {
+      "id": "end-user/components/cloud-services/terraform/gcp-sfabric",
+      "title": "Gcp-Sfabric",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-statebucket": {
+      "id": "end-user/components/cloud-services/terraform/gcp-statebucket",
+      "title": "Gcp-Statebucket",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-staticip": {
+      "id": "end-user/components/cloud-services/terraform/gcp-staticip",
+      "title": "Gcp-Staticip",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-storage": {
+      "id": "end-user/components/cloud-services/terraform/gcp-storage",
+      "title": "Gcp-Storage",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-subnet": {
+      "id": "end-user/components/cloud-services/terraform/gcp-subnet",
+      "title": "Gcp-Subnet",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-tested-oses": {
+      "id": "end-user/components/cloud-services/terraform/gcp-tested-oses",
+      "title": "Gcp-Tested-Oses",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/gcp-vpc": {
+      "id": "end-user/components/cloud-services/terraform/gcp-vpc",
+      "title": "Gcp-Vpc",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/tencent-subnet": {
+      "id": "end-user/components/cloud-services/terraform/tencent-subnet",
+      "title": "Tencent-Subnet",
+      "description": "Description"
+    },
+    "end-user/components/cloud-services/terraform/tencent-vpc": {
+      "id": "end-user/components/cloud-services/terraform/tencent-vpc",
+      "title": "Tencent-Vpc",
+      "description": "Description"
+    },
+    "end-user/components/cue/task": {
+      "id": "end-user/components/cue/task",
+      "title": "Deploy Task or Cron Task",
+      "description": "This docs are migrated, please refer to the reference documents."
+    },
+    "end-user/components/cue/webservice": {
+      "id": "end-user/components/cue/webservice",
+      "title": "Deploy Container as Web Service",
+      "description": "Service-oriented components are components that support external access to services with the container as the core, and their functions cover the needs of most of he microservice scenarios."
+    },
+    "end-user/components/kustomize": {
+      "id": "end-user/components/kustomize",
+      "title": "Pull based Component",
+      "description": "This docs are migrated, please refer to the reference documents."
+    },
+    "end-user/components/more": {
+      "id": "end-user/components/more",
+      "title": "Needs More？",
+      "description": "KubeVela is programmable, it can be extended easily with definition. You have the following ways to discover and extend the platform."
+    },
+    "end-user/components/ref-objects": {
+      "id": "end-user/components/ref-objects",
+      "title": "Distribute Reference Objects",
+      "description": "This section requires you to know the basics about how to deploy multi-cluster application with policy and workflow."
+    },
+    "end-user/components/references": {
+      "id": "end-user/components/references",
+      "title": "Built-in Component Type",
+      "description": "This documentation will walk through all the built-in component types sorted alphabetically."
+    },
+    "end-user/debug/health": {
+      "id": "end-user/debug/health",
+      "title": "Aggregated Health Probe",
+      "description": "The HealthyScope allows you to define an aggregated health probe for all components in same application."
+    },
+    "end-user/gitops/fluxcd": {
+      "id": "end-user/gitops/fluxcd",
+      "title": "GitOps with FluxCD",
+      "description": "In this section, we will introduce how to use KubeVela to deliver in GitOps mode."
+    },
+    "end-user/initializer-end-user": {
+      "id": "end-user/initializer-end-user",
+      "title": "Environments",
+      "description": ""
+    },
+    "end-user/overview-end-user": {
+      "id": "end-user/overview-end-user",
+      "title": "Overview",
+      "description": "Here are some workitems on the roadmap"
+    },
+    "end-user/pipeline": {
+      "id": "end-user/pipeline",
+      "title": "Build CI/CD Pipeline",
+      "description": "TBD, Content Overview："
+    },
+    "end-user/policies/apply-once": {
+      "id": "end-user/policies/apply-once",
+      "title": "One-time Delivery(Working With Other Controllers)",
+      "description": "By default, the KubeVela controller will prevent configuration drift for applied resources by reconciling them routinely. This is useful if you want to keep your application always having the desired configuration to avoid some unintentional changes by external modifiers."
+    },
+    "end-user/policies/envbinding": {
+      "id": "end-user/policies/envbinding",
+      "title": "Multi-Environment",
+      "description": "This documentation will introduce how to use env-binding to automate multi-stage application rollout across multiple environments."
+    },
+    "end-user/policies/gc": {
+      "id": "end-user/policies/gc",
+      "title": "Garbage Collect",
+      "description": "By default, KubeVela Application will recycle outdated resources when new version is deployed and confirmed to be healthy. In some cases, you may want to have more customized control to the recycle of outdated resources, where you can leverage the garbage-collect policy."
+    },
+    "end-user/policies/health": {
+      "id": "end-user/policies/health",
+      "title": "Health Check",
+      "description": "This documentation will introduce how to use health policy to apply periodical"
+    },
+    "end-user/policies/references": {
+      "id": "end-user/policies/references",
+      "title": "Built-in Policy Type",
+      "description": "This documentation will walk through all the built-in policy types sorted alphabetically."
+    },
+    "end-user/policies/shared-resource": {
+      "id": "end-user/policies/shared-resource",
+      "title": "Shared Resource",
+      "description": "Background"
+    },
+    "end-user/quick-start-cli": {
+      "id": "end-user/quick-start-cli",
+      "title": "Deploy First Application",
+      "description": "Welcome to KubeVela! In this guide, we'll walk you through how to install KubeVela, and deploy your first simple application."
+    },
+    "end-user/rollout-scaler": {
+      "id": "end-user/rollout-scaler",
+      "title": "Rollout & Scaler",
+      "description": "WIP"
+    },
+    "end-user/traits/ingress": {
+      "id": "end-user/traits/ingress",
+      "title": "Gateway for Public Access",
+      "description": "The gateway trait exposes a component to public Internet via a valid domain."
+    },
+    "end-user/traits/more": {
+      "id": "end-user/traits/more",
+      "title": "Get More Traits",
+      "description": "* Refer to All Trait References for all other trait types."
+    },
+    "end-user/traits/references": {
+      "id": "end-user/traits/references",
+      "title": "Built-in Trait Type",
+      "description": "This documentation will walk through all the built-in trait types sorted alphabetically."
+    },
+    "end-user/traits/rollout": {
+      "id": "end-user/traits/rollout",
+      "title": "Canary Rollout",
+      "description": "In this section, we will introduce how to canary rollout a container service."
+    },
+    "end-user/traits/service-binding": {
+      "id": "end-user/traits/service-binding",
+      "title": "Binding Configuration and Secrets",
+      "description": "Service binding trait will bind data from Kubernetes Secret to the application container's ENV."
+    },
+    "end-user/traits/sidecar": {
+      "id": "end-user/traits/sidecar",
+      "title": "Attaching Sidecar Container",
+      "description": "The sidecar trait allows you to attach a sidecar container to the component."
+    },
+    "end-user/version-control": {
+      "id": "end-user/version-control",
+      "title": "Application Version Control",
+      "description": "Introduction"
+    },
+    "end-user/workflow/built-in-workflow-defs": {
+      "id": "end-user/workflow/built-in-workflow-defs",
+      "title": "Built-in WorkflowStep Type",
+      "description": "This documentation will walk through all the built-in workflow step types sorted alphabetically."
+    },
+    "end-user/workflow/component-dependency-parameter": {
+      "id": "end-user/workflow/component-dependency-parameter",
+      "title": "Component Orchestration",
+      "description": "This section will introduce the dependencies in components and how to pass data between components."
+    },
+    "end-user/workflow/dependency": {
+      "id": "end-user/workflow/dependency",
+      "title": "Dependency",
+      "description": "This section will introduce how to specify dependencies for workflow steps."
+    },
+    "end-user/workflow/if-condition": {
+      "id": "end-user/workflow/if-condition",
+      "title": "If Conditions",
+      "description": "This section introduces how to add if conditions to workflow steps."
+    },
+    "end-user/workflow/inputs-outputs": {
+      "id": "end-user/workflow/inputs-outputs",
+      "title": "Data Passing",
+      "description": "This section introduces how to use Inputs and Outputs to pass data between workflow steps in KubeVela."
+    },
+    "end-user/workflow/overview": {
+      "id": "end-user/workflow/overview",
+      "title": "Overview",
+      "description": "Workflows, as part of the Application, can glue together additional delivery processes and specify arbitrary delivery environments. In short, Workflow provides customized control flow and flexibility based on the original delivery model of Kubernetes(Apply). For example, Workflow can be used to implement complex operations such as pause, manual approval, if conditions, waiting status, data flow, multi-environment gray release, A/B testing, etc."
+    },
+    "end-user/workflow/step-group": {
+      "id": "end-user/workflow/step-group",
+      "title": "Sub Steps",
+      "description": "This section describes how to use sub steps in KubeVela."
+    },
+    "end-user/workflow/suspend": {
+      "id": "end-user/workflow/suspend",
+      "title": "Suspend and Resume",
+      "description": "This section introduces how to suspend and resume the workflow in KubeVela."
+    },
+    "end-user/workflow/timeout": {
+      "id": "end-user/workflow/timeout",
+      "title": "Timeout of Step",
+      "description": "Note: You need to upgrade to version 1.5 or above to use the timeout."
+    },
+    "end-user/workflow/webhook-notification": {
+      "id": "end-user/workflow/webhook-notification",
+      "title": "Notification",
+      "description": "This docs is converted to here."
+    },
+    "getting-started/architecture": {
+      "id": "getting-started/architecture",
+      "title": "Architecture",
+      "description": "The overall architecture of KubeVela is shown as below:"
+    },
+    "getting-started/core-concept": {
+      "id": "getting-started/core-concept",
+      "title": "Application",
+      "description": "KubeVela revolves around cloud-native application delivery scenarios. The application delivery model behind it is Open Application Model, or OAM for short."
+    },
+    "getting-started/definition": {
+      "id": "getting-started/definition",
+      "title": "Definition",
+      "description": "OAM Definitions are basic building blocks of the KubeVela platform. A definition encapsulates an arbitrarily complex automation as a lego style module, then safely shared, discovered and be used to compose an Application delivered by any KubeVela engine."
+    },
+    "getting-started/introduction": {
+      "id": "getting-started/introduction",
+      "title": "Introduction",
+      "description": "What is KubeVela?"
+    },
+    "getting-started/velaux-concept": {
+      "id": "getting-started/velaux-concept",
+      "title": "VelaUX Concept",
+      "description": "This doc has migrated to velaux addon introdution."
+    },
+    "how-to/cli/addon/addon": {
+      "id": "how-to/cli/addon/addon",
+      "title": "Addon management",
+      "description": "The docs are migrated to user guide."
+    },
+    "how-to/dashboard/application/bind-new-environment": {
+      "id": "how-to/dashboard/application/bind-new-environment",
+      "title": "Bind Application with Environment",
+      "description": "We can specify bind with one or more environments before deploy."
+    },
+    "how-to/dashboard/application/create-application": {
+      "id": "how-to/dashboard/application/create-application",
+      "title": "UI Console Operations",
+      "description": "lifecycle of an application by kubevela dashboard"
+    },
+    "how-to/dashboard/application/delete-application": {
+      "id": "how-to/dashboard/application/delete-application",
+      "title": "Delete Application",
+      "description": "delete an application by KubeVela dashboard"
+    },
+    "how-to/dashboard/application/deploy-application": {
+      "id": "how-to/dashboard/application/deploy-application",
+      "title": "Deploy Application",
+      "description": "deploy an application to environment by KubeVela dashboard"
+    },
+    "how-to/dashboard/application/get-application-endpoint": {
+      "id": "how-to/dashboard/application/get-application-endpoint",
+      "title": "Expose Application for Public Access",
+      "description": "View an application endpoints by KubeVela dashboard"
+    },
+    "how-to/dashboard/application/get-application-instance": {
+      "id": "how-to/dashboard/application/get-application-instance",
+      "title": "Check Application State",
+      "description": "View an application instances by KubeVela dashboard"
+    },
+    "how-to/dashboard/application/get-application-log": {
+      "id": "how-to/dashboard/application/get-application-log",
+      "title": "View Application Logs",
+      "description": "View an application log by KubeVela dashboard"
+    },
+    "how-to/dashboard/application/get-application-revision": {
+      "id": "how-to/dashboard/application/get-application-revision",
+      "title": "List Application Revision",
+      "description": "View an application revision by KubeVela dashboard"
+    },
+    "how-to/dashboard/application/recycle-environment": {
+      "id": "how-to/dashboard/application/recycle-environment",
+      "title": "Recycle Application Instance",
+      "description": "When you want to delete the application instance in some environment, you can click the Recycle button in that environment."
+    },
+    "how-to/dashboard/application/view-application-resource": {
+      "id": "how-to/dashboard/application/view-application-resource",
+      "title": "View Resources List Created",
+      "description": "If you want to learn the resources created by the applications, you can open the environment status page."
+    },
+    "how-to/dashboard/config/dex-connectors": {
+      "id": "how-to/dashboard/config/dex-connectors",
+      "title": "Dex Connectors Configuration",
+      "description": "Configure Dex Connectors"
+    },
+    "how-to/dashboard/config/helm-repo": {
+      "id": "how-to/dashboard/config/helm-repo",
+      "title": "Connect Helm Repository",
+      "description": "Configure a helm repository"
+    },
+    "how-to/dashboard/config/image-registry": {
+      "id": "how-to/dashboard/config/image-registry",
+      "title": "Connect Image Registry",
+      "description": "Configure an image registry"
+    },
+    "how-to/dashboard/target/overview": {
+      "id": "how-to/dashboard/target/overview",
+      "title": "Manage Clusters on UI Console",
+      "description": "This docs requires you to have velaux installed."
+    },
+    "how-to/dashboard/trait/overview": {
+      "id": "how-to/dashboard/trait/overview",
+      "title": "Manage Traits",
+      "description": "Manage traits for application"
+    },
+    "how-to/dashboard/trigger/overview": {
+      "id": "how-to/dashboard/trigger/overview",
+      "title": "Triggers",
+      "description": "Integrate with CI system by Triggers"
+    },
+    "how-to/dashboard/user/project": {
+      "id": "how-to/dashboard/user/project",
+      "title": "Project Management",
+      "description": "Project provides a logical separation of applications、environments and delivery targets, this is helpful when VelaUX is used by multiple teams. Project can provide the following features:"
+    },
+    "how-to/dashboard/user/rbac": {
+      "id": "how-to/dashboard/user/rbac",
+      "title": "VelaUX RBAC",
+      "description": "The RBAC feature enabled restriction of access to VelaUX resources. The UI and API could strict permission verification. We designed platform-scope roles and project-scope roles, Each role can be bound to a set of permission policies, and users can obtain corresponding permissions when they are bound to the role."
+    },
+    "how-to/dashboard/user/user": {
+      "id": "how-to/dashboard/user/user",
+      "title": "Overview",
+      "description": "Once VelaUX is installed, there's a built-in administrator user with full access to the system. It is recommended to use the admin user only for the initial configuration, then switch to another user or configure the SSO integration."
+    },
+    "how-to/dashboard/workflow/overview": {
+      "id": "how-to/dashboard/workflow/overview",
+      "title": "Manage Workflows",
+      "description": "Manager workflows for application"
+    },
+    "install": {
+      "id": "install",
+      "title": "Installation Overview",
+      "description": "Here are two installation methods available according to your environment:"
+    },
+    "installation/kubernetes": {
+      "id": "installation/kubernetes",
+      "title": "Install KubeVela on Kubernetes",
+      "description": ""
+    },
+    "installation/standalone": {
+      "id": "installation/standalone",
+      "title": "Standalone Installation",
+      "description": ""
+    },
+    "kubectlplugin": {
+      "id": "kubectlplugin",
+      "title": "Install kubectl plugin",
+      "description": ""
+    },
+    "platform-engineers/addon/addon-cue": {
+      "id": "platform-engineers/addon/addon-cue",
+      "title": "CUE based Addon Application",
+      "description": "Previous tutorial introduces the basic structure of an addon and illustrate that any Kubernetes operator to be installed of an addon should be defined in a KubeVela application. Document YAML application description file explains the way of using YAML define the addon application. If you use CUE to write application description file, the addon will be able to have these abilities:"
+    },
+    "platform-engineers/addon/addon-registry": {
+      "id": "platform-engineers/addon/addon-registry",
+      "title": "Build your Own Registry",
+      "description": "An addon registry can be used for discovering and distributing addons. Currently, KubeVela supports two kinds of registries:"
+    },
+    "platform-engineers/addon/addon-yaml": {
+      "id": "platform-engineers/addon/addon-yaml",
+      "title": "YAML based Addon Application",
+      "description": "Make Your Own Addon introduces the basic structure of an addon, and illustrate that any Kubernetes operator to be installed of an addon should be defined in a KubeVela application. This doc will guide you with all the details of writing the application description file with YAML."
+    },
+    "platform-engineers/addon/intro": {
+      "id": "platform-engineers/addon/intro",
+      "title": "Make Your Own Addon",
+      "description": "A KubeVela addon is a collection that can contain the following three types of files；"
+    },
+    "platform-engineers/addon/terraform": {
+      "id": "platform-engineers/addon/terraform",
+      "title": "Extend Terraform Addon",
+      "description": "Terraform Controller is the core controller to provision and manage"
+    },
+    "platform-engineers/advanced-install": {
+      "id": "platform-engineers/advanced-install",
+      "title": "Custom Installation/Upgrade",
+      "description": ""
+    },
+    "platform-engineers/auth/advance": {
+      "id": "platform-engineers/auth/advance",
+      "title": "Underlying Mechanism",
+      "description": "KubeVela introduces Authentication & Authorization for application delivery and management from v1.4. This article will deep dives in the underlying mechanism and demonstrates how it works."
+    },
+    "platform-engineers/auth/basic": {
+      "id": "platform-engineers/auth/basic",
+      "title": "Kubernetes RBAC",
+      "description": "In KubeVela v1.4, Authentication & Authorization mechanism is introduced. This allows applications to dispatch and manage resources using the identity of the application's creator/modifier. With this feature, it will be easy to limit the access of KubeVela users/applications and isolate their living spaces, which will make your KubeVela system safer."
+    },
+    "platform-engineers/auth/integration": {
+      "id": "platform-engineers/auth/integration",
+      "title": "Systems Integration",
+      "description": "KubeVela application natively supports impersonation even without the Authentication flag enabled. That means when the Authentication flag is disabled, you can manually set the identity to impersonate in the application's annotation fields. For example, the following guide will give an example on how to manually set the application to impersonate as a ServiceAccount."
+    },
+    "platform-engineers/cloneset": {
+      "id": "platform-engineers/cloneset",
+      "title": "Extend CRD Operator as Component Type",
+      "description": "Let's use OpenKruise as example of extend CRD as KubeVela Component."
+    },
+    "platform-engineers/cloud-services": {
+      "id": "platform-engineers/cloud-services",
+      "title": "Overview",
+      "description": "Cloud services are important components of your application, and KubeVela allows you to provision and consume them in a consistent experience."
+    },
+    "platform-engineers/components/component-terraform": {
+      "id": "platform-engineers/components/component-terraform",
+      "title": "Extend Cloud Resources",
+      "description": "To enable end users to provision and consume cloud resources,"
+    },
+    "platform-engineers/components/custom-component": {
+      "id": "platform-engineers/components/custom-component",
+      "title": "Component Definition",
+      "description": "In this section, we will introduce how to use CUE to customize components via ComponentDefinition. Make sure you've learned the basic knowledge about Definition Concept and how to manage definition."
+    },
+    "platform-engineers/crossplane": {
+      "id": "platform-engineers/crossplane",
+      "title": "Crossplane",
+      "description": "In this documentation, we will use Alibaba Cloud's RDS (Relational Database Service), and Alibaba Cloud's OSS (Object Storage System) as examples to show how to enable cloud services as part of the application deployment."
+    },
+    "platform-engineers/cue/advanced": {
+      "id": "platform-engineers/cue/advanced",
+      "title": "CUE advanced",
+      "description": "The docs has been migrated, please refer to Learning CUE in KubeVela sections for details."
+    },
+    "platform-engineers/cue/basic": {
+      "id": "platform-engineers/cue/basic",
+      "title": "CUE Basic",
+      "description": "In this section, we will explain more about how KubeVela use CUE to encapsulate and abstract a given capability in Kubernetes in detail."
+    },
+    "platform-engineers/cue/cross-namespace-resource": {
+      "id": "platform-engineers/cue/cross-namespace-resource",
+      "title": "Render Resource to Other Namespaces",
+      "description": "In this section, we will introduce how to use cue template create resources in different namespace with the application."
+    },
+    "platform-engineers/cue/definition-edit": {
+      "id": "platform-engineers/cue/definition-edit",
+      "title": "Manage Definition",
+      "description": "Before reading this part, please make sure you've learned the Definition Concept of KubeVela."
+    },
+    "platform-engineers/cue/patch-strategy": {
+      "id": "platform-engineers/cue/patch-strategy",
+      "title": "Patch strategy",
+      "description": "By default, KubeVela will merge patched values with CUE's merge. However, CUE cannot handle conflicting fields currently."
+    },
+    "platform-engineers/debug/debug": {
+      "id": "platform-engineers/debug/debug",
+      "title": "Debug in the environment",
+      "description": "This feature is available in KubeVela v1.4."
+    },
+    "platform-engineers/debug/dry-run": {
+      "id": "platform-engineers/debug/dry-run",
+      "title": "Dry Run for Debugging",
+      "description": "Dry run will help you to understand what are the real resources which will to be expanded and deployed"
+    },
+    "platform-engineers/definition-and-templates": {
+      "id": "platform-engineers/definition-and-templates",
+      "title": "Definition Objects",
+      "description": "This documentation has been merged into Definition Protocol."
+    },
+    "platform-engineers/keda": {
+      "id": "platform-engineers/keda",
+      "title": "KEDA as Autoscaling Trait",
+      "description": "Before continue, make sure you have learned about the concepts of Definition Objects and Defining Traits with CUE section."
+    },
+    "platform-engineers/kube/component": {
+      "id": "platform-engineers/kube/component",
+      "title": "How-to",
+      "description": "In this section, it will introduce how to use simple template to declare Kubernetes API resource into a component."
+    },
+    "platform-engineers/kube/trait": {
+      "id": "platform-engineers/kube/trait",
+      "title": "Attach Traits",
+      "description": "All traits in the KubeVela system works well with the simple template based Component."
+    },
+    "platform-engineers/oam/oam-model": {
+      "id": "platform-engineers/oam/oam-model",
+      "title": "Introduction",
+      "description": "This doc has been migrated, please refer to Application Concept."
+    },
+    "platform-engineers/oam/x-definition": {
+      "id": "platform-engineers/oam/x-definition",
+      "title": "OAM Definition Protocol",
+      "description": "KubeVela is fully programmable via CUE, while it leverage Kubernetes as control plane and align with the API in yaml."
+    },
+    "platform-engineers/openapi-v3-json-schema": {
+      "id": "platform-engineers/openapi-v3-json-schema",
+      "title": "Generating OpenAPI Schema",
+      "description": "For any capabilities installed via Definition Objects,"
+    },
+    "platform-engineers/openapi/overview": {
+      "id": "platform-engineers/openapi/overview",
+      "title": "VelaUX OpenAPI",
+      "description": "This section will introduce how to integrate VelaUX OpenAPI, please make sure you have enabled the velaux addon. Let's use port-forward to expose the endpoint for the following demo."
+    },
+    "platform-engineers/operations/observability": {
+      "id": "platform-engineers/operations/observability",
+      "title": "Automated Observability",
+      "description": "Observability is critical for infrastructures and applications. Without observability system, it is hard to identify what happens when system broke down. On contrary, a strong observabilty system can not only provide confidences for operators but can also help developers quickly locate the performance bottleneck or the weak points inside the whole system."
+    },
+    "platform-engineers/policy/custom-policy": {
+      "id": "platform-engineers/policy/custom-policy",
+      "title": "Policy Definition",
+      "description": "In this section we will introduce how to define a custom policy with CUE. Make sure you've learned the basic knowledge about Definition Concept and how to manage definition."
+    },
+    "platform-engineers/system-operation/bootstrap-parameters": {
+      "id": "platform-engineers/system-operation/bootstrap-parameters",
+      "title": "Bootstrap Parameters",
+      "description": "The introduction of bootstrap parameters in KubeVela controller are listed as below"
+    },
+    "platform-engineers/system-operation/enable-addon-offline": {
+      "id": "platform-engineers/system-operation/enable-addon-offline",
+      "title": "Air-gapped Installation for Addon",
+      "description": "If your environments don't have network access to https//github.com/kubevela/catalog, this guide will demonstrate how to install in the air-gapped environment."
+    },
+    "platform-engineers/system-operation/managing-clusters": {
+      "id": "platform-engineers/system-operation/managing-clusters",
+      "title": "Lifecycle of Managed Cluster",
+      "description": "This section will introduce the lifecycle of managed clusters."
+    },
+    "platform-engineers/system-operation/migration-from-old-version": {
+      "id": "platform-engineers/system-operation/migration-from-old-version",
+      "title": "Migrate from Old Versions",
+      "description": "This doc aims to provide a migration guide from old versions to the new ones without disturb the running business. However scenarios are different from each other, we strongly recommend you to test the migration with a simulation environment before real migration for your production."
+    },
+    "platform-engineers/system-operation/observability": {
+      "id": "platform-engineers/system-operation/observability",
+      "title": "Observability",
+      "description": "The old observability addons have been replaced by the new observability addon suites. You can refer to the new observability documentation for details."
+    },
+    "platform-engineers/system-operation/offline-installation": {
+      "id": "platform-engineers/system-operation/offline-installation",
+      "title": "Air-gapped Installation",
+      "description": "velad provides the air-gapped installation experience, it's now the default installation guide."
+    },
+    "platform-engineers/system-operation/performance-finetuning": {
+      "id": "platform-engineers/system-operation/performance-finetuning",
+      "title": "Performance Fine-tuning",
+      "description": "Recommended Configurations"
+    },
+    "platform-engineers/system-operation/system-info-diagnose": {
+      "id": "platform-engineers/system-operation/system-info-diagnose",
+      "title": "System Info and Diagnose",
+      "description": "Vela CLI provide a command to diagnose the system and show the system information."
+    },
+    "platform-engineers/system-operation/vela-cli-image": {
+      "id": "platform-engineers/system-operation/vela-cli-image",
+      "title": "Vela CLI Docker Image",
+      "description": "This topic describes how to run, version control, and configure the Vela CLI on Docker. For more information on how to use Docker, see Docker's documentation."
+    },
+    "platform-engineers/system-operation/velaql": {
+      "id": "platform-engineers/system-operation/velaql",
+      "title": "Query Resources",
+      "description": "Introduction"
+    },
+    "platform-engineers/system-operation/working-with-ocm": {
+      "id": "platform-engineers/system-operation/working-with-ocm",
+      "title": "Working with OCM",
+      "description": "Open Cluster Management (OCM) is a powerful multi-cluster tool which allows you to connect your managed clusters to the control plane, even if the managed cluster is not directly accessible from the control plane. It is especially useful when your managed clusters and your control plane locate in different VPCs."
+    },
+    "platform-engineers/traits/advanced": {
+      "id": "platform-engineers/traits/advanced",
+      "title": "Advanced Features",
+      "description": "It's migrated to the trait definition docs."
+    },
+    "platform-engineers/traits/customize-trait": {
+      "id": "platform-engineers/traits/customize-trait",
+      "title": "Trait Definition",
+      "description": "In this section we will introduce how to define a custom trait with CUE. Make sure you've learned the basic knowledge about Definition Concept and how to manage definition."
+    },
+    "platform-engineers/traits/patch-trait": {
+      "id": "platform-engineers/traits/patch-trait",
+      "title": "Patch in the Definitions",
+      "description": "When we are writing the definition, sometimes we need to patch to the corresponding component or traits. We can use the patch capability when you're writing trait definitions or workflow step definitions."
+    },
+    "platform-engineers/traits/status": {
+      "id": "platform-engineers/traits/status",
+      "title": "Define Health for Definition",
+      "description": "This documentation will explain how to achieve status write back by using CUE templates in definition objects."
+    },
+    "platform-engineers/workflow/cue-actions": {
+      "id": "platform-engineers/workflow/cue-actions",
+      "title": "Built-in Workflow Operations",
+      "description": "This documentation will introduce the CUE operations provided in vela/op stdlib package that can be used in each workflow step."
+    },
+    "platform-engineers/workflow/workflow": {
+      "id": "platform-engineers/workflow/workflow",
+      "title": "Workflow Step Definition",
+      "description": "Overview"
+    },
+    "platform-engineers/workflow/working-mechanism": {
+      "id": "platform-engineers/workflow/working-mechanism",
+      "title": "Workflow Working Mechanism",
+      "description": "This document will give a brief introduction to the core mechanisms of KubeVela Workflow."
+    },
+    "platform-engineers/x-def-version": {
+      "id": "platform-engineers/x-def-version",
+      "title": "Version Control for Definition",
+      "description": "When the capabilities(Component or Trait) changes, KubeVela will generate a definition revision automatically."
+    },
+    "quick-start": {
+      "id": "quick-start",
+      "title": "Deploy First Application",
+      "description": "Before starting, please confirm that you've installed KubeVela and enabled the VelaUX addon according to the installation guide."
+    },
+    "quick-start-appfile": {
+      "id": "quick-start-appfile",
+      "title": "Overview",
+      "description": "To achieve best user experience for your platform, we recommend platform builders to create simple and user friendly UI for end users instead of exposing full platform level details to them. Some common practices include building GUI console, adopting DSL, or creating a user friendly command line tool."
+    },
+    "README": {
+      "id": "README",
+      "title": "readme",
+      "description": "alt"
+    },
+    "reference/addons/ai": {
+      "id": "reference/addons/ai",
+      "title": "Machine Learning",
+      "description": "Machine learning addon is divided into model-training addon and model-serving addon. Run the following command to install the addon:"
+    },
+    "reference/addons/cert-manager": {
+      "id": "reference/addons/cert-manager",
+      "title": "cert-manager",
+      "description": "This addon is for cert-manager, which is managing the kubernetes certificates."
+    },
+    "reference/addons/chartmuseum": {
+      "id": "reference/addons/chartmuseum",
+      "title": "ChartMuseum",
+      "description": "ChartMuseum is an open-source Helm Chart Repository server written in Go (Golang), with support for cloud storage backends, including Google Cloud Storage, Amazon S3, Microsoft Azure Blob Storage, Alibaba Cloud OSS Storage, Openstack Object Storage, Oracle Cloud Infrastructure Object Storage, Baidu Cloud BOS Storage, Tencent Cloud Object Storage, Netease Cloud NOS Storage, DigitalOcean Spaces, Minio, and etcd."
+    },
+    "reference/addons/crossplane": {
+      "id": "reference/addons/crossplane",
+      "title": "Cloud Resources orchestrated by Crossplane",
+      "description": "Crossplane addon"
+    },
+    "reference/addons/dex": {
+      "id": "reference/addons/dex",
+      "title": "dex",
+      "description": "This addon provides dex login for VelaUX."
+    },
+    "reference/addons/flink-kubernetes-operator": {
+      "id": "reference/addons/flink-kubernetes-operator",
+      "title": "Flink-kubernetes-operator",
+      "description": "A Kubernetes operator for Apache Flink(https://github.com/apache/flink-kubernetes-operator), it allows users to manage Flink applications and their lifecycle through native k8s tooling like kubectl."
+    },
+    "reference/addons/fluxcd": {
+      "id": "reference/addons/fluxcd",
+      "title": "FluxCD",
+      "description": "This addon is built based FluxCD"
+    },
+    "reference/addons/kruise-rollout": {
+      "id": "reference/addons/kruise-rollout",
+      "title": "kruise-rollout",
+      "description": "Kruise Rollout addon provides canary release capabilities for Kubernetes Deployment, Statefulset and OpenKruise CloneSet."
+    },
+    "reference/addons/kubevela-io": {
+      "id": "reference/addons/kubevela-io",
+      "title": "KubeVela.io",
+      "description": "This addon is the document website, align with https//kubevela.net/ ."
+    },
+    "reference/addons/netlify": {
+      "id": "reference/addons/netlify",
+      "title": "netlify",
+      "description": "- Netlify is a SaaS platform that can serve website especially for frontend service, it provides free allowances that was pretty cool to be used for demo and test. We can create an addon which provides a netlify component type for frontend service."
+    },
+    "reference/addons/nginx-ingress-controller": {
+      "id": "reference/addons/nginx-ingress-controller",
+      "title": "Nginx Ingress Controller",
+      "description": "Nginx Ingress controller is an Ingress controller for Kubernetes using NGINX as a reverse proxy and load balancer."
+    },
+    "reference/addons/ocm-gateway-manager-addon": {
+      "id": "reference/addons/ocm-gateway-manager-addon",
+      "title": "OCM Cluster-Gateway Manager",
+      "description": "TL;DR: \"OCM Cluster-Gateway Manager\" addon installs an operator component"
+    },
+    "reference/addons/ocm-hub-control-plane": {
+      "id": "reference/addons/ocm-hub-control-plane",
+      "title": "OCM Cluster-Gateway Manager",
+      "description": "TL;DR: \"OCM Cluster-Gateway Manager\" addon installs an operator component"
+    },
+    "reference/addons/overview": {
+      "id": "reference/addons/overview",
+      "title": "Overview",
+      "description": "There's an community addon registry (https"
+    },
+    "reference/addons/pyroscope": {
+      "id": "reference/addons/pyroscope",
+      "title": "Pyroscope",
+      "description": "Pyroscope is an open source platform, consisting of server and agent. It allows the user to collect, store, and query the profiling data in a CPU and disk efficient way."
+    },
+    "reference/addons/rollout": {
+      "id": "reference/addons/rollout",
+      "title": "Rollout",
+      "description": "This section will introduce how to use Rollout Trait to perform a rolling update on Component."
+    },
+    "reference/addons/terraform": {
+      "id": "reference/addons/terraform",
+      "title": "Terraform",
+      "description": "To provision cloud resources, you can use terraform along with related cloud provider addons."
+    },
+    "reference/addons/traefik": {
+      "id": "reference/addons/traefik",
+      "title": "Traefik",
+      "description": "Traefik is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease. you can use this addon as a cluster gateway or a microservices gateway."
+    },
+    "reference/addons/vegeta": {
+      "id": "reference/addons/vegeta",
+      "title": "Vegeta",
+      "description": "Install"
+    },
+    "reference/addons/vela-prism": {
+      "id": "reference/addons/vela-prism",
+      "title": "Vela prism",
+      "description": "Install"
+    },
+    "reference/addons/velaux": {
+      "id": "reference/addons/velaux",
+      "title": "VelaUX",
+      "description": "VelaUX provides the UI console of KubeVela."
+    },
+    "reference/topology-rule": {
+      "id": "reference/topology-rule",
+      "title": "Resource Relationships",
+      "description": "Resource Relationships mainly specify the relationship between two types of resources. Its main function is to help KubeVela establish the topological relationship of the resources managed by a KubeVela application. For example, the system has a built-in relationship rule: The sub-resources under the Deployment  can only be ReplicaSet , and the child resource of ReplicaSet can only be Pod."
+    },
+    "reference/ui-schema": {
+      "id": "reference/ui-schema",
+      "title": "UX of Definition",
+      "description": "VelaUX uses the UI-Schema specification to customize UI elements of components, workflow steps, and operation and maintenance feature resources, in the case of variable input parameters, to achieve a more native UI experience."
+    },
+    "reference/user-improvement-plan": {
+      "id": "reference/user-improvement-plan",
+      "title": "User Improvement Plan",
+      "description": "Welcome to join the \"User Improvement Plan\"! To improve the KubeVela open source product, avoid bugs and improve the product quality, we need to collect some of your system and usage information."
+    },
+    "roadmap/2020-12-roadmap": {
+      "id": "roadmap/2020-12-roadmap",
+      "title": "Roadmap",
+      "description": "Date: 2020-10-01 to 2020-12-31"
+    },
+    "roadmap/2021-03-roadmap": {
+      "id": "roadmap/2021-03-roadmap",
+      "title": "Roadmap",
+      "description": "Date: 2021-01-01 to 2021-03-30"
+    },
+    "roadmap/2021-06-roadmap": {
+      "id": "roadmap/2021-06-roadmap",
+      "title": "Roadmap",
+      "description": "Date: 2021-04-01 to 2021-06-30"
+    },
+    "roadmap/2021-09-roadmap": {
+      "id": "roadmap/2021-09-roadmap",
+      "title": "Roadmap",
+      "description": "Date: 2021-07-01 to 2021-09-30"
+    },
+    "roadmap/2021-12-roadmap": {
+      "id": "roadmap/2021-12-roadmap",
+      "title": "Roadmap",
+      "description": "Date: 2021-10-01 to 2021-12-30"
+    },
+    "roadmap/2022-03-roadmap": {
+      "id": "roadmap/2022-03-roadmap",
+      "title": "Roadmap 2022.03",
+      "description": "Date: 2022-01-01 to 2022-03-31"
+    },
+    "roadmap/2022-06-roadmap": {
+      "id": "roadmap/2022-06-roadmap",
+      "title": "Roadmap 2022.06",
+      "description": "Date: 2022-04-01 to 2022-06-31"
+    },
+    "roadmap/2022-09-roadmap": {
+      "id": "roadmap/2022-09-roadmap",
+      "title": "Roadmap 2022.09",
+      "description": "Date: 2022-07-01 to 2022-09-31"
+    },
+    "roadmap/2022-12-roadmap": {
+      "id": "roadmap/2022-12-roadmap",
+      "title": "Roadmap 2022.12",
+      "description": "Date: 2022-10-01 to 2022-12-31"
+    },
+    "roadmap/README": {
+      "id": "roadmap/README",
+      "title": "Roadmap",
+      "description": "The goal of KubeVela is to make deploying and operating applications across today's hybrid, multi-cloud environments easier, faster and more reliable. We will make effort on the following aspects to make the goal achievable:"
+    },
+    "roadmap/template": {
+      "id": "roadmap/template",
+      "title": "Roadmap",
+      "description": "Date: 2021-01-01 to 2021-03-30"
+    },
+    "tutorials/access-application": {
+      "id": "tutorials/access-application",
+      "title": "Access Application",
+      "description": "After deploying the application, the next station is publishing your service."
+    },
+    "tutorials/cloud-shell": {
+      "id": "tutorials/cloud-shell",
+      "title": "Cloud Shell",
+      "description": "The cloud shell feature helps you to manage the application via CLI(vela、kubectl). such as:"
+    },
+    "tutorials/consume-cloud-services": {
+      "id": "tutorials/consume-cloud-services",
+      "title": "Deploy Cloud Services",
+      "description": "KubeVela efficiently and securely integrates different types of cloud resources in hybrid/multi-cloud environments."
+    },
+    "tutorials/custom-image-delivery": {
+      "id": "tutorials/custom-image-delivery",
+      "title": "Custom Image Delivery",
+      "description": "If the default webservice component type is not suitable for your team, and you want to get a more simple way to deploy your business application. This guide will help you. Before, you must have the platform manager's permission."
+    },
+    "tutorials/dry-run": {
+      "id": "tutorials/dry-run",
+      "title": "Dry Run",
+      "description": "The dry run is a very useful way to check the application configuration and the definitions. The dry run will render the application and print the output resources that check passed on the service side. If the definitions(component, trait) is invalid, the dry run will print the error message."
+    },
+    "tutorials/helm": {
+      "id": "tutorials/helm",
+      "title": "Deploy Helm Chart",
+      "description": "This section introduces how you deploy Helm Chart."
+    },
+    "tutorials/helm-multi-cluster": {
+      "id": "tutorials/helm-multi-cluster",
+      "title": "Multi Cluster Delivery",
+      "description": "This doc has been migrated to this blog."
+    },
+    "tutorials/helm-rollout": {
+      "id": "tutorials/helm-rollout",
+      "title": "Canary Rollout",
+      "description": "Before starting"
+    },
+    "tutorials/jenkins": {
+      "id": "tutorials/jenkins",
+      "title": "Jenkins CI",
+      "description": "Introduction"
+    },
+    "tutorials/k8s-object": {
+      "id": "tutorials/k8s-object",
+      "title": "Deploy Kubernetes Objects",
+      "description": "This section introduces that how you can deploy Kubernetes objects into multi environments and clusters."
+    },
+    "tutorials/k8s-object-rollout": {
+      "id": "tutorials/k8s-object-rollout",
+      "title": "Canary Rollout",
+      "description": "Before starting"
+    },
+    "tutorials/multi-env": {
+      "id": "tutorials/multi-env",
+      "title": "Multi Environment Delivery",
+      "description": "Environments represent your deployment targets logically (QA, Prod, etc). You can add the same Environment to as many Targets as you need."
+    },
+    "tutorials/scaler": {
+      "id": "tutorials/scaler",
+      "title": "Modify Replicas",
+      "description": "This article introduces how KubeVela adjusts the number of application copies."
+    },
+    "tutorials/sso": {
+      "id": "tutorials/sso",
+      "title": "SSO Login",
+      "description": "Description"
+    },
+    "tutorials/trigger": {
+      "id": "tutorials/trigger",
+      "title": "Harbor Image Registry",
+      "description": "Introduction"
+    },
+    "tutorials/webservice": {
+      "id": "tutorials/webservice",
+      "title": "Deploy Container Image",
+      "description": "Deploy the business application by kubevela"
+    },
+    "tutorials/workflows": {
+      "id": "tutorials/workflows",
+      "title": "Manage Workflow",
+      "description": "This article introduces the usage of Workflow and gives you a full picture of it."
+    }
+  }
+}

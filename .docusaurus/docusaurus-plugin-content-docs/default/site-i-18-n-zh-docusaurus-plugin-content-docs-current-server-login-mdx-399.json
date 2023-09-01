@@ -1,0 +1,28 @@
+{
+  "unversionedId": "server/login",
+  "id": "server/login",
+  "title": "1. 智慧会议管理平台",
+  "description": "",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/server/login.mdx",
+  "sourceDirName": "server",
+  "slug": "/server/login",
+  "permalink": "/docs/server/login",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "1. 智慧会议管理平台"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "广东保伦电子股份有限公司",
+    "permalink": "/docs/getting-started/test"
+  },
+  "next": {
+    "title": "1.会议模式",
+    "permalink": "/docs/client/meetingmode"
+  }
+}

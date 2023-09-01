@@ -1,0 +1,19 @@
+{
+  "unversionedId": "case-studies/initialize-env",
+  "id": "version-v1.5/case-studies/initialize-env",
+  "title": "Initialize/Destroy Environment",
+  "description": "This section will introduce what is environment and how to initialize and destroy an environment with KubeVela easily.",
+  "source": "@site/versioned_docs/version-v1.5/case-studies/initialize-env.md",
+  "sourceDirName": "case-studies",
+  "slug": "/case-studies/initialize-env",
+  "permalink": "/docs/case-studies/initialize-env",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Initialize/Destroy Environment"
+  }
+}

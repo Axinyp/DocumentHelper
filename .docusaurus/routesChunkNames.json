@@ -1,0 +1,121 @@
+{
+  "/__docusaurus/debug-a48": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-2-fd-b7c"
+    }
+  },
+  "/__docusaurus/debug/config-008": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-2-fd-b7c"
+    }
+  },
+  "/__docusaurus/debug/content-110": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-2-fd-b7c"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3fb": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-2-fd-b7c"
+    }
+  },
+  "/__docusaurus/debug/metadata-c14": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-2-fd-b7c"
+    }
+  },
+  "/__docusaurus/debug/registry-f7f": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-2-fd-b7c"
+    }
+  },
+  "/__docusaurus/debug/routes-2df": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-2-fd-b7c"
+    }
+  },
+  "/search-605": {
+    "__comp": "__comp---theme-search-page-1-a-4-d6f",
+    "__context": {
+      "plugin": "plugin---search-9-d-5-3e9"
+    }
+  },
+  "/docs-f91": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docs-07-f-651"
+    },
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/client/annotation-bfc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-client-annotation-93-b-d1e"
+  },
+  "/docs/client/appmarket-9f1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-client-appmarket-843-9e6"
+  },
+  "/docs/client/filepreviewer-5cf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-client-filepreviewera-9-c-7ba"
+  },
+  "/docs/client/meetingmode-237": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-client-meetingmode-8-dc-836"
+  },
+  "/docs/client/miracast-cc0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-client-miracast-2-ba-a3b"
+  },
+  "/docs/client/nfc-f4b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-client-nfcaef-98b"
+  },
+  "/docs/client/setting-07e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-client-settingbaa-054"
+  },
+  "/docs/client/singlemode-4cc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-client-singlemodee-3-c-3bb"
+  },
+  "/docs/client/tool-76a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-client-toolf-20-23b"
+  },
+  "/docs/client/troubleshooting-4d6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-client-troubleshooting-1-d-5-e15"
+  },
+  "/docs/client/voiceassistance-58b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-client-voiceassistancebb-1-f8f"
+  },
+  "/docs/client/whiteboard-e11": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-client-whiteboardbe-5-7e2"
+  },
+  "/docs/getting-started/test-8aa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-test-5-ff-8bb"
+  },
+  "/docs/server/login-0b3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-server-login-399-1d1"
+  },
+  "/-ce3": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---ab-7-4b8"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

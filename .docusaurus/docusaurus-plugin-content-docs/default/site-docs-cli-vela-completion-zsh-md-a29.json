@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_completion_zsh",
+  "id": "cli/vela_completion_zsh",
+  "title": "vela completion zsh",
+  "description": "generate autocompletions script for zsh",
+  "source": "@site/docs/cli/vela_completion_zsh.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_completion_zsh",
+  "permalink": "/docs/cli/vela_completion_zsh",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela completion zsh"
+  }
+}

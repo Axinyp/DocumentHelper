@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/workflow/dependency",
+  "id": "version-v1.4/end-user/workflow/dependency",
+  "title": "Dependency",
+  "description": "This section will introduce how to specify dependencies for workflow steps.",
+  "source": "@site/versioned_docs/version-v1.4/end-user/workflow/dependency.md",
+  "sourceDirName": "end-user/workflow",
+  "slug": "/end-user/workflow/dependency",
+  "permalink": "/docs/v1.4/end-user/workflow/dependency",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Dependency"
+  }
+}

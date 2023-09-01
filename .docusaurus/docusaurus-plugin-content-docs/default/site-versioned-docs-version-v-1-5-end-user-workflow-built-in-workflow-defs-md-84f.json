@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/workflow/built-in-workflow-defs",
+  "id": "version-v1.5/end-user/workflow/built-in-workflow-defs",
+  "title": "Built-in WorkflowStep Type",
+  "description": "This documentation will walk through all the built-in workflow step types sorted alphabetically.",
+  "source": "@site/versioned_docs/version-v1.5/end-user/workflow/built-in-workflow-defs.md",
+  "sourceDirName": "end-user/workflow",
+  "slug": "/end-user/workflow/built-in-workflow-defs",
+  "permalink": "/docs/end-user/workflow/built-in-workflow-defs",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Built-in WorkflowStep Type"
+  }
+}

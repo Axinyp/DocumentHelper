@@ -1,0 +1,20 @@
+{
+  "unversionedId": "getting-started/introduction",
+  "id": "version-v1.5/getting-started/introduction",
+  "title": "Introduction",
+  "description": "What is KubeVela?",
+  "source": "@site/versioned_docs/version-v1.5/getting-started/introduction.md",
+  "sourceDirName": "getting-started",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Introduction",
+    "slug": "/"
+  }
+}

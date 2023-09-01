@@ -1,0 +1,50 @@
+{
+  "permalink": "/blog/2021/10/08/blog-1.1",
+  "editUrl": "https://github.com/kubevela/kubevela.io/tree/main/blog/2021-10-08-blog-1.1.md",
+  "source": "@site/blog/2021-10-08-blog-1.1.md",
+  "title": "KubeVela Releases 1.1, Reaching New Peaks in Cloud-Native Continuous Delivery",
+  "description": "",
+  "date": "2021-10-08T00:00:00.000Z",
+  "formattedDate": "October 8, 2021",
+  "tags": [
+    {
+      "label": "DevOps",
+      "permalink": "/blog/tags/dev-ops"
+    },
+    {
+      "label": "release-note",
+      "permalink": "/blog/tags/release-note"
+    }
+  ],
+  "readingTime": 6.16,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "KubeVela Maintainers",
+      "title": "KubeVela Team",
+      "url": "https://github.com/kubevela/kubevela",
+      "imageURL": "https://kubevela.io/img/logo.svg"
+    }
+  ],
+  "frontMatter": {
+    "title": "KubeVela Releases 1.1, Reaching New Peaks in Cloud-Native Continuous Delivery",
+    "author": "KubeVela Maintainers",
+    "author_title": "KubeVela Team",
+    "author_url": "https://github.com/kubevela/kubevela",
+    "author_image_url": "https://kubevela.io/img/logo.svg",
+    "tags": [
+      "DevOps",
+      "release-note"
+    ],
+    "description": "",
+    "hide_table_of_contents": false
+  },
+  "prevItem": {
+    "title": "Using GitOps + KubeVela for Application Continuous Delivery",
+    "permalink": "/blog/2021/10/10/kubevela-gitops"
+  },
+  "nextItem": {
+    "title": "Using Jenkins + KubeVela for Application Continuous Delivery",
+    "permalink": "/blog/2021/09/02/kubevela-jenkins-cicd"
+  }
+}

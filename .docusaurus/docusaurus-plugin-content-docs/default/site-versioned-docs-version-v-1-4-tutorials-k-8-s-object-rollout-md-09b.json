@@ -1,0 +1,19 @@
+{
+  "unversionedId": "tutorials/k8s-object-rollout",
+  "id": "version-v1.4/tutorials/k8s-object-rollout",
+  "title": "Canary Rollout",
+  "description": "Before starting",
+  "source": "@site/versioned_docs/version-v1.4/tutorials/k8s-object-rollout.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/k8s-object-rollout",
+  "permalink": "/docs/v1.4/tutorials/k8s-object-rollout",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Canary Rollout"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-eks-cluster-autoscaler",
+  "id": "end-user/components/cloud-services/terraform/aws-eks-cluster-autoscaler",
+  "title": "AWS EKS-CLUSTER-AUTOSCALER",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-eks-cluster-autoscaler.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-eks-cluster-autoscaler",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-eks-cluster-autoscaler",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS EKS-CLUSTER-AUTOSCALER"
+  }
+}

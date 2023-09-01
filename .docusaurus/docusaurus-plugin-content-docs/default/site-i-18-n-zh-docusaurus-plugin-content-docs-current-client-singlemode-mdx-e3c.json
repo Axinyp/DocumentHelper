@@ -1,0 +1,28 @@
+{
+  "unversionedId": "client/singlemode",
+  "id": "client/singlemode",
+  "title": "7.单机模式",
+  "description": "",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/singlemode.mdx",
+  "sourceDirName": "client",
+  "slug": "/client/singlemode",
+  "permalink": "/docs/client/singlemode",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "7.单机模式"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "6.设置",
+    "permalink": "/docs/client/setting"
+  },
+  "next": {
+    "title": "8.语音助手",
+    "permalink": "/docs/client/voiceassistance"
+  }
+}

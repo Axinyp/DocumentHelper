@@ -1,0 +1,19 @@
+{
+  "unversionedId": "roadmap/2022-06-roadmap",
+  "id": "roadmap/2022-06-roadmap",
+  "title": "Roadmap 2022.06",
+  "description": "Date: 2022-04-01 to 2022-06-31",
+  "source": "@site/docs/roadmap/2022-06-roadmap.md",
+  "sourceDirName": "roadmap",
+  "slug": "/roadmap/2022-06-roadmap",
+  "permalink": "/docs/roadmap/2022-06-roadmap",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Roadmap 2022.06"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_auth_list-privileges",
+  "id": "cli/vela_auth_list-privileges",
+  "title": "vela auth list-privileges",
+  "description": "List privileges for user/group/serviceaccount",
+  "source": "@site/docs/cli/vela_auth_list-privileges.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_auth_list-privileges",
+  "permalink": "/docs/cli/vela_auth_list-privileges",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela auth list-privileges"
+  }
+}

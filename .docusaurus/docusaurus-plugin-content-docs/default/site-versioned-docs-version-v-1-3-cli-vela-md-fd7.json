@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela",
+  "id": "version-v1.3/cli/vela",
+  "title": "CLI Commands",
+  "description": "Getting Started",
+  "source": "@site/versioned_docs/version-v1.3/cli/vela.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela",
+  "permalink": "/docs/v1.3/cli/vela",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "CLI Commands"
+  }
+}

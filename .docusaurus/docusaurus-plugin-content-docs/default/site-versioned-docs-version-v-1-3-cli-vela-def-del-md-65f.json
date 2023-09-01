@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_def_del",
+  "id": "version-v1.3/cli/vela_def_del",
+  "title": "vela def del",
+  "description": "Delete X-Definition.",
+  "source": "@site/versioned_docs/version-v1.3/cli/vela_def_del.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_def_del",
+  "permalink": "/docs/v1.3/cli/vela_def_del",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela def del"
+  }
+}

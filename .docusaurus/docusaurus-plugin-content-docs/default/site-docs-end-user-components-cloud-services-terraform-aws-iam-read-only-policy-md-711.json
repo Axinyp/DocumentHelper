@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-iam-read-only-policy",
+  "id": "end-user/components/cloud-services/terraform/aws-iam-read-only-policy",
+  "title": "AWS IAM-READ-ONLY-POLICY",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-iam-read-only-policy.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-iam-read-only-policy",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-iam-read-only-policy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS IAM-READ-ONLY-POLICY"
+  }
+}

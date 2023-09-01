@@ -1,0 +1,51 @@
+{
+  "permalink": "/blog/2021/10/10/kubevela-gitops",
+  "editUrl": "https://github.com/kubevela/kubevela.io/tree/main/blog/2021-10-10-kubevela-gitops.md",
+  "source": "@site/blog/2021-10-10-kubevela-gitops.md",
+  "title": "Using GitOps + KubeVela for Application Continuous Delivery",
+  "description": "",
+  "date": "2021-10-10T00:00:00.000Z",
+  "formattedDate": "October 10, 2021",
+  "tags": [
+    {
+      "label": "KubeVela",
+      "permalink": "/blog/tags/kube-vela"
+    },
+    {
+      "label": "use-case",
+      "permalink": "/blog/tags/use-case"
+    }
+  ],
+  "readingTime": 12.375,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Tianxin Dong",
+      "title": "KubeVela Team",
+      "url": "https://github.com/kubevela/kubevela",
+      "imageURL": "https://kubevela.io/img/logo.svg"
+    }
+  ],
+  "frontMatter": {
+    "title": "Using GitOps + KubeVela for Application Continuous Delivery",
+    "author": "Tianxin Dong",
+    "author_title": "KubeVela Team",
+    "author_url": "https://github.com/kubevela/kubevela",
+    "author_image_url": "https://kubevela.io/img/logo.svg",
+    "tags": [
+      "KubeVela",
+      "use-case"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/kubevela/kubevela.io/main/docs/resources/KubeVela-03.png",
+    "hide_table_of_contents": false
+  },
+  "prevItem": {
+    "title": "KubeVela v1.2 - Focused on Developer Experience, Simplified Multi-Cluster Application Delivery",
+    "permalink": "/blog/2022/01/27/blog-1.2"
+  },
+  "nextItem": {
+    "title": "KubeVela Releases 1.1, Reaching New Peaks in Cloud-Native Continuous Delivery",
+    "permalink": "/blog/2021/10/08/blog-1.1"
+  }
+}

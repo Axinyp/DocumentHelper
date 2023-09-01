@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/cue/basic",
+  "id": "platform-engineers/cue/basic",
+  "title": "CUE Basic",
+  "description": "In this section, we will explain more about how KubeVela use CUE to encapsulate and abstract a given capability in Kubernetes in detail.",
+  "source": "@site/docs/platform-engineers/cue/basic.md",
+  "sourceDirName": "platform-engineers/cue",
+  "slug": "/platform-engineers/cue/basic",
+  "permalink": "/docs/platform-engineers/cue/basic",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "CUE Basic"
+  }
+}

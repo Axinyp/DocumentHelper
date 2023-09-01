@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_trait_get",
+  "id": "cli/vela_trait_get",
+  "title": "vela trait get",
+  "description": "get trait from registry",
+  "source": "@site/docs/cli/vela_trait_get.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_trait_get",
+  "permalink": "/docs/cli/vela_trait_get",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela trait get"
+  }
+}

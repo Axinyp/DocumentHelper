@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/policies/gc",
+  "id": "end-user/policies/gc",
+  "title": "Garbage Collect",
+  "description": "By default, KubeVela Application will recycle outdated resources when new version is deployed and confirmed to be healthy. In some cases, you may want to have more customized control to the recycle of outdated resources, where you can leverage the garbage-collect policy.",
+  "source": "@site/docs/end-user/policies/gc.md",
+  "sourceDirName": "end-user/policies",
+  "slug": "/end-user/policies/gc",
+  "permalink": "/docs/end-user/policies/gc",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Garbage Collect"
+  }
+}

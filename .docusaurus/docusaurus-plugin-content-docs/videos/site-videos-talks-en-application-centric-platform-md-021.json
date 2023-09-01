@@ -1,0 +1,28 @@
+{
+  "unversionedId": "talks/en/application-centric-platform",
+  "id": "talks/en/application-centric-platform",
+  "title": "Building an Application-centric Kubernetes Platform for Enterprise Scale",
+  "description": "Over the past several years, Intuit has migrated to Kubernetes running in the public cloud and now has over 1,700 applications and services running on over 270 clusters. Intuit's cloud-native platform has accelerated the development velocity of Intuit's 5,000+ developers while improving performance and reliability and reducing operational overhead.",
+  "source": "@site/videos/talks/en/application-centric-platform.md",
+  "sourceDirName": "talks/en",
+  "slug": "/talks/en/application-centric-platform",
+  "permalink": "/videos/talks/en/application-centric-platform",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Building an Application-centric Kubernetes Platform for Enterprise Scale"
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "CNCF Minutes from Saiyam Pathak: KubeVela - Walkthrough",
+    "permalink": "/videos/talks/en/saiyam-cncf-minutes"
+  },
+  "next": {
+    "title": "Combining Argo CD (GitOps), Crossplane (Control Plane), And KubeVela (OAM)",
+    "permalink": "/videos/talks/en/devops-toolkit-2"
+  }
+}

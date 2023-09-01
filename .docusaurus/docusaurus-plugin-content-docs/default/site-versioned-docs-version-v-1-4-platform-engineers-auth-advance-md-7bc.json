@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/auth/advance",
+  "id": "version-v1.4/platform-engineers/auth/advance",
+  "title": "Underlying Mechanism",
+  "description": "KubeVela introduces Authentication & Authorization for application delivery and management from v1.4. This article will deep dives in the underlying mechanism and demonstrates how it works.",
+  "source": "@site/versioned_docs/version-v1.4/platform-engineers/auth/advance.md",
+  "sourceDirName": "platform-engineers/auth",
+  "slug": "/platform-engineers/auth/advance",
+  "permalink": "/docs/v1.4/platform-engineers/auth/advance",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Underlying Mechanism"
+  }
+}

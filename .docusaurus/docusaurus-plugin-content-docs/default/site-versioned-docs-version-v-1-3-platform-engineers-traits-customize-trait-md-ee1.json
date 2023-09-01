@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/traits/customize-trait",
+  "id": "version-v1.3/platform-engineers/traits/customize-trait",
+  "title": "How-to",
+  "description": "In this section we will introduce how to define a trait.",
+  "source": "@site/versioned_docs/version-v1.3/platform-engineers/traits/customize-trait.md",
+  "sourceDirName": "platform-engineers/traits",
+  "slug": "/platform-engineers/traits/customize-trait",
+  "permalink": "/docs/v1.3/platform-engineers/traits/customize-trait",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "How-to"
+  }
+}

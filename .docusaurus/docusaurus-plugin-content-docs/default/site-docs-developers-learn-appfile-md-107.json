@@ -1,0 +1,19 @@
+{
+  "unversionedId": "developers/learn-appfile",
+  "id": "developers/learn-appfile",
+  "title": "Learning Appfile",
+  "description": "A sample Appfile is as below:",
+  "source": "@site/docs/developers/learn-appfile.md",
+  "sourceDirName": "developers",
+  "slug": "/developers/learn-appfile",
+  "permalink": "/docs/developers/learn-appfile",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Learning Appfile"
+  }
+}

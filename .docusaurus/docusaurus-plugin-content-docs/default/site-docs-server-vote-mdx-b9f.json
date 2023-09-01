@@ -1,0 +1,19 @@
+{
+  "unversionedId": "server/vote",
+  "id": "server/vote",
+  "title": "2.小工具",
+  "description": "",
+  "source": "@site/docs/server/vote.mdx",
+  "sourceDirName": "server",
+  "slug": "/server/vote",
+  "permalink": "/en/docs/server/vote",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "2.小工具"
+  }
+}

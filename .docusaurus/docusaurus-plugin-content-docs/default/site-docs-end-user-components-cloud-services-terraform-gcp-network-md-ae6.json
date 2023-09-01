@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/gcp-network",
+  "id": "end-user/components/cloud-services/terraform/gcp-network",
+  "title": "Gcp-Network",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/gcp-network.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/gcp-network",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/gcp-network",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Gcp-Network"
+  }
+}

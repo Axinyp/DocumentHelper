@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_revision",
+  "id": "cli/vela_revision",
+  "title": "vela revision",
+  "description": "Manage Application Revisions",
+  "source": "@site/docs/cli/vela_revision.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_revision",
+  "permalink": "/docs/cli/vela_revision",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela revision"
+  }
+}

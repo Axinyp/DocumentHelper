@@ -1,0 +1,304 @@
+{
+  "pluginId": "videos",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "videos": [
+      {
+        "type": "category",
+        "label": "Best Practice",
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "Using Jenkins + KubeVela for Application Continuous Delivery",
+            "href": "/videos/best-practice/jenkins",
+            "docId": "best-practice/jenkins"
+          },
+          {
+            "type": "link",
+            "label": "Using GitOps + KubeVela for Application Continuous Delivery",
+            "href": "/videos/best-practice/gitops",
+            "docId": "best-practice/gitops"
+          },
+          {
+            "type": "link",
+            "label": "Use Nocalhost and KubeVela for cloud debugging and multi-cluster hybrid cloud deployment",
+            "href": "/videos/best-practice/kubevela-nocalhost",
+            "docId": "best-practice/kubevela-nocalhost"
+          }
+        ],
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Lessons",
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "1024 Live Lessons",
+            "href": "/videos/lessons/live-1024",
+            "docId": "lessons/live-1024"
+          }
+        ],
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Talks",
+        "collapsed": false,
+        "items": [
+          {
+            "type": "category",
+            "label": "Talks in English",
+            "collapsed": false,
+            "items": [
+              {
+                "type": "link",
+                "label": "CNCF Minutes from Saiyam Pathak: KubeVela - Walkthrough",
+                "href": "/videos/talks/en/saiyam-cncf-minutes",
+                "docId": "talks/en/saiyam-cncf-minutes"
+              },
+              {
+                "type": "link",
+                "label": "Building an Application-centric Kubernetes Platform for Enterprise Scale",
+                "href": "/videos/talks/en/application-centric-platform",
+                "docId": "talks/en/application-centric-platform"
+              },
+              {
+                "type": "link",
+                "label": "Combining Argo CD (GitOps), Crossplane (Control Plane), And KubeVela (OAM)",
+                "href": "/videos/talks/en/devops-toolkit-2",
+                "docId": "talks/en/devops-toolkit-2"
+              },
+              {
+                "type": "link",
+                "label": "Cloud-Native Apps With Open Application Model (OAM) And KubeVela",
+                "href": "/videos/talks/en/devops-toolkit-1",
+                "docId": "talks/en/devops-toolkit-1"
+              },
+              {
+                "type": "link",
+                "label": "Standardizing Cloud Native Application Delivery Across Different Clouds",
+                "href": "/videos/talks/en/standardizing-app",
+                "docId": "talks/en/standardizing-app"
+              },
+              {
+                "type": "link",
+                "label": "Production-scale Containerized Game Platform Practice in Bytedance",
+                "href": "/videos/talks/en/bytedance-practice",
+                "docId": "talks/en/bytedance-practice"
+              },
+              {
+                "type": "link",
+                "label": "Mark Russinovich presents \"The Future of Cloud Native Applications with Open Application Model and Dapr\"",
+                "href": "/videos/talks/en/oam-dapr",
+                "docId": "talks/en/oam-dapr"
+              }
+            ],
+            "collapsible": true
+          },
+          {
+            "type": "category",
+            "label": "中文演讲 - Talks in Chinese",
+            "collapsed": false,
+            "items": [
+              {
+                "type": "link",
+                "label": "X as Code 万物代码化",
+                "href": "/videos/talks/cn/x-as-code",
+                "docId": "talks/cn/x-as-code"
+              },
+              {
+                "type": "link",
+                "label": "从开源技术 KubeVela 谈起：云原生应用交付会怎样发展",
+                "href": "/videos/talks/cn/vela-delivery-202206",
+                "docId": "talks/cn/vela-delivery-202206"
+              },
+              {
+                "type": "link",
+                "label": "下一代云原生应用交付会怎样发展？KubeVela帮大忙！",
+                "href": "/videos/talks/cn/next-app-delivery",
+                "docId": "talks/cn/next-app-delivery"
+              },
+              {
+                "type": "link",
+                "label": "KubeCon China 2021 - Build and Manage Multi-cluster Application with Consistent Experience",
+                "href": "/videos/talks/cn/multi-cluster",
+                "docId": "talks/cn/multi-cluster"
+              },
+              {
+                "type": "link",
+                "label": "Go开源说第三期 - KubeVela",
+                "href": "/videos/talks/cn/gopher-china",
+                "docId": "talks/cn/gopher-china"
+              },
+              {
+                "type": "link",
+                "label": "基于 Kubernetes 构建标准可扩展的云原生应用管理平台",
+                "href": "/videos/talks/cn/app-platform",
+                "docId": "talks/cn/app-platform"
+              },
+              {
+                "type": "link",
+                "label": "Li Xiang - Managing Applications with Kubernetes and OAM",
+                "href": "/videos/talks/cn/oam-manage-app",
+                "docId": "talks/cn/oam-manage-app"
+              },
+              {
+                "type": "link",
+                "label": "Building application management platform with Open Application Model",
+                "href": "/videos/talks/cn/oam-application",
+                "docId": "talks/cn/oam-application"
+              }
+            ],
+            "collapsible": true
+          }
+        ],
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Community Meetings",
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "KubeVela Community Calls",
+            "href": "/videos/meetings/",
+            "docId": "meetings/meetings"
+          }
+        ],
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "best-practice/gitops": {
+      "id": "best-practice/gitops",
+      "title": "Using GitOps + KubeVela for Application Continuous Delivery",
+      "description": "KubeVela is based on OAM model, which naturally solves the orchestration problems of complex resources. It means that KubeVela can manage complex large-scale applications with GitOps. Convergence of team and system size after the system complexity problem.",
+      "sidebar": "videos"
+    },
+    "best-practice/jenkins": {
+      "id": "best-practice/jenkins",
+      "title": "Using Jenkins + KubeVela for Application Continuous Delivery",
+      "description": "This section will use Jenkins, a popular continuous integration tool, as basis and give a brief introduction to how to build GitOps-based application continuous delivery highway.",
+      "sidebar": "videos"
+    },
+    "best-practice/kubevela-nocalhost": {
+      "id": "best-practice/kubevela-nocalhost",
+      "title": "Use Nocalhost and KubeVela for cloud debugging and multi-cluster hybrid cloud deployment",
+      "description": "With the rapid development of cloud-native, how can we use cloud to empower business development? When launching applications, how can cloud developers easily develop and debug applications in a multi-cluster and hybrid cloud environment? In the deployment process, how to make the application deployment have sufficient verification and reliability?",
+      "sidebar": "videos"
+    },
+    "lessons/live-1024": {
+      "id": "lessons/live-1024",
+      "title": "1024 Live Lessons",
+      "description": "The 1024 live lessons are a collection of lessons that are designed to help you get started with KubeVela.",
+      "sidebar": "videos"
+    },
+    "meetings/meetings": {
+      "id": "meetings/meetings",
+      "title": "KubeVela Community Calls",
+      "description": "Community Calls in English",
+      "sidebar": "videos"
+    },
+    "talks/cn/app-platform": {
+      "id": "talks/cn/app-platform",
+      "title": "基于 Kubernetes 构建标准可扩展的云原生应用管理平台",
+      "description": "This video is posted in 2020-11-02.",
+      "sidebar": "videos"
+    },
+    "talks/cn/gopher-china": {
+      "id": "talks/cn/gopher-china",
+      "title": "Go开源说第三期 - KubeVela",
+      "description": "Powerpoint//github.com/gocn/opentalk",
+      "sidebar": "videos"
+    },
+    "talks/cn/multi-cluster": {
+      "id": "talks/cn/multi-cluster",
+      "title": "KubeCon China 2021 - Build and Manage Multi-cluster Application with Consistent Experience",
+      "description": "This video is posted in 2021-12-19.",
+      "sidebar": "videos"
+    },
+    "talks/cn/next-app-delivery": {
+      "id": "talks/cn/next-app-delivery",
+      "title": "下一代云原生应用交付会怎样发展？KubeVela帮大忙！",
+      "description": "This video is posted in 2022-03-18.",
+      "sidebar": "videos"
+    },
+    "talks/cn/oam-application": {
+      "id": "talks/cn/oam-application",
+      "title": "Building application management platform with Open Application Model",
+      "description": "In this session, we will present practices and principles to build an application management platform with Kubernetes.",
+      "sidebar": "videos"
+    },
+    "talks/cn/oam-manage-app": {
+      "id": "talks/cn/oam-manage-app",
+      "title": "Li Xiang - Managing Applications with Kubernetes and OAM",
+      "description": "Improving the user experience of Kubernetes and lowering its complexity is one of the most interesting problem.",
+      "sidebar": "videos"
+    },
+    "talks/cn/vela-delivery-202206": {
+      "id": "talks/cn/vela-delivery-202206",
+      "title": "从开源技术 KubeVela 谈起：云原生应用交付会怎样发展",
+      "description": "云原生生态的繁荣为我们提供了大量的基础设施能力，这使得软件的生命周期更加敏捷，流程可以更多的向开发阶段倾斜，诸如测试左移、安全左移、监控左移等流行词均表达了这一趋势。然而这也成了研发工程师的噩梦，不仅有大量的业务逻辑需要处理，还要学习不同的云 API、安全等一系列基础设施知识。如何用好云原生繁荣的技术生态，又能降低 DevOps 工程师的负担，同时安全可靠的交付应用，成为了业界新的挑战。",
+      "sidebar": "videos"
+    },
+    "talks/cn/x-as-code": {
+      "id": "talks/cn/x-as-code",
+      "title": "X as Code 万物代码化",
+      "description": "Bytebase 月度活动 「贝斯的圆桌」第三期 「X as Code 万物代码化」7 月 28 日 20：00",
+      "sidebar": "videos"
+    },
+    "talks/en/application-centric-platform": {
+      "id": "talks/en/application-centric-platform",
+      "title": "Building an Application-centric Kubernetes Platform for Enterprise Scale",
+      "description": "Over the past several years, Intuit has migrated to Kubernetes running in the public cloud and now has over 1,700 applications and services running on over 270 clusters. Intuit's cloud-native platform has accelerated the development velocity of Intuit's 5,000+ developers while improving performance and reliability and reducing operational overhead.",
+      "sidebar": "videos"
+    },
+    "talks/en/bytedance-practice": {
+      "id": "talks/en/bytedance-practice",
+      "title": "Production-scale Containerized Game Platform Practice in Bytedance",
+      "description": "By Chenyu Jiang, ByteDance, Inc & Viktor Farcic, Upbound",
+      "sidebar": "videos"
+    },
+    "talks/en/devops-toolkit-1": {
+      "id": "talks/en/devops-toolkit-1",
+      "title": "Cloud-Native Apps With Open Application Model (OAM) And KubeVela",
+      "description": "Can we define cloud-native applications without dealing with resources related to underlying platforms? One possible solution is to use the Open Application Model (OAM) combined with KubeVela.",
+      "sidebar": "videos"
+    },
+    "talks/en/devops-toolkit-2": {
+      "id": "talks/en/devops-toolkit-2",
+      "title": "Combining Argo CD (GitOps), Crossplane (Control Plane), And KubeVela (OAM)",
+      "description": "Can we make Kubernetes disappear? Can we make infrastructure and application management so simple that anyone can do it? Can we leverage DevOps, SRE, ops, and sysadmin experience to create a system that would make developers autonomous?",
+      "sidebar": "videos"
+    },
+    "talks/en/oam-dapr": {
+      "id": "talks/en/oam-dapr",
+      "title": "Mark Russinovich presents \"The Future of Cloud Native Applications with Open Application Model and Dapr\"",
+      "description": "Join Azure CTO, Mark Russinovich, for a view on the future of app development and deployment. Mark explains and shows the future direction of defining and deploying applications with Open Application Model (OAM) and rudr, allowing application developers and operators to write and describe apps that are deploy-able across different infrastructures. He will also introduce and demonstrate the new distributed application runtime (dapr) project, which helps developers write scalable, resilient code through microservice building blocks. Mark will be showcasing these new projects in his talk through a variety of on-stage demos.",
+      "sidebar": "videos"
+    },
+    "talks/en/saiyam-cncf-minutes": {
+      "id": "talks/en/saiyam-cncf-minutes",
+      "title": "CNCF Minutes from Saiyam Pathak: KubeVela - Walkthrough",
+      "description": "In this video, Saiyam Pathak introduces OAM and KubeVela with live demos.",
+      "sidebar": "videos"
+    },
+    "talks/en/standardizing-app": {
+      "id": "talks/en/standardizing-app",
+      "title": "Standardizing Cloud Native Application Delivery Across Different Clouds",
+      "description": "At its heart, Kubernetes is an infrastructure platform: It abstracts at the infrastructure layer, but does little to resolve application layer dependencies.",
+      "sidebar": "videos"
+    }
+  }
+}

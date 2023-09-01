@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_uischema",
+  "id": "version-v1.3/cli/vela_uischema",
+  "title": "vela uischema",
+  "description": "Manage UI schema for addons.",
+  "source": "@site/versioned_docs/version-v1.3/cli/vela_uischema.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_uischema",
+  "permalink": "/docs/v1.3/cli/vela_uischema",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela uischema"
+  }
+}

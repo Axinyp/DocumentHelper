@@ -1,0 +1,28 @@
+{
+  "unversionedId": "installation/standalone",
+  "id": "installation/standalone",
+  "title": "Standalone Installation",
+  "description": "",
+  "source": "@site/docs/installation/standalone.mdx",
+  "sourceDirName": "installation",
+  "slug": "/installation/standalone",
+  "permalink": "/docs/installation/standalone",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Standalone Installation"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Installation Overview",
+    "permalink": "/docs/install"
+  },
+  "next": {
+    "title": "Install KubeVela on Kubernetes",
+    "permalink": "/docs/installation/kubernetes"
+  }
+}

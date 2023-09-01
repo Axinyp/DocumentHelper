@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/workflow/inputs-outputs",
+  "id": "end-user/workflow/inputs-outputs",
+  "title": "Data Passing",
+  "description": "This section introduces how to use Inputs and Outputs to pass data between workflow steps in KubeVela.",
+  "source": "@site/docs/end-user/workflow/inputs-outputs.md",
+  "sourceDirName": "end-user/workflow",
+  "slug": "/end-user/workflow/inputs-outputs",
+  "permalink": "/docs/end-user/workflow/inputs-outputs",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Data Passing"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_kube_delete",
+  "id": "version-v1.5/cli/vela_kube_delete",
+  "title": "vela kube delete",
+  "description": "Delete resources in clusters.",
+  "source": "@site/versioned_docs/version-v1.5/cli/vela_kube_delete.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_kube_delete",
+  "permalink": "/docs/cli/vela_kube_delete",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela kube delete"
+  }
+}

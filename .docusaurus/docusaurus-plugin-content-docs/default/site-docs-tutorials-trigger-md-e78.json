@@ -1,0 +1,19 @@
+{
+  "unversionedId": "tutorials/trigger",
+  "id": "tutorials/trigger",
+  "title": "Harbor Image Registry",
+  "description": "Introduction",
+  "source": "@site/docs/tutorials/trigger.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/trigger",
+  "permalink": "/docs/tutorials/trigger",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Harbor Image Registry"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/quick-start-cli",
+  "id": "version-v1.3/end-user/quick-start-cli",
+  "title": "Deploy First Application",
+  "description": "Welcome to KubeVela! In this guide, we'll walk you through how to install KubeVela, and deploy your first simple application.",
+  "source": "@site/versioned_docs/version-v1.3/end-user/quick-start-cli.md",
+  "sourceDirName": "end-user",
+  "slug": "/end-user/quick-start-cli",
+  "permalink": "/docs/v1.3/end-user/quick-start-cli",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Deploy First Application"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "developers/references/devex/faq",
+  "id": "version-v1.5/developers/references/devex/faq",
+  "title": "FAQ",
+  "description": "Common Questions",
+  "source": "@site/versioned_docs/version-v1.5/developers/references/devex/faq.md",
+  "sourceDirName": "developers/references/devex",
+  "slug": "/developers/references/devex/faq",
+  "permalink": "/docs/developers/references/devex/faq",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "FAQ"
+  }
+}

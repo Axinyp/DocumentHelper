@@ -1,0 +1,19 @@
+{
+  "unversionedId": "how-to/dashboard/target/overview",
+  "id": "version-v1.5/how-to/dashboard/target/overview",
+  "title": "Manage Clusters on UI Console",
+  "description": "This docs requires you to have velaux installed.",
+  "source": "@site/versioned_docs/version-v1.5/how-to/dashboard/target/overview.md",
+  "sourceDirName": "how-to/dashboard/target",
+  "slug": "/how-to/dashboard/target/overview",
+  "permalink": "/docs/how-to/dashboard/target/overview",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Manage Clusters on UI Console"
+  }
+}

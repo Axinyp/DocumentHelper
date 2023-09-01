@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/components/custom-component",
+  "id": "version-v1.4/platform-engineers/components/custom-component",
+  "title": "Component Definition",
+  "description": "In this section, we will introduce how to use CUE to customize components via ComponentDefinition. Make sure you've learned the basic knowledge about Definition Concept and how to manage definition.",
+  "source": "@site/versioned_docs/version-v1.4/platform-engineers/components/custom-component.md",
+  "sourceDirName": "platform-engineers/components",
+  "slug": "/platform-engineers/components/custom-component",
+  "permalink": "/docs/v1.4/platform-engineers/components/custom-component",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Component Definition"
+  }
+}

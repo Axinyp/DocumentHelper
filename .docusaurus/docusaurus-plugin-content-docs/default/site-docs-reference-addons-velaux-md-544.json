@@ -1,0 +1,19 @@
+{
+  "unversionedId": "reference/addons/velaux",
+  "id": "reference/addons/velaux",
+  "title": "VelaUX",
+  "description": "VelaUX provides the UI console of KubeVela.",
+  "source": "@site/docs/reference/addons/velaux.md",
+  "sourceDirName": "reference/addons",
+  "slug": "/reference/addons/velaux",
+  "permalink": "/docs/reference/addons/velaux",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "VelaUX"
+  }
+}

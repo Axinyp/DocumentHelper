@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/workflow/cue-actions",
+  "id": "version-v1.3/platform-engineers/workflow/cue-actions",
+  "title": "Step Operations",
+  "description": "This documentation will introduce the CUE operations provided in vela/op stdlib package that can be used in each workflow step.",
+  "source": "@site/versioned_docs/version-v1.3/platform-engineers/workflow/cue-actions.md",
+  "sourceDirName": "platform-engineers/workflow",
+  "slug": "/platform-engineers/workflow/cue-actions",
+  "permalink": "/docs/v1.3/platform-engineers/workflow/cue-actions",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Step Operations"
+  }
+}

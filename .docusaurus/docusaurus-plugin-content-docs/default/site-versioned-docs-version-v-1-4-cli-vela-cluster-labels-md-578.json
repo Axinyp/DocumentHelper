@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_cluster_labels",
+  "id": "version-v1.4/cli/vela_cluster_labels",
+  "title": "vela cluster labels",
+  "description": "Manage Kubernetes Cluster Labels",
+  "source": "@site/versioned_docs/version-v1.4/cli/vela_cluster_labels.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_cluster_labels",
+  "permalink": "/docs/v1.4/cli/vela_cluster_labels",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela cluster labels"
+  }
+}

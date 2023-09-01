@@ -1,0 +1,17 @@
+{
+  "unversionedId": "contributor/cli-ref-doc",
+  "id": "version-v1.3/contributor/cli-ref-doc",
+  "title": "Update KubeVela.io CLI Reference Doc",
+  "description": "1. step up these two projects in the same folder.",
+  "source": "@site/versioned_docs/version-v1.3/contributor/cli-ref-doc.md",
+  "sourceDirName": "contributor",
+  "slug": "/contributor/cli-ref-doc",
+  "permalink": "/docs/v1.3/contributor/cli-ref-doc",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {}
+}

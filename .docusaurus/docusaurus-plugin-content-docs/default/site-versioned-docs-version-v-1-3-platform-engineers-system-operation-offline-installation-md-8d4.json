@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/system-operation/offline-installation",
+  "id": "version-v1.3/platform-engineers/system-operation/offline-installation",
+  "title": "Air-gapped Installation",
+  "description": "Air-gapped Installation of KubeVela includes the installation of KubeVela core and addons, they all contain the configuration files and images.",
+  "source": "@site/versioned_docs/version-v1.3/platform-engineers/system-operation/offline-installation.md",
+  "sourceDirName": "platform-engineers/system-operation",
+  "slug": "/platform-engineers/system-operation/offline-installation",
+  "permalink": "/docs/v1.3/platform-engineers/system-operation/offline-installation",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Air-gapped Installation"
+  }
+}

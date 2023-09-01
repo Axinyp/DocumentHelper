@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_workflow_suspend",
+  "id": "cli/vela_workflow_suspend",
+  "title": "vela workflow suspend",
+  "description": "Suspend an application workflow.",
+  "source": "@site/docs/cli/vela_workflow_suspend.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_workflow_suspend",
+  "permalink": "/docs/cli/vela_workflow_suspend",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela workflow suspend"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "unversionedId": "reference/addons/flink-kubernetes-operator",
+  "id": "reference/addons/flink-kubernetes-operator",
+  "title": "Flink-kubernetes-operator",
+  "description": "A Kubernetes operator for Apache Flink(https://github.com/apache/flink-kubernetes-operator), it allows users to manage Flink applications and their lifecycle through native k8s tooling like kubectl.",
+  "source": "@site/docs/reference/addons/flink-kubernetes-operator.md",
+  "sourceDirName": "reference/addons",
+  "slug": "/reference/addons/flink-kubernetes-operator",
+  "permalink": "/docs/reference/addons/flink-kubernetes-operator",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {}
+}

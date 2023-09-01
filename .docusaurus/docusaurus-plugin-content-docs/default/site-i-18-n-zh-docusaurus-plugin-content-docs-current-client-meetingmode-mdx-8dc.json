@@ -1,0 +1,28 @@
+{
+  "unversionedId": "client/meetingmode",
+  "id": "client/meetingmode",
+  "title": "1.会议模式",
+  "description": "",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/meetingmode.mdx",
+  "sourceDirName": "client",
+  "slug": "/client/meetingmode",
+  "permalink": "/docs/client/meetingmode",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "1.会议模式"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "1. 智慧会议管理平台",
+    "permalink": "/docs/server/login"
+  },
+  "next": {
+    "title": "2.小工具",
+    "permalink": "/docs/client/tool"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-guardduty",
+  "id": "version-v1.3/end-user/components/cloud-services/terraform/aws-guardduty",
+  "title": "AWS GUARDDUTY",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.3/end-user/components/cloud-services/terraform/aws-guardduty.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-guardduty",
+  "permalink": "/docs/v1.3/end-user/components/cloud-services/terraform/aws-guardduty",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS GUARDDUTY"
+  }
+}

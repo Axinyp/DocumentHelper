@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_dry-run",
+  "id": "cli/vela_dry-run",
+  "title": "vela dry-run",
+  "description": "Dry Run an application, and output the K8s resources as result to stdout",
+  "source": "@site/docs/cli/vela_dry-run.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_dry-run",
+  "permalink": "/docs/cli/vela_dry-run",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela dry-run"
+  }
+}

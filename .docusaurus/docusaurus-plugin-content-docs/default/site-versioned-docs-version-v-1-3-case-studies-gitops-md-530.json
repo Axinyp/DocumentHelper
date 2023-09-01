@@ -1,0 +1,19 @@
+{
+  "unversionedId": "case-studies/gitops",
+  "id": "version-v1.3/case-studies/gitops",
+  "title": "GitOps",
+  "description": "This section will introduce how to use KubeVela in GitOps environment and why.",
+  "source": "@site/versioned_docs/version-v1.3/case-studies/gitops.md",
+  "sourceDirName": "case-studies",
+  "slug": "/case-studies/gitops",
+  "permalink": "/docs/v1.3/case-studies/gitops",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "GitOps"
+  }
+}

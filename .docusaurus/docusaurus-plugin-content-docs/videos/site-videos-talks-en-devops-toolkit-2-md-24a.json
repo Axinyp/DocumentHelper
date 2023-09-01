@@ -1,0 +1,28 @@
+{
+  "unversionedId": "talks/en/devops-toolkit-2",
+  "id": "talks/en/devops-toolkit-2",
+  "title": "Combining Argo CD (GitOps), Crossplane (Control Plane), And KubeVela (OAM)",
+  "description": "Can we make Kubernetes disappear? Can we make infrastructure and application management so simple that anyone can do it? Can we leverage DevOps, SRE, ops, and sysadmin experience to create a system that would make developers autonomous?",
+  "source": "@site/videos/talks/en/devops-toolkit-2.md",
+  "sourceDirName": "talks/en",
+  "slug": "/talks/en/devops-toolkit-2",
+  "permalink": "/videos/talks/en/devops-toolkit-2",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Combining Argo CD (GitOps), Crossplane (Control Plane), And KubeVela (OAM)"
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "Building an Application-centric Kubernetes Platform for Enterprise Scale",
+    "permalink": "/videos/talks/en/application-centric-platform"
+  },
+  "next": {
+    "title": "Cloud-Native Apps With Open Application Model (OAM) And KubeVela",
+    "permalink": "/videos/talks/en/devops-toolkit-1"
+  }
+}

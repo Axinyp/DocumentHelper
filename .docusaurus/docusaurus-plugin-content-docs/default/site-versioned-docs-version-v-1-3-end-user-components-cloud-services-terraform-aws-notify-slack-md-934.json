@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-notify-slack",
+  "id": "version-v1.3/end-user/components/cloud-services/terraform/aws-notify-slack",
+  "title": "AWS NOTIFY-SLACK",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.3/end-user/components/cloud-services/terraform/aws-notify-slack.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-notify-slack",
+  "permalink": "/docs/v1.3/end-user/components/cloud-services/terraform/aws-notify-slack",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS NOTIFY-SLACK"
+  }
+}

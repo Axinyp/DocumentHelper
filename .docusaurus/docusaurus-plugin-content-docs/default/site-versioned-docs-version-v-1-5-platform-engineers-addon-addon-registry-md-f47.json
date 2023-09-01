@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/addon/addon-registry",
+  "id": "version-v1.5/platform-engineers/addon/addon-registry",
+  "title": "Build your Own Registry",
+  "description": "An addon registry can be used for discovering and distributing addons. Currently, KubeVela supports two kinds of registries:",
+  "source": "@site/versioned_docs/version-v1.5/platform-engineers/addon/addon-registry.md",
+  "sourceDirName": "platform-engineers/addon",
+  "slug": "/platform-engineers/addon/addon-registry",
+  "permalink": "/docs/platform-engineers/addon/addon-registry",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Build your Own Registry"
+  }
+}

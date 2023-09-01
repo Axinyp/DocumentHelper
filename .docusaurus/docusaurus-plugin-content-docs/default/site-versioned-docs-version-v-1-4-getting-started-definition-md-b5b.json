@@ -1,0 +1,19 @@
+{
+  "unversionedId": "getting-started/definition",
+  "id": "version-v1.4/getting-started/definition",
+  "title": "Definition",
+  "description": "Definition are the basic building block of the KubeVela platform. A definition encapsulates an arbitrarily complex automation as a lego style module that can be used to compose an Application, then safely shared, and repeatably executed by any KubeVela engine.",
+  "source": "@site/versioned_docs/version-v1.4/getting-started/definition.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/definition",
+  "permalink": "/docs/v1.4/getting-started/definition",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Definition"
+  }
+}

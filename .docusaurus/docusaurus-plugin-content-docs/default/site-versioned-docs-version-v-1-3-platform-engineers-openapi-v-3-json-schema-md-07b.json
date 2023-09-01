@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/openapi-v3-json-schema",
+  "id": "version-v1.3/platform-engineers/openapi-v3-json-schema",
+  "title": "Generating UI Forms",
+  "description": "For any capabilities installed via Definition Objects,",
+  "source": "@site/versioned_docs/version-v1.3/platform-engineers/openapi-v3-json-schema.md",
+  "sourceDirName": "platform-engineers",
+  "slug": "/platform-engineers/openapi-v3-json-schema",
+  "permalink": "/docs/v1.3/platform-engineers/openapi-v3-json-schema",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Generating UI Forms"
+  }
+}

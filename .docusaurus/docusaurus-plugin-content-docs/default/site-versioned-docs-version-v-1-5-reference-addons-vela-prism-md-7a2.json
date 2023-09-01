@@ -1,0 +1,19 @@
+{
+  "unversionedId": "reference/addons/vela-prism",
+  "id": "version-v1.5/reference/addons/vela-prism",
+  "title": "Vela prism",
+  "description": "Install",
+  "source": "@site/versioned_docs/version-v1.5/reference/addons/vela-prism.md",
+  "sourceDirName": "reference/addons",
+  "slug": "/reference/addons/vela-prism",
+  "permalink": "/docs/reference/addons/vela-prism",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Vela prism"
+  }
+}

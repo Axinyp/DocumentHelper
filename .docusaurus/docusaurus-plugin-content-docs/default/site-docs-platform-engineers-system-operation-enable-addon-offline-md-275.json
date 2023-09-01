@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/system-operation/enable-addon-offline",
+  "id": "platform-engineers/system-operation/enable-addon-offline",
+  "title": "Air-gapped Installation for Addon",
+  "description": "If your environments don't have network access to https//github.com/kubevela/catalog, this guide will demonstrate how to install in the air-gapped environment.",
+  "source": "@site/docs/platform-engineers/system-operation/enable-addon-offline.md",
+  "sourceDirName": "platform-engineers/system-operation",
+  "slug": "/platform-engineers/system-operation/enable-addon-offline",
+  "permalink": "/docs/platform-engineers/system-operation/enable-addon-offline",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Air-gapped Installation for Addon"
+  }
+}

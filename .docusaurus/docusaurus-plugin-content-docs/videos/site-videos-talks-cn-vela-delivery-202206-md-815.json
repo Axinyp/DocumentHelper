@@ -1,0 +1,28 @@
+{
+  "unversionedId": "talks/cn/vela-delivery-202206",
+  "id": "talks/cn/vela-delivery-202206",
+  "title": "从开源技术 KubeVela 谈起：云原生应用交付会怎样发展",
+  "description": "云原生生态的繁荣为我们提供了大量的基础设施能力，这使得软件的生命周期更加敏捷，流程可以更多的向开发阶段倾斜，诸如测试左移、安全左移、监控左移等流行词均表达了这一趋势。然而这也成了研发工程师的噩梦，不仅有大量的业务逻辑需要处理，还要学习不同的云 API、安全等一系列基础设施知识。如何用好云原生繁荣的技术生态，又能降低 DevOps 工程师的负担，同时安全可靠的交付应用，成为了业界新的挑战。",
+  "source": "@site/videos/talks/cn/vela-delivery-202206.md",
+  "sourceDirName": "talks/cn",
+  "slug": "/talks/cn/vela-delivery-202206",
+  "permalink": "/videos/talks/cn/vela-delivery-202206",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "从开源技术 KubeVela 谈起：云原生应用交付会怎样发展"
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "X as Code 万物代码化",
+    "permalink": "/videos/talks/cn/x-as-code"
+  },
+  "next": {
+    "title": "下一代云原生应用交付会怎样发展？KubeVela帮大忙！",
+    "permalink": "/videos/talks/cn/next-app-delivery"
+  }
+}

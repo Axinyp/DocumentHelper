@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/gcp-helmrepo",
+  "id": "end-user/components/cloud-services/terraform/gcp-helmrepo",
+  "title": "Gcp-Helmrepo",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/gcp-helmrepo.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/gcp-helmrepo",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/gcp-helmrepo",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Gcp-Helmrepo"
+  }
+}

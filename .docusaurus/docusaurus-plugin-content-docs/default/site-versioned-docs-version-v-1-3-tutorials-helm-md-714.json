@@ -1,0 +1,19 @@
+{
+  "unversionedId": "tutorials/helm",
+  "id": "version-v1.3/tutorials/helm",
+  "title": "Deploy Helm Chart",
+  "description": "This section introduces that how you deploy Helm Chart into multi-environments and clusters.",
+  "source": "@site/versioned_docs/version-v1.3/tutorials/helm.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/helm",
+  "permalink": "/docs/v1.3/tutorials/helm",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Deploy Helm Chart"
+  }
+}

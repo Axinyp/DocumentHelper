@@ -1,0 +1,57 @@
+{
+  "permalink": "/blog/2022/08/17/helm-rollout",
+  "editUrl": "https://github.com/kubevela/kubevela.io/tree/main/blog/2022-08-17-helm-rollout.md",
+  "source": "@site/blog/2022-08-17-helm-rollout.md",
+  "title": "The Canary Rollout of the Helm Chart Application Is Coming!",
+  "description": "",
+  "date": "2022-08-17T00:00:00.000Z",
+  "formattedDate": "August 17, 2022",
+  "tags": [
+    {
+      "label": "KubeVela",
+      "permalink": "/blog/tags/kube-vela"
+    },
+    {
+      "label": "use-case",
+      "permalink": "/blog/tags/use-case"
+    },
+    {
+      "label": "helm chart",
+      "permalink": "/blog/tags/helm-chart"
+    },
+    {
+      "label": "Canary Rollout",
+      "permalink": "/blog/tags/canary-rollout"
+    }
+  ],
+  "readingTime": 12.85,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Yike Wang",
+      "title": "KubeVela Team",
+      "url": "https://github.com/kubevela/kubevela",
+      "imageURL": "https://KubeVela.io/img/logo.svg"
+    }
+  ],
+  "frontMatter": {
+    "title": "The Canary Rollout of the Helm Chart Application Is Coming!",
+    "author": "Yike Wang",
+    "author_title": "KubeVela Team",
+    "author_url": "https://github.com/kubevela/kubevela",
+    "author_image_url": "https://KubeVela.io/img/logo.svg",
+    "tags": [
+      "KubeVela",
+      "use-case",
+      "helm chart",
+      "Canary Rollout"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/oam-dev/KubeVela.io/main/docs/resources/KubeVela-03.png",
+    "hide_table_of_contents": false
+  },
+  "nextItem": {
+    "title": "How to migrate Existing Terraform Cloud Resources to KubeVela",
+    "permalink": "/blog/2022/07/20/migrate-erraform-cloud-resources-to-kubeVela"
+  }
+}

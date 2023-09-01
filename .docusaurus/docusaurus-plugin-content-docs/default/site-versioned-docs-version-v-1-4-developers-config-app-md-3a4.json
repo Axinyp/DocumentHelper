@@ -1,0 +1,19 @@
+{
+  "unversionedId": "developers/config-app",
+  "id": "version-v1.4/developers/config-app",
+  "title": "Configuring data/env in Application",
+  "description": "vela provides a config command to manage config data.",
+  "source": "@site/versioned_docs/version-v1.4/developers/config-app.md",
+  "sourceDirName": "developers",
+  "slug": "/developers/config-app",
+  "permalink": "/docs/v1.4/developers/config-app",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Configuring data/env in Application"
+  }
+}

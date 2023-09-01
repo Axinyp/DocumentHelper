@@ -1,0 +1,28 @@
+{
+  "unversionedId": "talks/en/devops-toolkit-1",
+  "id": "talks/en/devops-toolkit-1",
+  "title": "Cloud-Native Apps With Open Application Model (OAM) And KubeVela",
+  "description": "Can we define cloud-native applications without dealing with resources related to underlying platforms? One possible solution is to use the Open Application Model (OAM) combined with KubeVela.",
+  "source": "@site/videos/talks/en/devops-toolkit-1.md",
+  "sourceDirName": "talks/en",
+  "slug": "/talks/en/devops-toolkit-1",
+  "permalink": "/videos/talks/en/devops-toolkit-1",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Cloud-Native Apps With Open Application Model (OAM) And KubeVela"
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "Combining Argo CD (GitOps), Crossplane (Control Plane), And KubeVela (OAM)",
+    "permalink": "/videos/talks/en/devops-toolkit-2"
+  },
+  "next": {
+    "title": "Standardizing Cloud Native Application Delivery Across Different Clouds",
+    "permalink": "/videos/talks/en/standardizing-app"
+  }
+}

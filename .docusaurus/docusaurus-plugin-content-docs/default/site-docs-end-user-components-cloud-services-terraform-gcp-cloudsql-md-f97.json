@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/gcp-cloudsql",
+  "id": "end-user/components/cloud-services/terraform/gcp-cloudsql",
+  "title": "Gcp-Cloudsql",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/gcp-cloudsql.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/gcp-cloudsql",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/gcp-cloudsql",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Gcp-Cloudsql"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/provision-and-consume-cloud-services",
+  "id": "version-v1.3/end-user/components/cloud-services/provision-and-consume-cloud-services",
+  "title": "Provision and Binding Cloud Resources",
+  "description": "Cloud-oriented development is now becoming the norm, there is an urgent need to integrate cloud resources from different",
+  "source": "@site/versioned_docs/version-v1.3/end-user/components/cloud-services/provision-and-consume-cloud-services.md",
+  "sourceDirName": "end-user/components/cloud-services",
+  "slug": "/end-user/components/cloud-services/provision-and-consume-cloud-services",
+  "permalink": "/docs/v1.3/end-user/components/cloud-services/provision-and-consume-cloud-services",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Provision and Binding Cloud Resources"
+  }
+}

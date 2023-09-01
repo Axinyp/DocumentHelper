@@ -1,0 +1,19 @@
+{
+  "unversionedId": "getting-started/core-concept",
+  "id": "version-v1.5/getting-started/core-concept",
+  "title": "Application",
+  "description": "KubeVela revolves around cloud-native application delivery scenarios. The application delivery model behind it is Open Application Model, or OAM for short.",
+  "source": "@site/versioned_docs/version-v1.5/getting-started/core-concept.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/core-concept",
+  "permalink": "/docs/getting-started/core-concept",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Application"
+  }
+}

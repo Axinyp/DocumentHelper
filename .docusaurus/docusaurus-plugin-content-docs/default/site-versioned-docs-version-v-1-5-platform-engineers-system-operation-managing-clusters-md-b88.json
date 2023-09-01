@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/system-operation/managing-clusters",
+  "id": "version-v1.5/platform-engineers/system-operation/managing-clusters",
+  "title": "Lifecycle of Managed Cluster",
+  "description": "This section will introduce the lifecycle of managed clusters.",
+  "source": "@site/versioned_docs/version-v1.5/platform-engineers/system-operation/managing-clusters.md",
+  "sourceDirName": "platform-engineers/system-operation",
+  "slug": "/platform-engineers/system-operation/managing-clusters",
+  "permalink": "/docs/platform-engineers/system-operation/managing-clusters",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Lifecycle of Managed Cluster"
+  }
+}

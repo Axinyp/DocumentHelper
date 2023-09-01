@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/addon/addon-cue",
+  "id": "platform-engineers/addon/addon-cue",
+  "title": "CUE based Addon Application",
+  "description": "Previous tutorial introduces the basic structure of an addon and illustrate that any Kubernetes operator to be installed of an addon should be defined in a KubeVela application. Document YAML application description file explains the way of using YAML define the addon application. If you use CUE to write application description file, the addon will be able to have these abilities:",
+  "source": "@site/docs/platform-engineers/addon/addon-cue.md",
+  "sourceDirName": "platform-engineers/addon",
+  "slug": "/platform-engineers/addon/addon-cue",
+  "permalink": "/docs/platform-engineers/addon/addon-cue",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "CUE based Addon Application"
+  }
+}

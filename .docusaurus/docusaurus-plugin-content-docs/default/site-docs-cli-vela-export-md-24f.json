@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_export",
+  "id": "cli/vela_export",
+  "title": "vela export",
+  "description": "Export deploy manifests from appfile",
+  "source": "@site/docs/cli/vela_export.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_export",
+  "permalink": "/docs/cli/vela_export",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela export"
+  }
+}

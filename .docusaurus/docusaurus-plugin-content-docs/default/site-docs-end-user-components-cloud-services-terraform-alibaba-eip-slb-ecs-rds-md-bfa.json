@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/alibaba-eip-slb-ecs-rds",
+  "id": "end-user/components/cloud-services/terraform/alibaba-eip-slb-ecs-rds",
+  "title": "Alibaba Cloud EIP-SLB-ECS-RDS",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/alibaba-eip-slb-ecs-rds.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/alibaba-eip-slb-ecs-rds",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/alibaba-eip-slb-ecs-rds",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Alibaba Cloud EIP-SLB-ECS-RDS"
+  }
+}

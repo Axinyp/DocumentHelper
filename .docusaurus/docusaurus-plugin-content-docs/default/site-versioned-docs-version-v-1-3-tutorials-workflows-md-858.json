@@ -1,0 +1,20 @@
+{
+  "unversionedId": "tutorials/workflows",
+  "id": "version-v1.3/tutorials/workflows",
+  "title": "Manage Workflow",
+  "description": "This article introduces the usage of Workflow and gives you a full picture of it.",
+  "source": "@site/versioned_docs/version-v1.3/tutorials/workflows.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/workflows",
+  "permalink": "/docs/v1.3/tutorials/workflows",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Manage Workflow",
+    "description": "This article introduces the usage of Workflow and gives you a full picture of it."
+  }
+}

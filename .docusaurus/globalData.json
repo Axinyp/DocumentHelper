@@ -1,0 +1,105 @@
+{
+  "docusaurus-plugin-google-gtag": {
+    "default": {
+      "trackingID": "G-5GLR1Y52M7",
+      "anonymizeIP": false,
+      "id": "default"
+    }
+  },
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "预览版",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "getting-started/test",
+          "docs": [
+            {
+              "id": "client/annotation",
+              "path": "/docs/client/annotation",
+              "sidebar": "docs"
+            },
+            {
+              "id": "client/appmarket",
+              "path": "/docs/client/appmarket",
+              "sidebar": "docs"
+            },
+            {
+              "id": "client/filepreviewer",
+              "path": "/docs/client/filepreviewer",
+              "sidebar": "docs"
+            },
+            {
+              "id": "client/meetingmode",
+              "path": "/docs/client/meetingmode",
+              "sidebar": "docs"
+            },
+            {
+              "id": "client/miracast",
+              "path": "/docs/client/miracast",
+              "sidebar": "docs"
+            },
+            {
+              "id": "client/nfc",
+              "path": "/docs/client/nfc",
+              "sidebar": "docs"
+            },
+            {
+              "id": "client/setting",
+              "path": "/docs/client/setting",
+              "sidebar": "docs"
+            },
+            {
+              "id": "client/singlemode",
+              "path": "/docs/client/singlemode",
+              "sidebar": "docs"
+            },
+            {
+              "id": "client/tool",
+              "path": "/docs/client/tool",
+              "sidebar": "docs"
+            },
+            {
+              "id": "client/troubleshooting",
+              "path": "/docs/client/troubleshooting",
+              "sidebar": "docs"
+            },
+            {
+              "id": "client/voiceassistance",
+              "path": "/docs/client/voiceassistance",
+              "sidebar": "docs"
+            },
+            {
+              "id": "client/whiteboard",
+              "path": "/docs/client/whiteboard",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/test",
+              "path": "/docs/getting-started/test",
+              "sidebar": "docs"
+            },
+            {
+              "id": "server/login",
+              "path": "/docs/server/login",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/docs/getting-started/test",
+                "label": "getting-started/test"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

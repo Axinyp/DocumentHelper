@@ -1,0 +1,74 @@
+{
+  "permalink": "/blog/2022/07/20/migrate-erraform-cloud-resources-to-kubeVela",
+  "editUrl": "https://github.com/kubevela/kubevela.io/tree/main/blog/2022-07-20-migrate-erraform-cloud-resources-to-kubeVela.md",
+  "source": "@site/blog/2022-07-20-migrate-erraform-cloud-resources-to-kubeVela.md",
+  "title": "How to migrate Existing Terraform Cloud Resources to KubeVela",
+  "description": "This blog discusses how to migrate existing Terraform cloud resources to KubeVela.",
+  "date": "2022-07-20T00:00:00.000Z",
+  "formattedDate": "July 20, 2022",
+  "tags": [
+    {
+      "label": "KubeVela",
+      "permalink": "/blog/tags/kube-vela"
+    },
+    {
+      "label": "Terraform",
+      "permalink": "/blog/tags/terraform"
+    },
+    {
+      "label": "Kubernetes",
+      "permalink": "/blog/tags/kubernetes"
+    },
+    {
+      "label": "DevOps",
+      "permalink": "/blog/tags/dev-ops"
+    },
+    {
+      "label": "CNCF",
+      "permalink": "/blog/tags/cncf"
+    },
+    {
+      "label": "CI/CD",
+      "permalink": "/blog/tags/ci-cd"
+    },
+    {
+      "label": "Application delivery",
+      "permalink": "/blog/tags/application-delivery"
+    }
+  ],
+  "readingTime": 3.025,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Nan Li",
+      "url": "https://github.com/loheagn",
+      "imageURL": "https://avatars.githubusercontent.com/u/33423736"
+    }
+  ],
+  "frontMatter": {
+    "title": "How to migrate Existing Terraform Cloud Resources to KubeVela",
+    "author": "Nan Li",
+    "author_url": "https://github.com/loheagn",
+    "author_image_url": "https://avatars.githubusercontent.com/u/33423736",
+    "tags": [
+      "KubeVela",
+      "Terraform",
+      "Kubernetes",
+      "DevOps",
+      "CNCF",
+      "CI/CD",
+      "Application delivery"
+    ],
+    "description": "This blog discusses how to migrate existing Terraform cloud resources to KubeVela.",
+    "image": "https://raw.githubusercontent.com/oam-dev/KubeVela.io/main/docs/resources/KubeVela-03.png",
+    "hide_table_of_contents": false
+  },
+  "prevItem": {
+    "title": "The Canary Rollout of the Helm Chart Application Is Coming!",
+    "permalink": "/blog/2022/08/17/helm-rollout"
+  },
+  "nextItem": {
+    "title": "Helm Chart Delivery in Multi-Cluster",
+    "permalink": "/blog/2022/07/07/helm-multi-cluster"
+  }
+}

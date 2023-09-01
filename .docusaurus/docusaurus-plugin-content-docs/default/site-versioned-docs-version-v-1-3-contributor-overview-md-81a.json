@@ -1,0 +1,19 @@
+{
+  "unversionedId": "contributor/overview",
+  "id": "version-v1.3/contributor/overview",
+  "title": "Introduction",
+  "description": "KubeVela project is initialized and maintained by the cloud native community since day 0 with bootstrapping contributors from 8+ different organizations. We intend for KubeVela to have an open governance since the very beginning and donate the project to neutral foundation as soon as it's released.",
+  "source": "@site/versioned_docs/version-v1.3/contributor/overview.md",
+  "sourceDirName": "contributor",
+  "slug": "/contributor/overview",
+  "permalink": "/docs/v1.3/contributor/overview",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Introduction"
+  }
+}

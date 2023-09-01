@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/kustomize",
+  "id": "version-v1.4/end-user/components/kustomize",
+  "title": "Pull based Component",
+  "description": "This docs are migrated, please refer to the reference documents.",
+  "source": "@site/versioned_docs/version-v1.4/end-user/components/kustomize.md",
+  "sourceDirName": "end-user/components",
+  "slug": "/end-user/components/kustomize",
+  "permalink": "/docs/v1.4/end-user/components/kustomize",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Pull based Component"
+  }
+}

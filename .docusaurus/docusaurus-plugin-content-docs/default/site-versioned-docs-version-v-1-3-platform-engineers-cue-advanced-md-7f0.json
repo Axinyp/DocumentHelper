@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/cue/advanced",
+  "id": "version-v1.3/platform-engineers/cue/advanced",
+  "title": "CUE Advanced",
+  "description": "This section will introduce how to use CUE to deliver KubeVela modules. You can dynamically expand the platform as user needs change, adapt to growing number of users and scenarios, and meet the iterative demands of the company's long-term business development.",
+  "source": "@site/versioned_docs/version-v1.3/platform-engineers/cue/advanced.md",
+  "sourceDirName": "platform-engineers/cue",
+  "slug": "/platform-engineers/cue/advanced",
+  "permalink": "/docs/v1.3/platform-engineers/cue/advanced",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "CUE Advanced"
+  }
+}

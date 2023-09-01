@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/policies/health",
+  "id": "end-user/policies/health",
+  "title": "Health Check",
+  "description": "This documentation will introduce how to use health policy to apply periodical",
+  "source": "@site/docs/end-user/policies/health.md",
+  "sourceDirName": "end-user/policies",
+  "slug": "/end-user/policies/health",
+  "permalink": "/docs/end-user/policies/health",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Health Check"
+  }
+}

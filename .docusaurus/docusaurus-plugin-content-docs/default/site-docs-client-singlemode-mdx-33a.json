@@ -1,0 +1,25 @@
+{
+  "unversionedId": "client/singlemode",
+  "id": "client/singlemode",
+  "title": "7.Standalone mode",
+  "description": "",
+  "source": "@site/docs/client/singlemode.mdx",
+  "sourceDirName": "client",
+  "slug": "/client/singlemode",
+  "permalink": "/en/docs/client/singlemode",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "7.Standalone mode"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "6.Settings",
+    "permalink": "/en/docs/client/setting"
+  },
+  "next": {
+    "title": "8.Voice assistant",
+    "permalink": "/en/docs/client/voiceassistance"
+  }
+}

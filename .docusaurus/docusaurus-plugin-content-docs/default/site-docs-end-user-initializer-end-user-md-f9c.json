@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/initializer-end-user",
+  "id": "end-user/initializer-end-user",
+  "title": "Environments",
+  "description": "",
+  "source": "@site/docs/end-user/initializer-end-user.md",
+  "sourceDirName": "end-user",
+  "slug": "/end-user/initializer-end-user",
+  "permalink": "/docs/end-user/initializer-end-user",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Environments"
+  }
+}

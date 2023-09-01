@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/gcp-instance",
+  "id": "end-user/components/cloud-services/terraform/gcp-instance",
+  "title": "Gcp-Instance",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/gcp-instance.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/gcp-instance",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/gcp-instance",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Gcp-Instance"
+  }
+}

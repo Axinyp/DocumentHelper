@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_env_ls",
+  "id": "cli/vela_env_ls",
+  "title": "vela env ls",
+  "description": "List environments for vela applications to run.",
+  "source": "@site/docs/cli/vela_env_ls.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_env_ls",
+  "permalink": "/docs/cli/vela_env_ls",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela env ls"
+  }
+}

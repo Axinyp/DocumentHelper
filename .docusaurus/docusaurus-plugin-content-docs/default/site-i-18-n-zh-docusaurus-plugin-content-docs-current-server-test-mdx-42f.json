@@ -1,0 +1,25 @@
+{
+  "unversionedId": "server/test",
+  "id": "server/test",
+  "title": "登录",
+  "description": "",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/server/test.mdx",
+  "sourceDirName": "server",
+  "slug": "/server/test",
+  "permalink": "/docs/server/test",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "登录"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "ITC",
+    "permalink": "/docs/getting-started/test"
+  },
+  "next": {
+    "title": "1.会议模式",
+    "permalink": "/docs/client/test"
+  }
+}

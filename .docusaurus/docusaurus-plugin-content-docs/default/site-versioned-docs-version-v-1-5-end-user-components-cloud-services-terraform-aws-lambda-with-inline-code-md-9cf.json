@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-lambda-with-inline-code",
+  "id": "version-v1.5/end-user/components/cloud-services/terraform/aws-lambda-with-inline-code",
+  "title": "AWS LAMBDA-WITH-INLINE-CODE",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.5/end-user/components/cloud-services/terraform/aws-lambda-with-inline-code.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-lambda-with-inline-code",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-lambda-with-inline-code",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS LAMBDA-WITH-INLINE-CODE"
+  }
+}

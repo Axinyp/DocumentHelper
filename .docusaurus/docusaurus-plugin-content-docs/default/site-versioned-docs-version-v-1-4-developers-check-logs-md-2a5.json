@@ -1,0 +1,19 @@
+{
+  "unversionedId": "developers/check-logs",
+  "id": "version-v1.4/developers/check-logs",
+  "title": "Check Application Logs",
+  "description": "It will let you select the container to get logs from. If there is only one container it will select automatically.",
+  "source": "@site/versioned_docs/version-v1.4/developers/check-logs.md",
+  "sourceDirName": "developers",
+  "slug": "/developers/check-logs",
+  "permalink": "/docs/v1.4/developers/check-logs",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Check Application Logs"
+  }
+}

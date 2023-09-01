@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/alibaba-slb-acl",
+  "id": "version-v1.5/end-user/components/cloud-services/terraform/alibaba-slb-acl",
+  "title": "Alibaba Cloud SLB-ACL",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.5/end-user/components/cloud-services/terraform/alibaba-slb-acl.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/alibaba-slb-acl",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/alibaba-slb-acl",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Alibaba Cloud SLB-ACL"
+  }
+}

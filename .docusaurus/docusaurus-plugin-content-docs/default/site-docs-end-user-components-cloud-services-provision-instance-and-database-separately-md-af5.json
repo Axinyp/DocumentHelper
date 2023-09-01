@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/provision-instance-and-database-separately",
+  "id": "end-user/components/cloud-services/provision-instance-and-database-separately",
+  "title": "Provision Instance and Database Separately",
+  "description": "In the guide Provision and Binding Cloud Resources and Provision a Database and Import a SQL File for initialization,",
+  "source": "@site/docs/end-user/components/cloud-services/provision-instance-and-database-separately.md",
+  "sourceDirName": "end-user/components/cloud-services",
+  "slug": "/end-user/components/cloud-services/provision-instance-and-database-separately",
+  "permalink": "/docs/end-user/components/cloud-services/provision-instance-and-database-separately",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Provision Instance and Database Separately"
+  }
+}

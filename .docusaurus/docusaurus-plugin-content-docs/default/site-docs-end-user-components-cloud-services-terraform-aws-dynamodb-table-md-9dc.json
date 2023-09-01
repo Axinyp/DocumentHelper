@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-dynamodb-table",
+  "id": "end-user/components/cloud-services/terraform/aws-dynamodb-table",
+  "title": "AWS DYNAMODB-TABLE",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-dynamodb-table.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-dynamodb-table",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-dynamodb-table",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS DYNAMODB-TABLE"
+  }
+}

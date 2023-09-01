@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cue/webservice",
+  "id": "end-user/components/cue/webservice",
+  "title": "Deploy Container as Web Service",
+  "description": "Service-oriented components are components that support external access to services with the container as the core, and their functions cover the needs of most of he microservice scenarios.",
+  "source": "@site/docs/end-user/components/cue/webservice.md",
+  "sourceDirName": "end-user/components/cue",
+  "slug": "/end-user/components/cue/webservice",
+  "permalink": "/docs/end-user/components/cue/webservice",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Deploy Container as Web Service"
+  }
+}

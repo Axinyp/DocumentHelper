@@ -1,0 +1,19 @@
+{
+  "unversionedId": "getting-started/velaux-concept",
+  "id": "version-v1.4/getting-started/velaux-concept",
+  "title": "VelaUX Concept",
+  "description": "This doc has migrated to velaux addon introdution.",
+  "source": "@site/versioned_docs/version-v1.4/getting-started/velaux-concept.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/velaux-concept",
+  "permalink": "/docs/v1.4/getting-started/velaux-concept",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "VelaUX Concept"
+  }
+}

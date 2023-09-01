@@ -1,0 +1,20 @@
+{
+  "unversionedId": "kubectlplugin",
+  "id": "version-v1.5/kubectlplugin",
+  "title": "Install kubectl plugin",
+  "description": "",
+  "source": "@site/versioned_docs/version-v1.5/kubectlplugin.mdx",
+  "sourceDirName": ".",
+  "slug": "/kubectlplugin",
+  "permalink": "/docs/kubectlplugin",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Install kubectl plugin",
+    "draft": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "talks/cn/oam-application",
+  "id": "talks/cn/oam-application",
+  "title": "Building application management platform with Open Application Model",
+  "description": "In this session, we will present practices and principles to build an application management platform with Kubernetes.",
+  "source": "@site/videos/talks/cn/oam-application.md",
+  "sourceDirName": "talks/cn",
+  "slug": "/talks/cn/oam-application",
+  "permalink": "/videos/talks/cn/oam-application",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Building application management platform with Open Application Model"
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "Li Xiang - Managing Applications with Kubernetes and OAM",
+    "permalink": "/videos/talks/cn/oam-manage-app"
+  },
+  "next": {
+    "title": "KubeVela Community Calls",
+    "permalink": "/videos/meetings/"
+  }
+}

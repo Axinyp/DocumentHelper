@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/traits/ingress",
+  "id": "end-user/traits/ingress",
+  "title": "Gateway for Public Access",
+  "description": "The gateway trait exposes a component to public Internet via a valid domain.",
+  "source": "@site/docs/end-user/traits/ingress.md",
+  "sourceDirName": "end-user/traits",
+  "slug": "/end-user/traits/ingress",
+  "permalink": "/docs/end-user/traits/ingress",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Gateway for Public Access"
+  }
+}

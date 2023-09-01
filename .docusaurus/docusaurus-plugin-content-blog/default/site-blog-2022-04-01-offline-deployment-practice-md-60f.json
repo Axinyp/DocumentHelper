@@ -1,0 +1,51 @@
+{
+  "permalink": "/blog/2022/04/01/offline-deployment-practice",
+  "editUrl": "https://github.com/kubevela/kubevela.io/tree/main/blog/2022-04-01-offline-deployment-practice.md",
+  "source": "@site/blog/2022-04-01-offline-deployment-practice.md",
+  "title": "China Merchants Bank's Practice on Offline Installation with KubeVela",
+  "description": "",
+  "date": "2022-04-01T00:00:00.000Z",
+  "formattedDate": "April 1, 2022",
+  "tags": [
+    {
+      "label": "KubeVela",
+      "permalink": "/blog/tags/kube-vela"
+    },
+    {
+      "label": "use-case",
+      "permalink": "/blog/tags/use-case"
+    }
+  ],
+  "readingTime": 5.345,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Xiangbo Ma",
+      "title": "(Cloud platform development team)",
+      "url": "http://www.cmbchina.com/",
+      "imageURL": "/img/china-merchants-bank.jpg"
+    }
+  ],
+  "frontMatter": {
+    "title": "China Merchants Bank's Practice on Offline Installation with KubeVela",
+    "author": "Xiangbo Ma",
+    "author_title": "(Cloud platform development team)",
+    "author_url": "http://www.cmbchina.com/",
+    "author_image_url": "/img/china-merchants-bank.jpg",
+    "tags": [
+      "KubeVela",
+      "use-case"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/oam-dev/KubeVela.io/main/docs/resources/KubeVela-03.png",
+    "hide_table_of_contents": false
+  },
+  "prevItem": {
+    "title": "Easily Manage your Application Shipment With Differentiated Configuration in Multi-Cluster",
+    "permalink": "/blog/2022/04/06/multi-cluster-management"
+  },
+  "nextItem": {
+    "title": "Use Nocalhost and KubeVela for cloud debugging and multi-cluster hybrid cloud deployment",
+    "permalink": "/blog/2022/03/27/kubevela-with-nocalhost"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "how-to/dashboard/application/deploy-application",
+  "id": "version-v1.4/how-to/dashboard/application/deploy-application",
+  "title": "Deploy Application",
+  "description": "deploy an application to environment by KubeVela dashboard",
+  "source": "@site/versioned_docs/version-v1.4/how-to/dashboard/application/deploy-application.md",
+  "sourceDirName": "how-to/dashboard/application",
+  "slug": "/how-to/dashboard/application/deploy-application",
+  "permalink": "/docs/v1.4/how-to/dashboard/application/deploy-application",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Deploy Application",
+    "description": "deploy an application to environment by KubeVela dashboard"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "reference/topology-rule",
+  "id": "version-v1.4/reference/topology-rule",
+  "title": "Resource Topology",
+  "description": "The resource topology graph of VelaUX can automatically show the resource tree of an application for any workloads including Helm charts and cloud resources.",
+  "source": "@site/versioned_docs/version-v1.4/reference/topology-rule.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/topology-rule",
+  "permalink": "/docs/v1.4/reference/topology-rule",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Resource Topology"
+  }
+}

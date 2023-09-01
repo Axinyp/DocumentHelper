@@ -1,0 +1,19 @@
+{
+  "unversionedId": "contributor/non-code-contribute",
+  "id": "version-v1.4/contributor/non-code-contribute",
+  "title": "Non-code Contribution Guide",
+  "description": "You can pick up any of the following ways you're interested to contribute.",
+  "source": "@site/versioned_docs/version-v1.4/contributor/non-code-contribute.md",
+  "sourceDirName": "contributor",
+  "slug": "/contributor/non-code-contribute",
+  "permalink": "/docs/v1.4/contributor/non-code-contribute",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Non-code Contribution Guide"
+  }
+}

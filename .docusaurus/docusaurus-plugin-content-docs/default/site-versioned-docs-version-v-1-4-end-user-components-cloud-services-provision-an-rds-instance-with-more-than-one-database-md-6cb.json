@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/provision-an-RDS-instance-with-more-than-one-database",
+  "id": "version-v1.4/end-user/components/cloud-services/provision-an-RDS-instance-with-more-than-one-database",
+  "title": "Provision an RDS instance with more than one database",
+  "description": "In the guide Provision and Binding Cloud Resources and Provision a Database and Import a SQL File for initialization,",
+  "source": "@site/versioned_docs/version-v1.4/end-user/components/cloud-services/provision-an-RDS-instance-with-more-than-one-database.md",
+  "sourceDirName": "end-user/components/cloud-services",
+  "slug": "/end-user/components/cloud-services/provision-an-RDS-instance-with-more-than-one-database",
+  "permalink": "/docs/v1.4/end-user/components/cloud-services/provision-an-RDS-instance-with-more-than-one-database",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Provision an RDS instance with more than one database"
+  }
+}

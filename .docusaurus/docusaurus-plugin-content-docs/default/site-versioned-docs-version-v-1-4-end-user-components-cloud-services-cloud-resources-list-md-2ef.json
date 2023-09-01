@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/cloud-resources-list",
+  "id": "version-v1.4/end-user/components/cloud-services/cloud-resources-list",
+  "title": "Supported Cloud Resource list",
+  "description": "| Orchestration Type |    Cloud Provider     |                                                    Cloud Resource                                                     |                                                                              Description                                                                              | Verified |",
+  "source": "@site/versioned_docs/version-v1.4/end-user/components/cloud-services/cloud-resources-list.md",
+  "sourceDirName": "end-user/components/cloud-services",
+  "slug": "/end-user/components/cloud-services/cloud-resources-list",
+  "permalink": "/docs/v1.4/end-user/components/cloud-services/cloud-resources-list",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Supported Cloud Resource list"
+  }
+}

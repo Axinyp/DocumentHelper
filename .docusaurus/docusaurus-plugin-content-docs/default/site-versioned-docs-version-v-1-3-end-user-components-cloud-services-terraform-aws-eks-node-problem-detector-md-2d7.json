@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-eks-node-problem-detector",
+  "id": "version-v1.3/end-user/components/cloud-services/terraform/aws-eks-node-problem-detector",
+  "title": "AWS EKS-NODE-PROBLEM-DETECTOR",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.3/end-user/components/cloud-services/terraform/aws-eks-node-problem-detector.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-eks-node-problem-detector",
+  "permalink": "/docs/v1.3/end-user/components/cloud-services/terraform/aws-eks-node-problem-detector",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS EKS-NODE-PROBLEM-DETECTOR"
+  }
+}

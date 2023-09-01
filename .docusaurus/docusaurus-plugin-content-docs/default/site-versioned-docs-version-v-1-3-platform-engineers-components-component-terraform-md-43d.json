@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/components/component-terraform",
+  "id": "version-v1.3/platform-engineers/components/component-terraform",
+  "title": "Extend Cloud Resources",
+  "description": "To enable end users to provision and consume cloud resources,",
+  "source": "@site/versioned_docs/version-v1.3/platform-engineers/components/component-terraform.md",
+  "sourceDirName": "platform-engineers/components",
+  "slug": "/platform-engineers/components/component-terraform",
+  "permalink": "/docs/v1.3/platform-engineers/components/component-terraform",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Extend Cloud Resources"
+  }
+}

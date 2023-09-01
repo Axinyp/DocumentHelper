@@ -1,0 +1,19 @@
+{
+  "unversionedId": "roadmap/2022-09-roadmap",
+  "id": "version-v1.5/roadmap/2022-09-roadmap",
+  "title": "Roadmap 2022.09",
+  "description": "Date: 2022-07-01 to 2022-09-31",
+  "source": "@site/versioned_docs/version-v1.5/roadmap/2022-09-roadmap.md",
+  "sourceDirName": "roadmap",
+  "slug": "/roadmap/2022-09-roadmap",
+  "permalink": "/docs/roadmap/2022-09-roadmap",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Roadmap 2022.09"
+  }
+}

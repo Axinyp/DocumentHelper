@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_registry_ls",
+  "id": "version-v1.3/cli/vela_registry_ls",
+  "title": "vela registry ls",
+  "description": "List all registry",
+  "source": "@site/versioned_docs/version-v1.3/cli/vela_registry_ls.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_registry_ls",
+  "permalink": "/docs/v1.3/cli/vela_registry_ls",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela registry ls"
+  }
+}

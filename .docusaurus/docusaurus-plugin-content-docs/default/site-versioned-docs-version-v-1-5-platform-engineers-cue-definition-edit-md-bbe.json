@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/cue/definition-edit",
+  "id": "version-v1.5/platform-engineers/cue/definition-edit",
+  "title": "Manage Definition",
+  "description": "Before reading this part, please make sure you've learned the Definition Concept of KubeVela.",
+  "source": "@site/versioned_docs/version-v1.5/platform-engineers/cue/definition-edit.md",
+  "sourceDirName": "platform-engineers/cue",
+  "slug": "/platform-engineers/cue/definition-edit",
+  "permalink": "/docs/platform-engineers/cue/definition-edit",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Manage Definition"
+  }
+}

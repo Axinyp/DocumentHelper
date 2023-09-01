@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/traits/patch-trait",
+  "id": "version-v1.5/platform-engineers/traits/patch-trait",
+  "title": "Patch in the Definitions",
+  "description": "When we are writing the definition, sometimes we need to patch to the corresponding component or traits. We can use the patch capability when you're writing trait definitions or workflow step definitions.",
+  "source": "@site/versioned_docs/version-v1.5/platform-engineers/traits/patch-trait.md",
+  "sourceDirName": "platform-engineers/traits",
+  "slug": "/platform-engineers/traits/patch-trait",
+  "permalink": "/docs/platform-engineers/traits/patch-trait",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Patch in the Definitions"
+  }
+}

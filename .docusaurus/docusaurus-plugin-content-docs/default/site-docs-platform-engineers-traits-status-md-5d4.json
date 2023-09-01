@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/traits/status",
+  "id": "platform-engineers/traits/status",
+  "title": "Define Health for Definition",
+  "description": "This documentation will explain how to achieve status write back by using CUE templates in definition objects.",
+  "source": "@site/docs/platform-engineers/traits/status.md",
+  "sourceDirName": "platform-engineers/traits",
+  "slug": "/platform-engineers/traits/status",
+  "permalink": "/docs/platform-engineers/traits/status",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Define Health for Definition"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "server/login",
+  "id": "server/login",
+  "title": "1. Smart Meeting Management Platform",
+  "description": "",
+  "source": "@site/docs/server/login.mdx",
+  "sourceDirName": "server",
+  "slug": "/server/login",
+  "permalink": "/en/docs/server/login",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "1. Smart Meeting Management Platform"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Guangdong Baolun Electronics Co., Ltd.",
+    "permalink": "/en/docs/getting-started/test"
+  },
+  "next": {
+    "title": "1.Meeting mode",
+    "permalink": "/en/docs/client/meetingmode"
+  }
+}

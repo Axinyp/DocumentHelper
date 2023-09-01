@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-route53-cluster-hostname",
+  "id": "version-v1.3/end-user/components/cloud-services/terraform/aws-route53-cluster-hostname",
+  "title": "AWS ROUTE53-CLUSTER-HOSTNAME",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.3/end-user/components/cloud-services/terraform/aws-route53-cluster-hostname.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-route53-cluster-hostname",
+  "permalink": "/docs/v1.3/end-user/components/cloud-services/terraform/aws-route53-cluster-hostname",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS ROUTE53-CLUSTER-HOSTNAME"
+  }
+}

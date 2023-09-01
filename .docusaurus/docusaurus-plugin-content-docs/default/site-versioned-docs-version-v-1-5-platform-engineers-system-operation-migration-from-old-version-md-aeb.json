@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/system-operation/migration-from-old-version",
+  "id": "version-v1.5/platform-engineers/system-operation/migration-from-old-version",
+  "title": "Migrate from Old Versions",
+  "description": "This doc aims to provide a migration guide from old versions to the new ones without disturb the running business. However scenarios are different from each other, we strongly recommend you to test the migration with a simulation environment before real migration for your production.",
+  "source": "@site/versioned_docs/version-v1.5/platform-engineers/system-operation/migration-from-old-version.md",
+  "sourceDirName": "platform-engineers/system-operation",
+  "slug": "/platform-engineers/system-operation/migration-from-old-version",
+  "permalink": "/docs/platform-engineers/system-operation/migration-from-old-version",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Migrate from Old Versions"
+  }
+}

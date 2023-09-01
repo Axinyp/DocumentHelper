@@ -1,0 +1,20 @@
+{
+  "unversionedId": "end-user/components/cloud-services/cloud-resource-scenarios",
+  "id": "version-v1.5/end-user/components/cloud-services/cloud-resource-scenarios",
+  "title": "Overview of Terraform",
+  "description": "This section introduces some scenarios of cloud resources management",
+  "source": "@site/versioned_docs/version-v1.5/end-user/components/cloud-services/cloud-resource-scenarios.md",
+  "sourceDirName": "end-user/components/cloud-services",
+  "slug": "/end-user/components/cloud-services/cloud-resource-scenarios",
+  "permalink": "/docs/end-user/components/cloud-services/cloud-resource-scenarios",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Overview of Terraform",
+    "description": "This section introduces some scenarios of cloud resources management"
+  }
+}

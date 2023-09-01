@@ -1,0 +1,19 @@
+{
+  "unversionedId": "reference/addons/terraform",
+  "id": "reference/addons/terraform",
+  "title": "Terraform",
+  "description": "To provision cloud resources, you can use terraform along with related cloud provider addons.",
+  "source": "@site/docs/reference/addons/terraform.md",
+  "sourceDirName": "reference/addons",
+  "slug": "/reference/addons/terraform",
+  "permalink": "/docs/reference/addons/terraform",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Terraform"
+  }
+}

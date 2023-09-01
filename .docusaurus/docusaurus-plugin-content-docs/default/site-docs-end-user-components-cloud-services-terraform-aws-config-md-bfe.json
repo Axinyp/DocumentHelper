@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-config",
+  "id": "end-user/components/cloud-services/terraform/aws-config",
+  "title": "AWS CONFIG",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-config.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-config",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-config",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS CONFIG"
+  }
+}

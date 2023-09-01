@@ -1,0 +1,19 @@
+{
+  "unversionedId": "install",
+  "id": "version-v1.5/install",
+  "title": "Installation Overview",
+  "description": "Here are two installation methods available according to your environment:",
+  "source": "@site/versioned_docs/version-v1.5/install.mdx",
+  "sourceDirName": ".",
+  "slug": "/install",
+  "permalink": "/docs/install",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Installation Overview"
+  }
+}

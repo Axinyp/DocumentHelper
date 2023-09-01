@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/azure-resource-group",
+  "id": "end-user/components/cloud-services/terraform/azure-resource-group",
+  "title": "Azure RESOURCE-GROUP",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/azure-resource-group.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/azure-resource-group",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/azure-resource-group",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Azure RESOURCE-GROUP"
+  }
+}

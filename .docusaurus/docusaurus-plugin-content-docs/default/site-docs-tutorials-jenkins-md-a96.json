@@ -1,0 +1,19 @@
+{
+  "unversionedId": "tutorials/jenkins",
+  "id": "tutorials/jenkins",
+  "title": "Jenkins CI",
+  "description": "Introduction",
+  "source": "@site/docs/tutorials/jenkins.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/jenkins",
+  "permalink": "/docs/tutorials/jenkins",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Jenkins CI"
+  }
+}

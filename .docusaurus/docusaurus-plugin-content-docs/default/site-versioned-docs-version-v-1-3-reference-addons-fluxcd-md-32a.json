@@ -1,0 +1,19 @@
+{
+  "unversionedId": "reference/addons/fluxcd",
+  "id": "version-v1.3/reference/addons/fluxcd",
+  "title": "FluxCD",
+  "description": "This addon is built based FluxCD",
+  "source": "@site/versioned_docs/version-v1.3/reference/addons/fluxcd.md",
+  "sourceDirName": "reference/addons",
+  "slug": "/reference/addons/fluxcd",
+  "permalink": "/docs/v1.3/reference/addons/fluxcd",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "FluxCD"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-route53-zones",
+  "id": "end-user/components/cloud-services/terraform/aws-route53-zones",
+  "title": "AWS ROUTE53-ZONES",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-route53-zones.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-route53-zones",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-route53-zones",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS ROUTE53-ZONES"
+  }
+}

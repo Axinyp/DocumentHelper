@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/kube/component",
+  "id": "version-v1.3/platform-engineers/kube/component",
+  "title": "How-to",
+  "description": "In this section, it will introduce how to use simple template to declare Kubernetes API resource into a component.",
+  "source": "@site/versioned_docs/version-v1.3/platform-engineers/kube/component.md",
+  "sourceDirName": "platform-engineers/kube",
+  "slug": "/platform-engineers/kube/component",
+  "permalink": "/docs/v1.3/platform-engineers/kube/component",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "How-to"
+  }
+}

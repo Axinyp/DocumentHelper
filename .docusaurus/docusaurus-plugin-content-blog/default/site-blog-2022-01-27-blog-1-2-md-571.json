@@ -1,0 +1,50 @@
+{
+  "permalink": "/blog/2022/01/27/blog-1.2",
+  "editUrl": "https://github.com/kubevela/kubevela.io/tree/main/blog/2022-01-27-blog-1.2.md",
+  "source": "@site/blog/2022-01-27-blog-1.2.md",
+  "title": "KubeVela v1.2 - Focused on Developer Experience, Simplified Multi-Cluster Application Delivery",
+  "description": "",
+  "date": "2022-01-27T00:00:00.000Z",
+  "formattedDate": "January 27, 2022",
+  "tags": [
+    {
+      "label": "DevOps",
+      "permalink": "/blog/tags/dev-ops"
+    },
+    {
+      "label": "release-note",
+      "permalink": "/blog/tags/release-note"
+    }
+  ],
+  "readingTime": 11.79,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "KubeVela Maintainers",
+      "title": "KubeVela Team",
+      "url": "https://github.com/kubevela/kubevela",
+      "imageURL": "https://kubevela.io/img/logo.svg"
+    }
+  ],
+  "frontMatter": {
+    "title": "KubeVela v1.2 - Focused on Developer Experience, Simplified Multi-Cluster Application Delivery",
+    "author": "KubeVela Maintainers",
+    "author_title": "KubeVela Team",
+    "author_url": "https://github.com/kubevela/kubevela",
+    "author_image_url": "https://kubevela.io/img/logo.svg",
+    "tags": [
+      "DevOps",
+      "release-note"
+    ],
+    "description": "",
+    "hide_table_of_contents": false
+  },
+  "prevItem": {
+    "title": "Generate top 50 popular resources of AWS using 100 lines of code",
+    "permalink": "/blog/2022/03/01/kubevela-generate-top-50-popular-resources-of-aws-using-100-lines-of-code"
+  },
+  "nextItem": {
+    "title": "Using GitOps + KubeVela for Application Continuous Delivery",
+    "permalink": "/blog/2021/10/10/kubevela-gitops"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-iam-group-with-assumable-roles-policy",
+  "id": "version-v1.5/end-user/components/cloud-services/terraform/aws-iam-group-with-assumable-roles-policy",
+  "title": "AWS IAM-GROUP-WITH-ASSUMABLE-ROLES-POLICY",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.5/end-user/components/cloud-services/terraform/aws-iam-group-with-assumable-roles-policy.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-iam-group-with-assumable-roles-policy",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-iam-group-with-assumable-roles-policy",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS IAM-GROUP-WITH-ASSUMABLE-ROLES-POLICY"
+  }
+}

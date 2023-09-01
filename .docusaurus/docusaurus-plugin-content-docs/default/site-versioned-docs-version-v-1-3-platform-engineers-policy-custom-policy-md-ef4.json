@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/policy/custom-policy",
+  "id": "version-v1.3/platform-engineers/policy/custom-policy",
+  "title": "Custom Policy",
+  "description": "TBD",
+  "source": "@site/versioned_docs/version-v1.3/platform-engineers/policy/custom-policy.md",
+  "sourceDirName": "platform-engineers/policy",
+  "slug": "/platform-engineers/policy/custom-policy",
+  "permalink": "/docs/v1.3/platform-engineers/policy/custom-policy",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Custom Policy"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-security-hub",
+  "id": "end-user/components/cloud-services/terraform/aws-security-hub",
+  "title": "AWS SECURITY-HUB",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-security-hub.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-security-hub",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-security-hub",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS SECURITY-HUB"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/gcp-dcos",
+  "id": "version-v1.4/end-user/components/cloud-services/terraform/gcp-dcos",
+  "title": "Gcp-Dcos",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.4/end-user/components/cloud-services/terraform/gcp-dcos.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/gcp-dcos",
+  "permalink": "/docs/v1.4/end-user/components/cloud-services/terraform/gcp-dcos",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Gcp-Dcos"
+  }
+}

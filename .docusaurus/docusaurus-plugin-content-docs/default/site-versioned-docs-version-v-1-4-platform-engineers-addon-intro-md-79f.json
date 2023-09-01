@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/addon/intro",
+  "id": "version-v1.4/platform-engineers/addon/intro",
+  "title": "Build Your Own Addon",
+  "description": "The picture below shows what KubeVela does when an addon is enabled. There are mainly three process:",
+  "source": "@site/versioned_docs/version-v1.4/platform-engineers/addon/intro.md",
+  "sourceDirName": "platform-engineers/addon",
+  "slug": "/platform-engineers/addon/intro",
+  "permalink": "/docs/v1.4/platform-engineers/addon/intro",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Build Your Own Addon"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "case-studies/multi-cluster",
+  "id": "case-studies/multi-cluster",
+  "title": "Multi Cluster Application",
+  "description": "KubeVela is by design a full functional Continuous Delivery (CD) platform with fine grained support for hybrid/multi-cloud/multi-cluster deployment.",
+  "source": "@site/docs/case-studies/multi-cluster.md",
+  "sourceDirName": "case-studies",
+  "slug": "/case-studies/multi-cluster",
+  "permalink": "/docs/case-studies/multi-cluster",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Multi Cluster Application"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "tutorials/consume-cloud-services",
+  "id": "version-v1.3/tutorials/consume-cloud-services",
+  "title": "Deploy Cloud Services",
+  "description": "This section introduces the delivery of services provided by cloud vendors through KubeVela and orchestrating your services in the Kubernetes cluster.",
+  "source": "@site/versioned_docs/version-v1.3/tutorials/consume-cloud-services.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/consume-cloud-services",
+  "permalink": "/docs/v1.3/tutorials/consume-cloud-services",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Deploy Cloud Services",
+    "description": "This section introduces the delivery of services provided by cloud vendors through KubeVela and orchestrating your services in the Kubernetes cluster."
+  }
+}

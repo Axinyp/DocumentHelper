@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-eks",
+  "id": "end-user/components/cloud-services/terraform/aws-eks",
+  "title": "AWS EKS",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-eks.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-eks",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-eks",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS EKS"
+  }
+}

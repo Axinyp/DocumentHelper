@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/alibaba-kubernetes-networking",
+  "id": "end-user/components/cloud-services/terraform/alibaba-kubernetes-networking",
+  "title": "Alibaba Cloud KUBERNETES-NETWORKING",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/alibaba-kubernetes-networking.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/alibaba-kubernetes-networking",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/alibaba-kubernetes-networking",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Alibaba Cloud KUBERNETES-NETWORKING"
+  }
+}

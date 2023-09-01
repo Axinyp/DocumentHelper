@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-eks-external-dns",
+  "id": "end-user/components/cloud-services/terraform/aws-eks-external-dns",
+  "title": "AWS EKS-EXTERNAL-DNS",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-eks-external-dns.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-eks-external-dns",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-eks-external-dns",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS EKS-EXTERNAL-DNS"
+  }
+}

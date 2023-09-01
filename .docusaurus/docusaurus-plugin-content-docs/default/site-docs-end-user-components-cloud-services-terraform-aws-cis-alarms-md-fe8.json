@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-cis-alarms",
+  "id": "end-user/components/cloud-services/terraform/aws-cis-alarms",
+  "title": "AWS CIS-ALARMS",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-cis-alarms.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-cis-alarms",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-cis-alarms",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS CIS-ALARMS"
+  }
+}

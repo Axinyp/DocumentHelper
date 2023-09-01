@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_provider_add_terraform-baidu",
+  "id": "version-v1.5/cli/vela_provider_add_terraform-baidu",
+  "title": "vela provider add terraform-baidu",
+  "description": "Authenticate Terraform Cloud Provider terraform-baidu",
+  "source": "@site/versioned_docs/version-v1.5/cli/vela_provider_add_terraform-baidu.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_provider_add_terraform-baidu",
+  "permalink": "/docs/cli/vela_provider_add_terraform-baidu",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela provider add terraform-baidu"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "tutorials/helm",
+  "id": "tutorials/helm",
+  "title": "Deploy Helm Chart",
+  "description": "This section introduces how you deploy Helm Chart.",
+  "source": "@site/docs/tutorials/helm.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/helm",
+  "permalink": "/docs/tutorials/helm",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Deploy Helm Chart"
+  }
+}

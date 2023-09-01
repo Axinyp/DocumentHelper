@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/workflow/built-in-workflow-defs",
+  "id": "version-v1.3/end-user/workflow/built-in-workflow-defs",
+  "title": "Built-in Workflow Steps",
+  "description": "This documentation will walk through the built-in workflow steps that you can use to design an application deployment process.",
+  "source": "@site/versioned_docs/version-v1.3/end-user/workflow/built-in-workflow-defs.md",
+  "sourceDirName": "end-user/workflow",
+  "slug": "/end-user/workflow/built-in-workflow-defs",
+  "permalink": "/docs/v1.3/end-user/workflow/built-in-workflow-defs",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Built-in Workflow Steps"
+  }
+}

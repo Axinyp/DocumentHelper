@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-cloudwatch-metric-alarm",
+  "id": "end-user/components/cloud-services/terraform/aws-cloudwatch-metric-alarm",
+  "title": "AWS CLOUDWATCH-METRIC-ALARM",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-cloudwatch-metric-alarm.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-cloudwatch-metric-alarm",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-cloudwatch-metric-alarm",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS CLOUDWATCH-METRIC-ALARM"
+  }
+}

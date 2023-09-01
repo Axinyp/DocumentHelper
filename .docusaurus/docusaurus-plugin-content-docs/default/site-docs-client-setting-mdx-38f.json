@@ -1,0 +1,25 @@
+{
+  "unversionedId": "client/setting",
+  "id": "client/setting",
+  "title": "6.Settings",
+  "description": "",
+  "source": "@site/docs/client/setting.mdx",
+  "sourceDirName": "client",
+  "slug": "/client/setting",
+  "permalink": "/en/docs/client/setting",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "6.Settings"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "5.File display",
+    "permalink": "/en/docs/client/filepreviewer"
+  },
+  "next": {
+    "title": "7.Standalone mode",
+    "permalink": "/en/docs/client/singlemode"
+  }
+}

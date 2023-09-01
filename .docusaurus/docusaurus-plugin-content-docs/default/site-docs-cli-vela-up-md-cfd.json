@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_up",
+  "id": "cli/vela_up",
+  "title": "vela up",
+  "description": "Deploy one application",
+  "source": "@site/docs/cli/vela_up.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_up",
+  "permalink": "/docs/cli/vela_up",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela up"
+  }
+}

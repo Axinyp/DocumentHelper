@@ -1,0 +1,19 @@
+{
+  "unversionedId": "quick-start",
+  "id": "version-v1.5/quick-start",
+  "title": "Deploy First Application",
+  "description": "Before starting, please confirm that you've installed KubeVela and enabled the VelaUX addon according to the installation guide.",
+  "source": "@site/versioned_docs/version-v1.5/quick-start.md",
+  "sourceDirName": ".",
+  "slug": "/quick-start",
+  "permalink": "/docs/quick-start",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Deploy First Application"
+  }
+}

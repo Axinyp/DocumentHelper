@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/system-operation/system-info-diagnose",
+  "id": "platform-engineers/system-operation/system-info-diagnose",
+  "title": "System Info and Diagnose",
+  "description": "Vela CLI provide a command to diagnose the system and show the system information.",
+  "source": "@site/docs/platform-engineers/system-operation/system-info-diagnose.md",
+  "sourceDirName": "platform-engineers/system-operation",
+  "slug": "/platform-engineers/system-operation/system-info-diagnose",
+  "permalink": "/docs/platform-engineers/system-operation/system-info-diagnose",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "System Info and Diagnose"
+  }
+}

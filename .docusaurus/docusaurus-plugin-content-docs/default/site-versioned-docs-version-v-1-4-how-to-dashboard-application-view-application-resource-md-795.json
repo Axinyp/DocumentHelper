@@ -1,0 +1,19 @@
+{
+  "unversionedId": "how-to/dashboard/application/view-application-resource",
+  "id": "version-v1.4/how-to/dashboard/application/view-application-resource",
+  "title": "View Resources List Created",
+  "description": "If you want to learn the resources created by the applications, you can open the environment status page.",
+  "source": "@site/versioned_docs/version-v1.4/how-to/dashboard/application/view-application-resource.md",
+  "sourceDirName": "how-to/dashboard/application",
+  "slug": "/how-to/dashboard/application/view-application-resource",
+  "permalink": "/docs/v1.4/how-to/dashboard/application/view-application-resource",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "View Resources List Created"
+  }
+}

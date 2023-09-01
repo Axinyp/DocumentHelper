@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/traits/advanced",
+  "id": "version-v1.3/platform-engineers/traits/advanced",
+  "title": "Advanced Features",
+  "description": "As a Data Configuration Language, CUE allows you to do some advanced templating magic in definition objects.",
+  "source": "@site/versioned_docs/version-v1.3/platform-engineers/traits/advanced.md",
+  "sourceDirName": "platform-engineers/traits",
+  "slug": "/platform-engineers/traits/advanced",
+  "permalink": "/docs/v1.3/platform-engineers/traits/advanced",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Advanced Features"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/workflow/if-condition",
+  "id": "end-user/workflow/if-condition",
+  "title": "If Conditions",
+  "description": "This section introduces how to add if conditions to workflow steps.",
+  "source": "@site/docs/end-user/workflow/if-condition.md",
+  "sourceDirName": "end-user/workflow",
+  "slug": "/end-user/workflow/if-condition",
+  "permalink": "/docs/end-user/workflow/if-condition",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "If Conditions"
+  }
+}

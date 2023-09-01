@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/azure-subnet",
+  "id": "version-v1.3/end-user/components/cloud-services/terraform/azure-subnet",
+  "title": "Azure SUBNET",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.3/end-user/components/cloud-services/terraform/azure-subnet.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/azure-subnet",
+  "permalink": "/docs/v1.3/end-user/components/cloud-services/terraform/azure-subnet",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Azure SUBNET"
+  }
+}

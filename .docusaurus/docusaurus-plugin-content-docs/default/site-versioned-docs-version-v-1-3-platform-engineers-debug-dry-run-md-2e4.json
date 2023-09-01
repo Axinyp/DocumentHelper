@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/debug/dry-run",
+  "id": "version-v1.3/platform-engineers/debug/dry-run",
+  "title": "Dry Run for Debugging",
+  "description": "Dry run will help you to understand what are the real resources which will to be expanded and deployed",
+  "source": "@site/versioned_docs/version-v1.3/platform-engineers/debug/dry-run.md",
+  "sourceDirName": "platform-engineers/debug",
+  "slug": "/platform-engineers/debug/dry-run",
+  "permalink": "/docs/v1.3/platform-engineers/debug/dry-run",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Dry Run for Debugging"
+  }
+}

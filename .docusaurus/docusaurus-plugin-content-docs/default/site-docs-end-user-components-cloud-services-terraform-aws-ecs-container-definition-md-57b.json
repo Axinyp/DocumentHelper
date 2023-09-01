@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-ecs-container-definition",
+  "id": "end-user/components/cloud-services/terraform/aws-ecs-container-definition",
+  "title": "AWS ECS-CONTAINER-DEFINITION",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-ecs-container-definition.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-ecs-container-definition",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-ecs-container-definition",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS ECS-CONTAINER-DEFINITION"
+  }
+}

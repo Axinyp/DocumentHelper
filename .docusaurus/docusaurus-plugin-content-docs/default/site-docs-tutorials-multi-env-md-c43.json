@@ -1,0 +1,19 @@
+{
+  "unversionedId": "tutorials/multi-env",
+  "id": "tutorials/multi-env",
+  "title": "Multi Environment Delivery",
+  "description": "Environments represent your deployment targets logically (QA, Prod, etc). You can add the same Environment to as many Targets as you need.",
+  "source": "@site/docs/tutorials/multi-env.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/multi-env",
+  "permalink": "/docs/tutorials/multi-env",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Multi Environment Delivery"
+  }
+}

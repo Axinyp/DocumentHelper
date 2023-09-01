@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-cloudwatch-metric-alarms-by-multiple-dimensions",
+  "id": "end-user/components/cloud-services/terraform/aws-cloudwatch-metric-alarms-by-multiple-dimensions",
+  "title": "AWS CLOUDWATCH-METRIC-ALARMS-BY-MULTIPLE-DIMENSIONS",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-cloudwatch-metric-alarms-by-multiple-dimensions.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-cloudwatch-metric-alarms-by-multiple-dimensions",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-cloudwatch-metric-alarms-by-multiple-dimensions",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS CLOUDWATCH-METRIC-ALARMS-BY-MULTIPLE-DIMENSIONS"
+  }
+}

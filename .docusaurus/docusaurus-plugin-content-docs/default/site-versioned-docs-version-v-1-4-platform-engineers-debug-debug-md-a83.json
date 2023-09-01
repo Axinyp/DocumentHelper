@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/debug/debug",
+  "id": "version-v1.4/platform-engineers/debug/debug",
+  "title": "Debug in the environment",
+  "description": "This feature is available in KubeVela v1.4.",
+  "source": "@site/versioned_docs/version-v1.4/platform-engineers/debug/debug.md",
+  "sourceDirName": "platform-engineers/debug",
+  "slug": "/platform-engineers/debug/",
+  "permalink": "/docs/v1.4/platform-engineers/debug/",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Debug in the environment"
+  }
+}

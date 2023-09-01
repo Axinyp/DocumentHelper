@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/gcp-memorystore-redis",
+  "id": "version-v1.3/end-user/components/cloud-services/terraform/gcp-memorystore-redis",
+  "title": "Gcp-Memorystore-Redis",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.3/end-user/components/cloud-services/terraform/gcp-memorystore-redis.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/gcp-memorystore-redis",
+  "permalink": "/docs/v1.3/end-user/components/cloud-services/terraform/gcp-memorystore-redis",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Gcp-Memorystore-Redis"
+  }
+}

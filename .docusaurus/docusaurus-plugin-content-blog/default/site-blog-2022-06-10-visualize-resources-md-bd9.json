@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/2022/06/10/visualize-resources",
+  "editUrl": "https://github.com/kubevela/kubevela.io/tree/main/blog/2022-06-10-visualize-resources.md",
+  "source": "@site/blog/2022-06-10-visualize-resources.md",
+  "title": "Trace and visualize the relationships between the kubernetes resources with KubeVela",
+  "description": "",
+  "date": "2022-06-10T00:00:00.000Z",
+  "formattedDate": "June 10, 2022",
+  "tags": [
+    {
+      "label": "KubeVela",
+      "permalink": "/blog/tags/kube-vela"
+    },
+    {
+      "label": "Observable",
+      "permalink": "/blog/tags/observable"
+    }
+  ],
+  "readingTime": 7.68,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Qingguo Zeng",
+      "url": "https://github.com/barnettZQG",
+      "imageURL": "https://avatars.githubusercontent.com/u/18493394?v=4"
+    }
+  ],
+  "frontMatter": {
+    "title": "Trace and visualize the relationships between the kubernetes resources with KubeVela",
+    "author": "Qingguo Zeng",
+    "author_url": "https://github.com/barnettZQG",
+    "author_image_url": "https://avatars.githubusercontent.com/u/18493394?v=4",
+    "tags": [
+      "KubeVela",
+      "Observable"
+    ],
+    "description": "",
+    "image": "https://raw.githubusercontent.com/oam-dev/KubeVela.io/main/docs/resources/KubeVela-03.png",
+    "hide_table_of_contents": false
+  },
+  "prevItem": {
+    "title": "KubeVela 1.4 released, Make Application Delivery Safe, Foolproof, and Transparent",
+    "permalink": "/blog/2022/06/21/release-1.4"
+  },
+  "nextItem": {
+    "title": "Build flexible abstraction for any Kubernetes Resources with CUE and KubeVela",
+    "permalink": "/blog/2022/05/30/abstraction-kubevela"
+  }
+}

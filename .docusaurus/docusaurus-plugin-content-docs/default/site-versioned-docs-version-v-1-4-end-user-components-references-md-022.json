@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/references",
+  "id": "version-v1.4/end-user/components/references",
+  "title": "Built-in Component Type",
+  "description": "This documentation will walk through all the built-in component types sorted alphabetically.",
+  "source": "@site/versioned_docs/version-v1.4/end-user/components/references.md",
+  "sourceDirName": "end-user/components",
+  "slug": "/end-user/components/references",
+  "permalink": "/docs/v1.4/end-user/components/references",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Built-in Component Type"
+  }
+}

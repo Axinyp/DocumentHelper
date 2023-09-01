@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_kube",
+  "id": "version-v1.4/cli/vela_kube",
+  "title": "vela kube",
+  "description": "Managing native Kubernetes resources across clusters.",
+  "source": "@site/versioned_docs/version-v1.4/cli/vela_kube.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_kube",
+  "permalink": "/docs/v1.4/cli/vela_kube",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela kube"
+  }
+}

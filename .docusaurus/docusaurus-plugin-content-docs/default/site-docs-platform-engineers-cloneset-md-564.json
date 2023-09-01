@@ -1,0 +1,20 @@
+{
+  "unversionedId": "platform-engineers/cloneset",
+  "id": "platform-engineers/cloneset",
+  "title": "Extend CRD Operator as Component Type",
+  "description": "Let's use OpenKruise as example of extend CRD as KubeVela Component.",
+  "source": "@site/docs/platform-engineers/cloneset.md",
+  "sourceDirName": "platform-engineers",
+  "slug": "/platform-engineers/cloneset",
+  "permalink": "/docs/platform-engineers/cloneset",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Extend CRD Operator as Component Type",
+    "draft": true
+  }
+}

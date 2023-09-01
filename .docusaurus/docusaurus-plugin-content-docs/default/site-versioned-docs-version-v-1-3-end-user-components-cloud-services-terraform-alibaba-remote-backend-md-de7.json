@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/alibaba-remote-backend",
+  "id": "version-v1.3/end-user/components/cloud-services/terraform/alibaba-remote-backend",
+  "title": "Alibaba Cloud REMOTE-BACKEND",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.3/end-user/components/cloud-services/terraform/alibaba-remote-backend.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/alibaba-remote-backend",
+  "permalink": "/docs/v1.3/end-user/components/cloud-services/terraform/alibaba-remote-backend",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Alibaba Cloud REMOTE-BACKEND"
+  }
+}

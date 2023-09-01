@@ -1,0 +1,19 @@
+{
+  "unversionedId": "reference/addons/traefik",
+  "id": "reference/addons/traefik",
+  "title": "Traefik",
+  "description": "Traefik is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease. you can use this addon as a cluster gateway or a microservices gateway.",
+  "source": "@site/docs/reference/addons/traefik.md",
+  "sourceDirName": "reference/addons",
+  "slug": "/reference/addons/traefik",
+  "permalink": "/docs/reference/addons/traefik",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Traefik"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "client/meetingmode",
+  "id": "client/meetingmode",
+  "title": "1.Meeting mode",
+  "description": "",
+  "source": "@site/docs/client/meetingmode.mdx",
+  "sourceDirName": "client",
+  "slug": "/client/meetingmode",
+  "permalink": "/en/docs/client/meetingmode",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "1.Meeting mode"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "1. Smart Meeting Management Platform",
+    "permalink": "/en/docs/server/login"
+  },
+  "next": {
+    "title": "2. Tool",
+    "permalink": "/en/docs/client/tool"
+  }
+}

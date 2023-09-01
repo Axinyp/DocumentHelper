@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_def",
+  "id": "cli/vela_def",
+  "title": "vela def",
+  "description": "Manage Definitions",
+  "source": "@site/docs/cli/vela_def.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_def",
+  "permalink": "/docs/cli/vela_def",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela def"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/gcp-compute-forwarding-rule",
+  "id": "end-user/components/cloud-services/terraform/gcp-compute-forwarding-rule",
+  "title": "Gcp-Compute-Forwarding-Rule",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/gcp-compute-forwarding-rule.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/gcp-compute-forwarding-rule",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/gcp-compute-forwarding-rule",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Gcp-Compute-Forwarding-Rule"
+  }
+}

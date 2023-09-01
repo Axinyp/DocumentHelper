@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-metric-alarm",
+  "id": "version-v1.3/end-user/components/cloud-services/terraform/aws-metric-alarm",
+  "title": "AWS METRIC-ALARM",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.3/end-user/components/cloud-services/terraform/aws-metric-alarm.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-metric-alarm",
+  "permalink": "/docs/v1.3/end-user/components/cloud-services/terraform/aws-metric-alarm",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS METRIC-ALARM"
+  }
+}

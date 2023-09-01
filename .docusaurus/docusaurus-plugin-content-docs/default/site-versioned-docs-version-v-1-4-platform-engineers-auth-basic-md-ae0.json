@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/auth/basic",
+  "id": "version-v1.4/platform-engineers/auth/basic",
+  "title": "Kubernetes RBAC",
+  "description": "In KubeVela v1.4, Authentication & Authorization mechanism is introduced. This allows applications to dispatch and manage resources using the identity of the application's creator/modifier. With this feature, it will be easy to limit the access of KubeVela users/applications and isolate their living spaces, which will make your KubeVela system safer.",
+  "source": "@site/versioned_docs/version-v1.4/platform-engineers/auth/basic.md",
+  "sourceDirName": "platform-engineers/auth",
+  "slug": "/platform-engineers/auth/basic",
+  "permalink": "/docs/v1.4/platform-engineers/auth/basic",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Kubernetes RBAC"
+  }
+}

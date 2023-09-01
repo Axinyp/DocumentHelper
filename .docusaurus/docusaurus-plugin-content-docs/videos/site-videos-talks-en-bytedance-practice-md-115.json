@@ -1,0 +1,28 @@
+{
+  "unversionedId": "talks/en/bytedance-practice",
+  "id": "talks/en/bytedance-practice",
+  "title": "Production-scale Containerized Game Platform Practice in Bytedance",
+  "description": "By Chenyu Jiang, ByteDance, Inc & Viktor Farcic, Upbound",
+  "source": "@site/videos/talks/en/bytedance-practice.md",
+  "sourceDirName": "talks/en",
+  "slug": "/talks/en/bytedance-practice",
+  "permalink": "/videos/talks/en/bytedance-practice",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Production-scale Containerized Game Platform Practice in Bytedance"
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "Standardizing Cloud Native Application Delivery Across Different Clouds",
+    "permalink": "/videos/talks/en/standardizing-app"
+  },
+  "next": {
+    "title": "Mark Russinovich presents \"The Future of Cloud Native Applications with Open Application Model and Dapr\"",
+    "permalink": "/videos/talks/en/oam-dapr"
+  }
+}

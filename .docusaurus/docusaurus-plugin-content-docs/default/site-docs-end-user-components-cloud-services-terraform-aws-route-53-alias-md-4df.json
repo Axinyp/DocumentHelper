@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-route53-alias",
+  "id": "end-user/components/cloud-services/terraform/aws-route53-alias",
+  "title": "AWS ROUTE53-ALIAS",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-route53-alias.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-route53-alias",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-route53-alias",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS ROUTE53-ALIAS"
+  }
+}

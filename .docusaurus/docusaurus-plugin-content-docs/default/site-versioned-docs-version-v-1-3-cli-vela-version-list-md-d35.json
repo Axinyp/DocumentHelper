@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_version_list",
+  "id": "version-v1.3/cli/vela_version_list",
+  "title": "vela version list",
+  "description": "List all available versions",
+  "source": "@site/versioned_docs/version-v1.3/cli/vela_version_list.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_version_list",
+  "permalink": "/docs/v1.3/cli/vela_version_list",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela version list"
+  }
+}

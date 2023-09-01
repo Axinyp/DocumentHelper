@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "itcHUB",
+    "description": "The title in the navbar"
+  },
+  "item.label.Documentation": {
+    "message": "文档",
+    "description": "Navbar item with label Documentation"
+  }
+}

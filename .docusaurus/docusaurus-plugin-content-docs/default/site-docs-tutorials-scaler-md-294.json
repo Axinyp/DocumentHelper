@@ -1,0 +1,20 @@
+{
+  "unversionedId": "tutorials/scaler",
+  "id": "tutorials/scaler",
+  "title": "Modify Replicas",
+  "description": "This article introduces how KubeVela adjusts the number of application copies.",
+  "source": "@site/docs/tutorials/scaler.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/scaler",
+  "permalink": "/docs/tutorials/scaler",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Modify Replicas",
+    "description": "This article introduces how KubeVela adjusts the number of application copies."
+  }
+}

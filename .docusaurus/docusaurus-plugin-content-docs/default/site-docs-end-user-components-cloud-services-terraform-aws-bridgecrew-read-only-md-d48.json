@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-bridgecrew-read-only",
+  "id": "end-user/components/cloud-services/terraform/aws-bridgecrew-read-only",
+  "title": "AWS BRIDGECREW-READ-ONLY",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-bridgecrew-read-only.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-bridgecrew-read-only",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-bridgecrew-read-only",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS BRIDGECREW-READ-ONLY"
+  }
+}

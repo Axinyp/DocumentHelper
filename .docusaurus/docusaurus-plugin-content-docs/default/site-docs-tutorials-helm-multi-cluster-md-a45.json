@@ -1,0 +1,19 @@
+{
+  "unversionedId": "tutorials/helm-multi-cluster",
+  "id": "tutorials/helm-multi-cluster",
+  "title": "Multi Cluster Delivery",
+  "description": "This doc has been migrated to this blog.",
+  "source": "@site/docs/tutorials/helm-multi-cluster.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/helm-multi-cluster",
+  "permalink": "/docs/tutorials/helm-multi-cluster",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Multi Cluster Delivery"
+  }
+}

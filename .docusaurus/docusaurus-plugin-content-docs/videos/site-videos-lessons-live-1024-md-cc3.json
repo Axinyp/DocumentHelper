@@ -1,0 +1,28 @@
+{
+  "unversionedId": "lessons/live-1024",
+  "id": "lessons/live-1024",
+  "title": "1024 Live Lessons",
+  "description": "The 1024 live lessons are a collection of lessons that are designed to help you get started with KubeVela.",
+  "source": "@site/videos/lessons/live-1024.md",
+  "sourceDirName": "lessons",
+  "slug": "/lessons/live-1024",
+  "permalink": "/videos/lessons/live-1024",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "1024 Live Lessons"
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "Use Nocalhost and KubeVela for cloud debugging and multi-cluster hybrid cloud deployment",
+    "permalink": "/videos/best-practice/kubevela-nocalhost"
+  },
+  "next": {
+    "title": "CNCF Minutes from Saiyam Pathak: KubeVela - Walkthrough",
+    "permalink": "/videos/talks/en/saiyam-cncf-minutes"
+  }
+}

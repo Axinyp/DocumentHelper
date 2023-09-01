@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/addon/terraform",
+  "id": "platform-engineers/addon/terraform",
+  "title": "Extend Terraform Addon",
+  "description": "Terraform Controller is the core controller to provision and manage",
+  "source": "@site/docs/platform-engineers/addon/terraform.md",
+  "sourceDirName": "platform-engineers/addon",
+  "slug": "/platform-engineers/addon/terraform",
+  "permalink": "/docs/platform-engineers/addon/terraform",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Extend Terraform Addon"
+  }
+}

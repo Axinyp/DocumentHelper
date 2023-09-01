@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_addon_registry_update",
+  "id": "version-v1.3/cli/vela_addon_registry_update",
+  "title": "vela addon registry update",
+  "description": "Update an addon registry.",
+  "source": "@site/versioned_docs/version-v1.3/cli/vela_addon_registry_update.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_addon_registry_update",
+  "permalink": "/docs/v1.3/cli/vela_addon_registry_update",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela addon registry update"
+  }
+}

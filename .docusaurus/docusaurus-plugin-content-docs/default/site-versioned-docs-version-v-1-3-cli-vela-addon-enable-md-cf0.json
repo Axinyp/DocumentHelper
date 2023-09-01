@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_addon_enable",
+  "id": "version-v1.3/cli/vela_addon_enable",
+  "title": "vela addon enable",
+  "description": "enable an addon",
+  "source": "@site/versioned_docs/version-v1.3/cli/vela_addon_enable.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_addon_enable",
+  "permalink": "/docs/v1.3/cli/vela_addon_enable",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela addon enable"
+  }
+}

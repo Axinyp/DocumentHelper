@@ -1,0 +1,28 @@
+{
+  "unversionedId": "talks/cn/x-as-code",
+  "id": "talks/cn/x-as-code",
+  "title": "X as Code 万物代码化",
+  "description": "Bytebase 月度活动 「贝斯的圆桌」第三期 「X as Code 万物代码化」7 月 28 日 20：00",
+  "source": "@site/videos/talks/cn/x-as-code.md",
+  "sourceDirName": "talks/cn",
+  "slug": "/talks/cn/x-as-code",
+  "permalink": "/videos/talks/cn/x-as-code",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "X as Code 万物代码化"
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "Mark Russinovich presents \"The Future of Cloud Native Applications with Open Application Model and Dapr\"",
+    "permalink": "/videos/talks/en/oam-dapr"
+  },
+  "next": {
+    "title": "从开源技术 KubeVela 谈起：云原生应用交付会怎样发展",
+    "permalink": "/videos/talks/cn/vela-delivery-202206"
+  }
+}

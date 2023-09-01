@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/oam/oam-model",
+  "id": "platform-engineers/oam/oam-model",
+  "title": "Introduction",
+  "description": "This doc has been migrated, please refer to Application Concept.",
+  "source": "@site/docs/platform-engineers/oam/oam-model.md",
+  "sourceDirName": "platform-engineers/oam",
+  "slug": "/platform-engineers/oam/oam-model",
+  "permalink": "/docs/platform-engineers/oam/oam-model",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Introduction"
+  }
+}

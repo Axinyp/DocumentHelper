@@ -1,0 +1,19 @@
+{
+  "unversionedId": "reference/addons/ocm-gateway-manager-addon",
+  "id": "reference/addons/ocm-gateway-manager-addon",
+  "title": "OCM Cluster-Gateway Manager",
+  "description": "TL;DR: \"OCM Cluster-Gateway Manager\" addon installs an operator component",
+  "source": "@site/docs/reference/addons/ocm-gateway-manager-addon.md",
+  "sourceDirName": "reference/addons",
+  "slug": "/reference/addons/ocm-gateway-manager-addon",
+  "permalink": "/docs/reference/addons/ocm-gateway-manager-addon",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "OCM Cluster-Gateway Manager"
+  }
+}

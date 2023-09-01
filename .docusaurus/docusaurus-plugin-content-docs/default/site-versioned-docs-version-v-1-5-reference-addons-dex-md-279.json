@@ -1,0 +1,19 @@
+{
+  "unversionedId": "reference/addons/dex",
+  "id": "version-v1.5/reference/addons/dex",
+  "title": "dex",
+  "description": "This addon provides dex login for VelaUX.",
+  "source": "@site/versioned_docs/version-v1.5/reference/addons/dex.md",
+  "sourceDirName": "reference/addons",
+  "slug": "/reference/addons/dex",
+  "permalink": "/docs/reference/addons/dex",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "dex"
+  }
+}

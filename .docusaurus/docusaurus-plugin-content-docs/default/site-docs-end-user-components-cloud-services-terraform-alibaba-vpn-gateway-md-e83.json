@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/alibaba-vpn-gateway",
+  "id": "end-user/components/cloud-services/terraform/alibaba-vpn-gateway",
+  "title": "Alibaba Cloud VPN-GATEWAY",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/alibaba-vpn-gateway.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/alibaba-vpn-gateway",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/alibaba-vpn-gateway",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Alibaba Cloud VPN-GATEWAY"
+  }
+}

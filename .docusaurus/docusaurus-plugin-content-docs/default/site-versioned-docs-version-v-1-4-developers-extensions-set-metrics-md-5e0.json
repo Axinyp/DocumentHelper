@@ -1,0 +1,19 @@
+{
+  "unversionedId": "developers/extensions/set-metrics",
+  "id": "version-v1.4/developers/extensions/set-metrics",
+  "title": "Monitoring Application",
+  "description": "If your application has exposed metrics, you can easily tell the platform how to collect the metrics data from your app with metrics capability.",
+  "source": "@site/versioned_docs/version-v1.4/developers/extensions/set-metrics.md",
+  "sourceDirName": "developers/extensions",
+  "slug": "/developers/extensions/set-metrics",
+  "permalink": "/docs/v1.4/developers/extensions/set-metrics",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Monitoring Application"
+  }
+}

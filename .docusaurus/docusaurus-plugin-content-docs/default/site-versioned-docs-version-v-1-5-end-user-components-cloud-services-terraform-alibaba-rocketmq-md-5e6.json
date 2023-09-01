@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/alibaba-rocketmq",
+  "id": "version-v1.5/end-user/components/cloud-services/terraform/alibaba-rocketmq",
+  "title": "Alibaba Cloud ROCKETMQ",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.5/end-user/components/cloud-services/terraform/alibaba-rocketmq.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/alibaba-rocketmq",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/alibaba-rocketmq",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Alibaba Cloud ROCKETMQ"
+  }
+}

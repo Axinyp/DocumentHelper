@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_cluster_alias",
+  "id": "version-v1.4/cli/vela_cluster_alias",
+  "title": "vela cluster alias",
+  "description": "alias a named cluster.",
+  "source": "@site/versioned_docs/version-v1.4/cli/vela_cluster_alias.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_cluster_alias",
+  "permalink": "/docs/v1.4/cli/vela_cluster_alias",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela cluster alias"
+  }
+}

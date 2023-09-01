@@ -1,0 +1,19 @@
+{
+  "unversionedId": "contributor/overview",
+  "id": "version-v1.4/contributor/overview",
+  "title": "Developer Overview",
+  "description": "The developer guide including two parts:",
+  "source": "@site/versioned_docs/version-v1.4/contributor/overview.md",
+  "sourceDirName": "contributor",
+  "slug": "/contributor/overview",
+  "permalink": "/docs/v1.4/contributor/overview",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Developer Overview"
+  }
+}

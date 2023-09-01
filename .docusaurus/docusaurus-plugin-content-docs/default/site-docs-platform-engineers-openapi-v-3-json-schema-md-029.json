@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/openapi-v3-json-schema",
+  "id": "platform-engineers/openapi-v3-json-schema",
+  "title": "Generating OpenAPI Schema",
+  "description": "For any capabilities installed via Definition Objects,",
+  "source": "@site/docs/platform-engineers/openapi-v3-json-schema.md",
+  "sourceDirName": "platform-engineers",
+  "slug": "/platform-engineers/openapi-v3-json-schema",
+  "permalink": "/docs/platform-engineers/openapi-v3-json-schema",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Generating OpenAPI Schema"
+  }
+}

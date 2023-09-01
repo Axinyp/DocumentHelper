@@ -1,0 +1,28 @@
+{
+  "unversionedId": "installation/kubernetes",
+  "id": "installation/kubernetes",
+  "title": "Install KubeVela on Kubernetes",
+  "description": "",
+  "source": "@site/docs/installation/kubernetes.mdx",
+  "sourceDirName": "installation",
+  "slug": "/installation/kubernetes",
+  "permalink": "/docs/installation/kubernetes",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Install KubeVela on Kubernetes"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Standalone Installation",
+    "permalink": "/docs/installation/standalone"
+  },
+  "next": {
+    "title": "Deploy First Application",
+    "permalink": "/docs/quick-start"
+  }
+}

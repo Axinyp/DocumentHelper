@@ -1,0 +1,21 @@
+{
+  "unversionedId": "how-to/dashboard/workflow/overview",
+  "id": "how-to/dashboard/workflow/overview",
+  "title": "Manage Workflows",
+  "description": "Manager workflows for application",
+  "source": "@site/docs/how-to/dashboard/workflow/overview.md",
+  "sourceDirName": "how-to/dashboard/workflow",
+  "slug": "/how-to/dashboard/workflow/overview",
+  "permalink": "/docs/how-to/dashboard/workflow/overview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Manage Workflows",
+    "description": "Manager workflows for application",
+    "draft": true
+  }
+}

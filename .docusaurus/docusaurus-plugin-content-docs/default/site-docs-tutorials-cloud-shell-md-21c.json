@@ -1,0 +1,19 @@
+{
+  "unversionedId": "tutorials/cloud-shell",
+  "id": "tutorials/cloud-shell",
+  "title": "Cloud Shell",
+  "description": "The cloud shell feature helps you to manage the application via CLI(vela、kubectl). such as:",
+  "source": "@site/docs/tutorials/cloud-shell.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/cloud-shell",
+  "permalink": "/docs/tutorials/cloud-shell",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Cloud Shell"
+  }
+}

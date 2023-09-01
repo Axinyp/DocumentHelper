@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_provider_delete_terraform-azure",
+  "id": "version-v1.3/cli/vela_provider_delete_terraform-azure",
+  "title": "vela provider delete terraform-azure",
+  "description": "Delete Terraform Cloud Provider terraform-azure",
+  "source": "@site/versioned_docs/version-v1.3/cli/vela_provider_delete_terraform-azure.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_provider_delete_terraform-azure",
+  "permalink": "/docs/v1.3/cli/vela_provider_delete_terraform-azure",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela provider delete terraform-azure"
+  }
+}

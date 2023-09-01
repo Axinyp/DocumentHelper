@@ -1,0 +1,19 @@
+{
+  "unversionedId": "roadmap/README",
+  "id": "version-v1.5/roadmap/README",
+  "title": "Roadmap",
+  "description": "The goal of KubeVela is to make deploying and operating applications across today's hybrid, multi-cloud environments easier, faster and more reliable. We will make effort on the following aspects to make the goal achievable:",
+  "source": "@site/versioned_docs/version-v1.5/roadmap/README.md",
+  "sourceDirName": "roadmap",
+  "slug": "/roadmap/",
+  "permalink": "/docs/roadmap/",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Roadmap"
+  }
+}

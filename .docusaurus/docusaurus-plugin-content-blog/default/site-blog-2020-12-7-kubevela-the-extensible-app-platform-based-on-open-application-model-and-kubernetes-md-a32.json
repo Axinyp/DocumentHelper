@@ -1,0 +1,47 @@
+{
+  "permalink": "/blog/2020/12/7/kubevela-the-extensible-app-platform-based-on-open-application-model-and-kubernetes",
+  "editUrl": "https://github.com/kubevela/kubevela.io/tree/main/blog/2020-12-7-kubevela-the-extensible-app-platform-based-on-open-application-model-and-kubernetes.md",
+  "source": "@site/blog/2020-12-7-kubevela-the-extensible-app-platform-based-on-open-application-model-and-kubernetes.md",
+  "title": "KubeVela - The Extensible App Platform Based on Open Application Model and Kubernetes",
+  "description": "The Extensible App Platform Based on Open Application Model and Kubernetes",
+  "date": "2020-12-07T00:00:00.000Z",
+  "formattedDate": "December 7, 2020",
+  "tags": [
+    {
+      "label": "KubeVela",
+      "permalink": "/blog/tags/kube-vela"
+    },
+    {
+      "label": "release-note",
+      "permalink": "/blog/tags/release-note"
+    }
+  ],
+  "readingTime": 7.19,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Lei Zhang and Fei Guo",
+      "title": "CNCF TOC Member/Kubernetes",
+      "url": "https://github.com/JoelMarcey",
+      "imageURL": "https://avatars.githubusercontent.com/u/1701782?s=200&v=4"
+    }
+  ],
+  "frontMatter": {
+    "title": "KubeVela - The Extensible App Platform Based on Open Application Model and Kubernetes",
+    "author": "Lei Zhang and Fei Guo",
+    "author_title": "CNCF TOC Member/Kubernetes",
+    "author_url": "https://github.com/JoelMarcey",
+    "author_image_url": "https://avatars.githubusercontent.com/u/1701782?s=200&v=4",
+    "tags": [
+      "KubeVela",
+      "release-note"
+    ],
+    "description": "The Extensible App Platform Based on Open Application Model and Kubernetes",
+    "image": "https://tva1.sinaimg.cn/large/ad5fbf65gy1glgj5q8inej208g049aa6.jpg",
+    "hide_table_of_contents": false
+  },
+  "prevItem": {
+    "title": "KubeVela Performance Test - Managing Massive Applications",
+    "permalink": "/blog/2021/08/30/kubevela-performance-test"
+  }
+}

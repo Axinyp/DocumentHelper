@@ -1,0 +1,20 @@
+{
+  "unversionedId": "getting-started/test",
+  "id": "getting-started/test",
+  "title": "Architecture",
+  "description": "The overall architecture of KubeVela is shown as below:",
+  "source": "@site/i18n/en/docusaurus-plugin-content-docs/current/getting-started/test.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/test",
+  "permalink": "/docs/getting-started/test",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Architecture"
+  },
+  "sidebar": "docs"
+}

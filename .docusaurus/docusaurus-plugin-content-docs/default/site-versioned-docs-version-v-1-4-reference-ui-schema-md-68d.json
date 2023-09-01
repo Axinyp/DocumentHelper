@@ -1,0 +1,19 @@
+{
+  "unversionedId": "reference/ui-schema",
+  "id": "version-v1.4/reference/ui-schema",
+  "title": "UX of Definition",
+  "description": "VelaUX uses the UI-Schema specification to customize UI elements of components, workflow steps, and operation and maintenance feature resources, in the case of variable input parameters, to achieve a more native UI experience.",
+  "source": "@site/versioned_docs/version-v1.4/reference/ui-schema.md",
+  "sourceDirName": "reference",
+  "slug": "/reference/ui-schema",
+  "permalink": "/docs/v1.4/reference/ui-schema",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "UX of Definition"
+  }
+}

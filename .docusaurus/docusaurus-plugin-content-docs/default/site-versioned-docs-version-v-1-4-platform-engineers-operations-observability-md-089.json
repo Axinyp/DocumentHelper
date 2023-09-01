@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/operations/observability",
+  "id": "version-v1.4/platform-engineers/operations/observability",
+  "title": "Observability",
+  "description": "Working in progress.",
+  "source": "@site/versioned_docs/version-v1.4/platform-engineers/operations/observability.md",
+  "sourceDirName": "platform-engineers/operations",
+  "slug": "/platform-engineers/operations/observability",
+  "permalink": "/docs/v1.4/platform-engineers/operations/observability",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Observability"
+  }
+}

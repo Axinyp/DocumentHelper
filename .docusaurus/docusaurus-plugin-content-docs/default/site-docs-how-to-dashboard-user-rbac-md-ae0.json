@@ -1,0 +1,19 @@
+{
+  "unversionedId": "how-to/dashboard/user/rbac",
+  "id": "how-to/dashboard/user/rbac",
+  "title": "VelaUX RBAC",
+  "description": "The RBAC feature enabled restriction of access to VelaUX resources. The UI and API could strict permission verification. We designed platform-scope roles and project-scope roles, Each role can be bound to a set of permission policies, and users can obtain corresponding permissions when they are bound to the role.",
+  "source": "@site/docs/how-to/dashboard/user/rbac.md",
+  "sourceDirName": "how-to/dashboard/user",
+  "slug": "/how-to/dashboard/user/rbac",
+  "permalink": "/docs/how-to/dashboard/user/rbac",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "VelaUX RBAC"
+  }
+}

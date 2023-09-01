@@ -1,0 +1,19 @@
+{
+  "unversionedId": "developers/check-ref-doc",
+  "id": "version-v1.5/developers/check-ref-doc",
+  "title": "The Reference Documentation Guide of Capabilities",
+  "description": "In this documentation, we will show how to check the detailed schema of a given capability (i.e. workload type or trait).",
+  "source": "@site/versioned_docs/version-v1.5/developers/check-ref-doc.md",
+  "sourceDirName": "developers",
+  "slug": "/developers/check-ref-doc",
+  "permalink": "/docs/developers/check-ref-doc",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "The Reference Documentation Guide of Capabilities"
+  }
+}

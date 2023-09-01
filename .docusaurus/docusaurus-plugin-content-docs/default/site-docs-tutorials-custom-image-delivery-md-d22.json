@@ -1,0 +1,19 @@
+{
+  "unversionedId": "tutorials/custom-image-delivery",
+  "id": "tutorials/custom-image-delivery",
+  "title": "Custom Image Delivery",
+  "description": "If the default webservice component type is not suitable for your team, and you want to get a more simple way to deploy your business application. This guide will help you. Before, you must have the platform manager's permission.",
+  "source": "@site/docs/tutorials/custom-image-delivery.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/custom-image-delivery",
+  "permalink": "/docs/tutorials/custom-image-delivery",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Custom Image Delivery"
+  }
+}

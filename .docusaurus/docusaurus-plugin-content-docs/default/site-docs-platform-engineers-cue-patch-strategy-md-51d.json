@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/cue/patch-strategy",
+  "id": "platform-engineers/cue/patch-strategy",
+  "title": "Patch strategy",
+  "description": "By default, KubeVela will merge patched values with CUE's merge. However, CUE cannot handle conflicting fields currently.",
+  "source": "@site/docs/platform-engineers/cue/patch-strategy.md",
+  "sourceDirName": "platform-engineers/cue",
+  "slug": "/platform-engineers/cue/patch-strategy",
+  "permalink": "/docs/platform-engineers/cue/patch-strategy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Patch strategy"
+  }
+}

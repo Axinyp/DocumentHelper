@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/ref-objects",
+  "id": "version-v1.5/end-user/components/ref-objects",
+  "title": "Distribute Reference Objects",
+  "description": "This section requires you to know the basics about how to deploy multi-cluster application with policy and workflow.",
+  "source": "@site/versioned_docs/version-v1.5/end-user/components/ref-objects.md",
+  "sourceDirName": "end-user/components",
+  "slug": "/end-user/components/ref-objects",
+  "permalink": "/docs/end-user/components/ref-objects",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Distribute Reference Objects"
+  }
+}

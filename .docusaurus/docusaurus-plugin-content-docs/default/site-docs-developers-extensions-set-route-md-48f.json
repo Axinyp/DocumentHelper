@@ -1,0 +1,19 @@
+{
+  "unversionedId": "developers/extensions/set-route",
+  "id": "developers/extensions/set-route",
+  "title": "Setting Routes",
+  "description": "The route section is used to configure the access to your app.",
+  "source": "@site/docs/developers/extensions/set-route.md",
+  "sourceDirName": "developers/extensions",
+  "slug": "/developers/extensions/set-route",
+  "permalink": "/docs/developers/extensions/set-route",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Setting Routes"
+  }
+}

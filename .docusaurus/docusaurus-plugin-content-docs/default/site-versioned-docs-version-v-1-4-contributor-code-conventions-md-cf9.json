@@ -1,0 +1,19 @@
+{
+  "unversionedId": "contributor/code-conventions",
+  "id": "version-v1.4/contributor/code-conventions",
+  "title": "Code Conventions",
+  "description": "In this section, you will find the code conventions for all kinds of code KubeVela project related. It's not necessary to learn all of them at once, but make sure you have read corresponding parts before you start to code.",
+  "source": "@site/versioned_docs/version-v1.4/contributor/code-conventions.md",
+  "sourceDirName": "contributor",
+  "slug": "/contributor/code-conventions",
+  "permalink": "/docs/v1.4/contributor/code-conventions",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Code Conventions"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "talks/cn/next-app-delivery",
+  "id": "talks/cn/next-app-delivery",
+  "title": "下一代云原生应用交付会怎样发展？KubeVela帮大忙！",
+  "description": "This video is posted in 2022-03-18.",
+  "source": "@site/videos/talks/cn/next-app-delivery.md",
+  "sourceDirName": "talks/cn",
+  "slug": "/talks/cn/next-app-delivery",
+  "permalink": "/videos/talks/cn/next-app-delivery",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "下一代云原生应用交付会怎样发展？KubeVela帮大忙！"
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "从开源技术 KubeVela 谈起：云原生应用交付会怎样发展",
+    "permalink": "/videos/talks/cn/vela-delivery-202206"
+  },
+  "next": {
+    "title": "KubeCon China 2021 - Build and Manage Multi-cluster Application with Consistent Experience",
+    "permalink": "/videos/talks/cn/multi-cluster"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_addon_registry_delete",
+  "id": "version-v1.4/cli/vela_addon_registry_delete",
+  "title": "vela addon registry delete",
+  "description": "Delete an addon registry",
+  "source": "@site/versioned_docs/version-v1.4/cli/vela_addon_registry_delete.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_addon_registry_delete",
+  "permalink": "/docs/v1.4/cli/vela_addon_registry_delete",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela addon registry delete"
+  }
+}

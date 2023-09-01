@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/cue/cross-namespace-resource",
+  "id": "platform-engineers/cue/cross-namespace-resource",
+  "title": "Render Resource to Other Namespaces",
+  "description": "In this section, we will introduce how to use cue template create resources in different namespace with the application.",
+  "source": "@site/docs/platform-engineers/cue/cross-namespace-resource.md",
+  "sourceDirName": "platform-engineers/cue",
+  "slug": "/platform-engineers/cue/cross-namespace-resource",
+  "permalink": "/docs/platform-engineers/cue/cross-namespace-resource",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Render Resource to Other Namespaces"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/system-operation/observability",
+  "id": "platform-engineers/system-operation/observability",
+  "title": "Observability",
+  "description": "The old observability addons have been replaced by the new observability addon suites. You can refer to the new observability documentation for details.",
+  "source": "@site/docs/platform-engineers/system-operation/observability.md",
+  "sourceDirName": "platform-engineers/system-operation",
+  "slug": "/platform-engineers/system-operation/observability",
+  "permalink": "/docs/platform-engineers/system-operation/observability",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Observability"
+  }
+}

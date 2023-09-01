@@ -1,0 +1,208 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "预览版",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "docs": [
+      {
+        "type": "category",
+        "label": "快速开始",
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "广东保伦电子股份有限公司",
+            "href": "/docs/getting-started/test",
+            "docId": "getting-started/test"
+          }
+        ],
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "服务端",
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "1. 智慧会议管理平台",
+            "href": "/docs/server/login",
+            "docId": "server/login"
+          }
+        ],
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "客户端",
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "1.会议模式",
+            "href": "/docs/client/meetingmode",
+            "docId": "client/meetingmode"
+          },
+          {
+            "type": "link",
+            "label": "2.小工具",
+            "href": "/docs/client/tool",
+            "docId": "client/tool"
+          },
+          {
+            "type": "link",
+            "label": "3.白板书写",
+            "href": "/docs/client/whiteboard",
+            "docId": "client/whiteboard"
+          },
+          {
+            "type": "link",
+            "label": "4.批注",
+            "href": "/docs/client/annotation",
+            "docId": "client/annotation"
+          },
+          {
+            "type": "link",
+            "label": "5.文件展示",
+            "href": "/docs/client/filepreviewer",
+            "docId": "client/filepreviewer"
+          },
+          {
+            "type": "link",
+            "label": "6.设置",
+            "href": "/docs/client/setting",
+            "docId": "client/setting"
+          },
+          {
+            "type": "link",
+            "label": "7.单机模式",
+            "href": "/docs/client/singlemode",
+            "docId": "client/singlemode"
+          },
+          {
+            "type": "link",
+            "label": "8.语音助手",
+            "href": "/docs/client/voiceassistance",
+            "docId": "client/voiceassistance"
+          },
+          {
+            "type": "link",
+            "label": "9.投屏",
+            "href": "/docs/client/miracast",
+            "docId": "client/miracast"
+          },
+          {
+            "type": "link",
+            "label": "10.NFC投屏",
+            "href": "/docs/client/nfc",
+            "docId": "client/nfc"
+          },
+          {
+            "type": "link",
+            "label": "11.应用市场",
+            "href": "/docs/client/appmarket",
+            "docId": "client/appmarket"
+          },
+          {
+            "type": "link",
+            "label": "12.简易故障排查",
+            "href": "/docs/client/troubleshooting",
+            "docId": "client/troubleshooting"
+          }
+        ],
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "client/annotation": {
+      "id": "client/annotation",
+      "title": "4.批注",
+      "description": "",
+      "sidebar": "docs"
+    },
+    "client/appmarket": {
+      "id": "client/appmarket",
+      "title": "11.应用市场",
+      "description": "",
+      "sidebar": "docs"
+    },
+    "client/filepreviewer": {
+      "id": "client/filepreviewer",
+      "title": "5.文件展示",
+      "description": "",
+      "sidebar": "docs"
+    },
+    "client/meetingmode": {
+      "id": "client/meetingmode",
+      "title": "1.会议模式",
+      "description": "",
+      "sidebar": "docs"
+    },
+    "client/miracast": {
+      "id": "client/miracast",
+      "title": "9.投屏",
+      "description": "",
+      "sidebar": "docs"
+    },
+    "client/nfc": {
+      "id": "client/nfc",
+      "title": "10.NFC投屏",
+      "description": "",
+      "sidebar": "docs"
+    },
+    "client/setting": {
+      "id": "client/setting",
+      "title": "6.设置",
+      "description": "",
+      "sidebar": "docs"
+    },
+    "client/singlemode": {
+      "id": "client/singlemode",
+      "title": "7.单机模式",
+      "description": "",
+      "sidebar": "docs"
+    },
+    "client/tool": {
+      "id": "client/tool",
+      "title": "2.小工具",
+      "description": "",
+      "sidebar": "docs"
+    },
+    "client/troubleshooting": {
+      "id": "client/troubleshooting",
+      "title": "12.简易故障排查",
+      "description": "",
+      "sidebar": "docs"
+    },
+    "client/voiceassistance": {
+      "id": "client/voiceassistance",
+      "title": "8.语音助手",
+      "description": "",
+      "sidebar": "docs"
+    },
+    "client/whiteboard": {
+      "id": "client/whiteboard",
+      "title": "3.白板书写",
+      "description": "",
+      "sidebar": "docs"
+    },
+    "getting-started/test": {
+      "id": "getting-started/test",
+      "title": "广东保伦电子股份有限公司",
+      "description": "",
+      "sidebar": "docs"
+    },
+    "server/login": {
+      "id": "server/login",
+      "title": "1. 智慧会议管理平台",
+      "description": "",
+      "sidebar": "docs"
+    }
+  }
+}

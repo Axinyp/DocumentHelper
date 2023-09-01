@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/gcp-staticip",
+  "id": "end-user/components/cloud-services/terraform/gcp-staticip",
+  "title": "Gcp-Staticip",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/gcp-staticip.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/gcp-staticip",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/gcp-staticip",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Gcp-Staticip"
+  }
+}

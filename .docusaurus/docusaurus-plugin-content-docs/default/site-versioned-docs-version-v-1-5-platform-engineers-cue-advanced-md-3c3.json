@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/cue/advanced",
+  "id": "version-v1.5/platform-engineers/cue/advanced",
+  "title": "CUE advanced",
+  "description": "The docs has been migrated, please refer to Learning CUE in KubeVela sections for details.",
+  "source": "@site/versioned_docs/version-v1.5/platform-engineers/cue/advanced.md",
+  "sourceDirName": "platform-engineers/cue",
+  "slug": "/platform-engineers/cue/advanced",
+  "permalink": "/docs/platform-engineers/cue/advanced",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "CUE advanced"
+  }
+}

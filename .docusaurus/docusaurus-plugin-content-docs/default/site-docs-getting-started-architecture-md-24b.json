@@ -1,0 +1,19 @@
+{
+  "unversionedId": "getting-started/architecture",
+  "id": "getting-started/architecture",
+  "title": "Architecture",
+  "description": "The overall architecture of KubeVela is shown as below:",
+  "source": "@site/docs/getting-started/architecture.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/architecture",
+  "permalink": "/docs/getting-started/architecture",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Architecture"
+  }
+}

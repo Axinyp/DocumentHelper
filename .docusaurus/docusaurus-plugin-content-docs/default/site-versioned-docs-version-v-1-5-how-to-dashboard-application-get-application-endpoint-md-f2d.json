@@ -1,0 +1,20 @@
+{
+  "unversionedId": "how-to/dashboard/application/get-application-endpoint",
+  "id": "version-v1.5/how-to/dashboard/application/get-application-endpoint",
+  "title": "Expose Application for Public Access",
+  "description": "View an application endpoints by KubeVela dashboard",
+  "source": "@site/versioned_docs/version-v1.5/how-to/dashboard/application/get-application-endpoint.md",
+  "sourceDirName": "how-to/dashboard/application",
+  "slug": "/how-to/dashboard/application/get-application-endpoint",
+  "permalink": "/docs/how-to/dashboard/application/get-application-endpoint",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Expose Application for Public Access",
+    "description": "View an application endpoints by KubeVela dashboard"
+  }
+}

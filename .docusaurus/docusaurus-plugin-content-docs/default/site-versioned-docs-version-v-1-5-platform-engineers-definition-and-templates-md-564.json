@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/definition-and-templates",
+  "id": "version-v1.5/platform-engineers/definition-and-templates",
+  "title": "Definition Objects",
+  "description": "This documentation has been merged into Definition Protocol.",
+  "source": "@site/versioned_docs/version-v1.5/platform-engineers/definition-and-templates.md",
+  "sourceDirName": "platform-engineers",
+  "slug": "/platform-engineers/definition-and-templates",
+  "permalink": "/docs/platform-engineers/definition-and-templates",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Definition Objects"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_workflow_restart",
+  "id": "cli/vela_workflow_restart",
+  "title": "vela workflow restart",
+  "description": "Restart an application workflow.",
+  "source": "@site/docs/cli/vela_workflow_restart.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_workflow_restart",
+  "permalink": "/docs/cli/vela_workflow_restart",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela workflow restart"
+  }
+}

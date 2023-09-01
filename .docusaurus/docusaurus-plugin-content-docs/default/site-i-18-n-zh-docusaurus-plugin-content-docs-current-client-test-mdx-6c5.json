@@ -1,0 +1,25 @@
+{
+  "unversionedId": "client/test",
+  "id": "client/test",
+  "title": "登录",
+  "description": "登录",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/test.mdx",
+  "sourceDirName": "client",
+  "slug": "/client/test",
+  "permalink": "/docs/client/test",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "登录"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "登录",
+    "permalink": "/docs/server/test"
+  },
+  "next": {
+    "title": "2.小工具",
+    "permalink": "/docs/client/tool"
+  }
+}

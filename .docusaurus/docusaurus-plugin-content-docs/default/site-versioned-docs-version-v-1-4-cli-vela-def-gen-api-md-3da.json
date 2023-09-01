@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_def_gen-api",
+  "id": "version-v1.4/cli/vela_def_gen-api",
+  "title": "vela def gen-api",
+  "description": "Generate Go struct of Parameter from X-Definition.",
+  "source": "@site/versioned_docs/version-v1.4/cli/vela_def_gen-api.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_def_gen-api",
+  "permalink": "/docs/v1.4/cli/vela_def_gen-api",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela def gen-api"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "talks/cn/app-platform",
+  "id": "talks/cn/app-platform",
+  "title": "基于 Kubernetes 构建标准可扩展的云原生应用管理平台",
+  "description": "This video is posted in 2020-11-02.",
+  "source": "@site/videos/talks/cn/app-platform.md",
+  "sourceDirName": "talks/cn",
+  "slug": "/talks/cn/app-platform",
+  "permalink": "/videos/talks/cn/app-platform",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "基于 Kubernetes 构建标准可扩展的云原生应用管理平台"
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "Go开源说第三期 - KubeVela",
+    "permalink": "/videos/talks/cn/gopher-china"
+  },
+  "next": {
+    "title": "Li Xiang - Managing Applications with Kubernetes and OAM",
+    "permalink": "/videos/talks/cn/oam-manage-app"
+  }
+}

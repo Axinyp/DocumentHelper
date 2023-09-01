@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/x-def-version",
+  "id": "version-v1.5/platform-engineers/x-def-version",
+  "title": "Version Control for Definition",
+  "description": "When the capabilities(Component or Trait) changes, KubeVela will generate a definition revision automatically.",
+  "source": "@site/versioned_docs/version-v1.5/platform-engineers/x-def-version.md",
+  "sourceDirName": "platform-engineers",
+  "slug": "/platform-engineers/x-def-version",
+  "permalink": "/docs/platform-engineers/x-def-version",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Version Control for Definition"
+  }
+}

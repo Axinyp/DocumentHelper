@@ -1,0 +1,19 @@
+{
+  "unversionedId": "developers/cap-center",
+  "id": "developers/cap-center",
+  "title": "Managing Capabilities",
+  "description": "In KubeVela, developers can install more capabilities (i.e. new component types and traits) from any GitHub repo that contains OAM definition files. We call these GitHub repos as Capability Centers.",
+  "source": "@site/docs/developers/cap-center.md",
+  "sourceDirName": "developers",
+  "slug": "/developers/cap-center",
+  "permalink": "/docs/developers/cap-center",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Managing Capabilities"
+  }
+}

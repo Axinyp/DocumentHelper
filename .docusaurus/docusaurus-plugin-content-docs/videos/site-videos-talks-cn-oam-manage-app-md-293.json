@@ -1,0 +1,28 @@
+{
+  "unversionedId": "talks/cn/oam-manage-app",
+  "id": "talks/cn/oam-manage-app",
+  "title": "Li Xiang - Managing Applications with Kubernetes and OAM",
+  "description": "Improving the user experience of Kubernetes and lowering its complexity is one of the most interesting problem.",
+  "source": "@site/videos/talks/cn/oam-manage-app.md",
+  "sourceDirName": "talks/cn",
+  "slug": "/talks/cn/oam-manage-app",
+  "permalink": "/videos/talks/cn/oam-manage-app",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Li Xiang - Managing Applications with Kubernetes and OAM"
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "基于 Kubernetes 构建标准可扩展的云原生应用管理平台",
+    "permalink": "/videos/talks/cn/app-platform"
+  },
+  "next": {
+    "title": "Building application management platform with Open Application Model",
+    "permalink": "/videos/talks/cn/oam-application"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "how-to/dashboard/application/bind-new-environment",
+  "id": "how-to/dashboard/application/bind-new-environment",
+  "title": "Bind Application with Environment",
+  "description": "We can specify bind with one or more environments before deploy.",
+  "source": "@site/docs/how-to/dashboard/application/bind-new-environment.md",
+  "sourceDirName": "how-to/dashboard/application",
+  "slug": "/how-to/dashboard/application/bind-new-environment",
+  "permalink": "/docs/how-to/dashboard/application/bind-new-environment",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Bind Application with Environment"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/workflow/suspend",
+  "id": "end-user/workflow/suspend",
+  "title": "Suspend and Resume",
+  "description": "This section introduces how to suspend and resume the workflow in KubeVela.",
+  "source": "@site/docs/end-user/workflow/suspend.md",
+  "sourceDirName": "end-user/workflow",
+  "slug": "/end-user/workflow/suspend",
+  "permalink": "/docs/end-user/workflow/suspend",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Suspend and Resume"
+  }
+}

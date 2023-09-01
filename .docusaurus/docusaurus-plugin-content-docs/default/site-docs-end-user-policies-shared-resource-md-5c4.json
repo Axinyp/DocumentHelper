@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/policies/shared-resource",
+  "id": "end-user/policies/shared-resource",
+  "title": "Shared Resource",
+  "description": "Background",
+  "source": "@site/docs/end-user/policies/shared-resource.md",
+  "sourceDirName": "end-user/policies",
+  "slug": "/end-user/policies/shared-resource",
+  "permalink": "/docs/end-user/policies/shared-resource",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Shared Resource"
+  }
+}

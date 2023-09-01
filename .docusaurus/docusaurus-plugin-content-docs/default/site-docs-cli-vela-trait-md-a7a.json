@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_trait",
+  "id": "cli/vela_trait",
+  "title": "vela trait",
+  "description": "List/get traits.",
+  "source": "@site/docs/cli/vela_trait.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_trait",
+  "permalink": "/docs/cli/vela_trait",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela trait"
+  }
+}

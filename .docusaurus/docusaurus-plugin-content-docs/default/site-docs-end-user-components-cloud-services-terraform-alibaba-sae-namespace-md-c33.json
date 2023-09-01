@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/alibaba-sae-namespace",
+  "id": "end-user/components/cloud-services/terraform/alibaba-sae-namespace",
+  "title": "Alibaba Cloud SAE-NAMESPACE",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/alibaba-sae-namespace.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/alibaba-sae-namespace",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/alibaba-sae-namespace",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Alibaba Cloud SAE-NAMESPACE"
+  }
+}

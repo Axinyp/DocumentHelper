@@ -1,0 +1,82 @@
+[
+  {
+    "label": "KubeVela",
+    "permalink": "/blog/tags/kube-vela",
+    "count": 15
+  },
+  {
+    "label": "use-case",
+    "permalink": "/blog/tags/use-case",
+    "count": 8
+  },
+  {
+    "label": "helm chart",
+    "permalink": "/blog/tags/helm-chart",
+    "count": 2
+  },
+  {
+    "label": "Canary Rollout",
+    "permalink": "/blog/tags/canary-rollout",
+    "count": 1
+  },
+  {
+    "label": "Terraform",
+    "permalink": "/blog/tags/terraform",
+    "count": 3
+  },
+  {
+    "label": "Kubernetes",
+    "permalink": "/blog/tags/kubernetes",
+    "count": 3
+  },
+  {
+    "label": "DevOps",
+    "permalink": "/blog/tags/dev-ops",
+    "count": 5
+  },
+  {
+    "label": "CNCF",
+    "permalink": "/blog/tags/cncf",
+    "count": 3
+  },
+  {
+    "label": "CI/CD",
+    "permalink": "/blog/tags/ci-cd",
+    "count": 3
+  },
+  {
+    "label": "Application delivery",
+    "permalink": "/blog/tags/application-delivery",
+    "count": 3
+  },
+  {
+    "label": "multi-cluster",
+    "permalink": "/blog/tags/multi-cluster",
+    "count": 1
+  },
+  {
+    "label": "release-note",
+    "permalink": "/blog/tags/release-note",
+    "count": 5
+  },
+  {
+    "label": "Role-Based Access Control",
+    "permalink": "/blog/tags/role-based-access-control",
+    "count": 1
+  },
+  {
+    "label": "Observable",
+    "permalink": "/blog/tags/observable",
+    "count": 1
+  },
+  {
+    "label": "Abstraction",
+    "permalink": "/blog/tags/abstraction",
+    "count": 1
+  },
+  {
+    "label": "kubevela",
+    "permalink": "/blog/tags/kubevela",
+    "count": 1
+  }
+]

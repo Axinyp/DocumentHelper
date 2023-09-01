@@ -1,0 +1,19 @@
+{
+  "unversionedId": "contributor/code-contribute",
+  "id": "contributor/code-contribute",
+  "title": "Code Contribution Guide",
+  "description": "You will learn the following things in the code contribution guide:",
+  "source": "@site/docs/contributor/code-contribute.md",
+  "sourceDirName": "contributor",
+  "slug": "/contributor/code-contribute",
+  "permalink": "/docs/contributor/code-contribute",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Code Contribution Guide"
+  }
+}

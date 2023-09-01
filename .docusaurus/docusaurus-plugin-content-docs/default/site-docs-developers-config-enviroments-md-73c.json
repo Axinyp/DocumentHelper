@@ -1,0 +1,19 @@
+{
+  "unversionedId": "developers/config-enviroments",
+  "id": "developers/config-enviroments",
+  "title": "Setting Up Deployment Environment",
+  "description": "A deployment environment is where you could configure the workspace, email for contact and domain for your applications globally.",
+  "source": "@site/docs/developers/config-enviroments.md",
+  "sourceDirName": "developers",
+  "slug": "/developers/config-enviroments",
+  "permalink": "/docs/developers/config-enviroments",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Setting Up Deployment Environment"
+  }
+}

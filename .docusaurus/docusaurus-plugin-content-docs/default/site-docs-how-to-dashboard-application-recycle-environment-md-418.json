@@ -1,0 +1,19 @@
+{
+  "unversionedId": "how-to/dashboard/application/recycle-environment",
+  "id": "how-to/dashboard/application/recycle-environment",
+  "title": "Recycle Application Instance",
+  "description": "When you want to delete the application instance in some environment, you can click the Recycle button in that environment.",
+  "source": "@site/docs/how-to/dashboard/application/recycle-environment.md",
+  "sourceDirName": "how-to/dashboard/application",
+  "slug": "/how-to/dashboard/application/recycle-environment",
+  "permalink": "/docs/how-to/dashboard/application/recycle-environment",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Recycle Application Instance"
+  }
+}

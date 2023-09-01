@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/policies/apply-once",
+  "id": "version-v1.4/end-user/policies/apply-once",
+  "title": "One-time delivery",
+  "description": "By default, the KubeVela controller will prevent configuration drift for applied resources by reconciling them routinely. This is useful if you want to keep your application always having the desired configuration in avoid of some unintentional changes by external modifiers.",
+  "source": "@site/versioned_docs/version-v1.4/end-user/policies/apply-once.md",
+  "sourceDirName": "end-user/policies",
+  "slug": "/end-user/policies/apply-once",
+  "permalink": "/docs/v1.4/end-user/policies/apply-once",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "One-time delivery"
+  }
+}

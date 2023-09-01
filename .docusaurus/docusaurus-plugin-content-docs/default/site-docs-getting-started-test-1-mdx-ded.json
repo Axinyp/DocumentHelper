@@ -1,0 +1,16 @@
+{
+  "unversionedId": "getting-started/test1",
+  "id": "getting-started/test1",
+  "title": "Architecture2",
+  "description": "The overall architecture of KubeVela is shown as below:",
+  "source": "@site/docs/getting-started/test1.mdx",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/test1",
+  "permalink": "/docs/getting-started/test1",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Architecture2"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/cue/definition-edit",
+  "id": "version-v1.3/platform-engineers/cue/definition-edit",
+  "title": "Manage Definition",
+  "description": "In KubeVela CLI, vela def command group provides a series of convenient definition writing tools. With these commands, users only need to write CUE files to generate and edit definitions, instead of composing Kubernetes YAML object with mixed CUE string.",
+  "source": "@site/versioned_docs/version-v1.3/platform-engineers/cue/definition-edit.md",
+  "sourceDirName": "platform-engineers/cue",
+  "slug": "/platform-engineers/cue/definition-edit",
+  "permalink": "/docs/v1.3/platform-engineers/cue/definition-edit",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Manage Definition"
+  }
+}

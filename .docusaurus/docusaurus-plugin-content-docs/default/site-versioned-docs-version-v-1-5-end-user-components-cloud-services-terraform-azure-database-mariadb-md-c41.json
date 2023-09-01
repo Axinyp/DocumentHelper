@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/azure-database-mariadb",
+  "id": "version-v1.5/end-user/components/cloud-services/terraform/azure-database-mariadb",
+  "title": "Azure DATABASE-MARIADB",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.5/end-user/components/cloud-services/terraform/azure-database-mariadb.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/azure-database-mariadb",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/azure-database-mariadb",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Azure DATABASE-MARIADB"
+  }
+}

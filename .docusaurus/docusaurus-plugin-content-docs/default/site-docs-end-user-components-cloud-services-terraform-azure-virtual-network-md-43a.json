@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/azure-virtual-network",
+  "id": "end-user/components/cloud-services/terraform/azure-virtual-network",
+  "title": "Azure VIRTUAL-NETWORK",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/azure-virtual-network.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/azure-virtual-network",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/azure-virtual-network",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Azure VIRTUAL-NETWORK"
+  }
+}

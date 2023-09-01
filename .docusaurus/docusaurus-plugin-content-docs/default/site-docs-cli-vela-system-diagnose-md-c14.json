@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_system_diagnose",
+  "id": "cli/vela_system_diagnose",
+  "title": "vela system diagnose",
+  "description": "Diagnoses system problems.",
+  "source": "@site/docs/cli/vela_system_diagnose.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_system_diagnose",
+  "permalink": "/docs/cli/vela_system_diagnose",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela system diagnose"
+  }
+}

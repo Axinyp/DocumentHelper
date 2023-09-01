@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-subnet",
+  "id": "end-user/components/cloud-services/terraform/aws-subnet",
+  "title": "AWS SUBNET",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-subnet.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-subnet",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-subnet",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS SUBNET"
+  }
+}

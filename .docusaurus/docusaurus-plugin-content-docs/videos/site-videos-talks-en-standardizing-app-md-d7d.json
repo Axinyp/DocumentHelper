@@ -1,0 +1,28 @@
+{
+  "unversionedId": "talks/en/standardizing-app",
+  "id": "talks/en/standardizing-app",
+  "title": "Standardizing Cloud Native Application Delivery Across Different Clouds",
+  "description": "At its heart, Kubernetes is an infrastructure platform: It abstracts at the infrastructure layer, but does little to resolve application layer dependencies.",
+  "source": "@site/videos/talks/en/standardizing-app.md",
+  "sourceDirName": "talks/en",
+  "slug": "/talks/en/standardizing-app",
+  "permalink": "/videos/talks/en/standardizing-app",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Standardizing Cloud Native Application Delivery Across Different Clouds"
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "Cloud-Native Apps With Open Application Model (OAM) And KubeVela",
+    "permalink": "/videos/talks/en/devops-toolkit-1"
+  },
+  "next": {
+    "title": "Production-scale Containerized Game Platform Practice in Bytedance",
+    "permalink": "/videos/talks/en/bytedance-practice"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_cluster_detach",
+  "id": "cli/vela_cluster_detach",
+  "title": "vela cluster detach",
+  "description": "detach managed cluster.",
+  "source": "@site/docs/cli/vela_cluster_detach.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_cluster_detach",
+  "permalink": "/docs/cli/vela_cluster_detach",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela cluster detach"
+  }
+}

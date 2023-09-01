@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_auth_grant-privileges",
+  "id": "cli/vela_auth_grant-privileges",
+  "title": "vela auth grant-privileges",
+  "description": "Grant privileges for user/group/serviceaccount",
+  "source": "@site/docs/cli/vela_auth_grant-privileges.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_auth_grant-privileges",
+  "permalink": "/docs/cli/vela_auth_grant-privileges",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela auth grant-privileges"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_cluster_rename",
+  "id": "version-v1.3/cli/vela_cluster_rename",
+  "title": "vela cluster rename",
+  "description": "rename managed cluster.",
+  "source": "@site/versioned_docs/version-v1.3/cli/vela_cluster_rename.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_cluster_rename",
+  "permalink": "/docs/v1.3/cli/vela_cluster_rename",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela cluster rename"
+  }
+}

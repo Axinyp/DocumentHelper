@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_kube_apply",
+  "id": "cli/vela_kube_apply",
+  "title": "vela kube apply",
+  "description": "Apply resources in Kubernetes YAML file to clusters.",
+  "source": "@site/docs/cli/vela_kube_apply.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_kube_apply",
+  "permalink": "/docs/cli/vela_kube_apply",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela kube apply"
+  }
+}

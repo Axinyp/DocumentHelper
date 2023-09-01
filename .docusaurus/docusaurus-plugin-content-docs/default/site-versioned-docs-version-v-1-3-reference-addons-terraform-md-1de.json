@@ -1,0 +1,19 @@
+{
+  "unversionedId": "reference/addons/terraform",
+  "id": "version-v1.3/reference/addons/terraform",
+  "title": "Addon Cloud Resources",
+  "description": "Terraform addon",
+  "source": "@site/versioned_docs/version-v1.3/reference/addons/terraform.md",
+  "sourceDirName": "reference/addons",
+  "slug": "/reference/addons/terraform",
+  "permalink": "/docs/v1.3/reference/addons/terraform",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Addon Cloud Resources"
+  }
+}

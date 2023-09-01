@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_provider_delete_terraform-gcp",
+  "id": "version-v1.3/cli/vela_provider_delete_terraform-gcp",
+  "title": "vela provider delete terraform-gcp",
+  "description": "Delete Terraform Cloud Provider terraform-gcp",
+  "source": "@site/versioned_docs/version-v1.3/cli/vela_provider_delete_terraform-gcp.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_provider_delete_terraform-gcp",
+  "permalink": "/docs/v1.3/cli/vela_provider_delete_terraform-gcp",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela provider delete terraform-gcp"
+  }
+}

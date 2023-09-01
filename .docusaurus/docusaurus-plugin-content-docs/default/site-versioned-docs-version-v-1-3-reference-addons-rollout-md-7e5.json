@@ -1,0 +1,19 @@
+{
+  "unversionedId": "reference/addons/rollout",
+  "id": "version-v1.3/reference/addons/rollout",
+  "title": "Rollout",
+  "description": "This section will introduce how to use Rollout Trait to perform a rolling update on Component.",
+  "source": "@site/versioned_docs/version-v1.3/reference/addons/rollout.md",
+  "sourceDirName": "reference/addons",
+  "slug": "/reference/addons/rollout",
+  "permalink": "/docs/v1.3/reference/addons/rollout",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Rollout"
+  }
+}

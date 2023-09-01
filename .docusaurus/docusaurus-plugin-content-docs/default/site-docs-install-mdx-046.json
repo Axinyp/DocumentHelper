@@ -1,0 +1,28 @@
+{
+  "unversionedId": "install",
+  "id": "install",
+  "title": "Installation Overview",
+  "description": "Here are two installation methods available according to your environment:",
+  "source": "@site/docs/install.mdx",
+  "sourceDirName": ".",
+  "slug": "/install",
+  "permalink": "/docs/install",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Installation Overview"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Standalone Installation",
+    "permalink": "/docs/installation/standalone"
+  }
+}

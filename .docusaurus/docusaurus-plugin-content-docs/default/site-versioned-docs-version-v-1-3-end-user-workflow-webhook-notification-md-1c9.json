@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/workflow/webhook-notification",
+  "id": "version-v1.3/end-user/workflow/webhook-notification",
+  "title": "Notification",
+  "description": "If we want to be notified before or after deploying an application, KubeVela provides integration with notification webhooks, allowing users to send notifications to Email, DingTalk, Slack, Lark.",
+  "source": "@site/versioned_docs/version-v1.3/end-user/workflow/webhook-notification.md",
+  "sourceDirName": "end-user/workflow",
+  "slug": "/end-user/workflow/webhook-notification",
+  "permalink": "/docs/v1.3/end-user/workflow/webhook-notification",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Notification"
+  }
+}

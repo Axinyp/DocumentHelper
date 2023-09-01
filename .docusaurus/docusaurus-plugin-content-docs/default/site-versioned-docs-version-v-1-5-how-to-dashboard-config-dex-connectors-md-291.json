@@ -1,0 +1,20 @@
+{
+  "unversionedId": "how-to/dashboard/config/dex-connectors",
+  "id": "version-v1.5/how-to/dashboard/config/dex-connectors",
+  "title": "Dex Connectors Configuration",
+  "description": "Configure Dex Connectors",
+  "source": "@site/versioned_docs/version-v1.5/how-to/dashboard/config/dex-connectors.md",
+  "sourceDirName": "how-to/dashboard/config",
+  "slug": "/how-to/dashboard/config/dex-connectors",
+  "permalink": "/docs/how-to/dashboard/config/dex-connectors",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Dex Connectors Configuration",
+    "description": "Configure Dex Connectors"
+  }
+}

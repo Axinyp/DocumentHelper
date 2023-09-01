@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/gcp-config",
+  "id": "end-user/components/cloud-services/terraform/gcp-config",
+  "title": "Gcp-Config",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/gcp-config.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/gcp-config",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/gcp-config",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Gcp-Config"
+  }
+}

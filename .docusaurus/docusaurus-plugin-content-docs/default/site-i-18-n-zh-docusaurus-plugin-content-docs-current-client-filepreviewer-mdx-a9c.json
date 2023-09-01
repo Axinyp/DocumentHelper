@@ -1,0 +1,28 @@
+{
+  "unversionedId": "client/filepreviewer",
+  "id": "client/filepreviewer",
+  "title": "5.文件展示",
+  "description": "",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/filepreviewer.mdx",
+  "sourceDirName": "client",
+  "slug": "/client/filepreviewer",
+  "permalink": "/docs/client/filepreviewer",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "5.文件展示"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "4.批注",
+    "permalink": "/docs/client/annotation"
+  },
+  "next": {
+    "title": "6.设置",
+    "permalink": "/docs/client/setting"
+  }
+}

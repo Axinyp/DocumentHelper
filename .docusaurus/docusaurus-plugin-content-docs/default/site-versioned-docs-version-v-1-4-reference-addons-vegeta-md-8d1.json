@@ -1,0 +1,19 @@
+{
+  "unversionedId": "reference/addons/vegeta",
+  "id": "version-v1.4/reference/addons/vegeta",
+  "title": "Vegeta",
+  "description": "Install",
+  "source": "@site/versioned_docs/version-v1.4/reference/addons/vegeta.md",
+  "sourceDirName": "reference/addons",
+  "slug": "/reference/addons/vegeta",
+  "permalink": "/docs/v1.4/reference/addons/vegeta",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Vegeta"
+  }
+}

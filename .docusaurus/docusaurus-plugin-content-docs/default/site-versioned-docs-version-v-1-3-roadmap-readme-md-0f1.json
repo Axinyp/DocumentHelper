@@ -1,0 +1,19 @@
+{
+  "unversionedId": "roadmap/README",
+  "id": "version-v1.3/roadmap/README",
+  "title": "KubeVela Roadmap",
+  "description": "- 2022 Spring Roadmap",
+  "source": "@site/versioned_docs/version-v1.3/roadmap/README.md",
+  "sourceDirName": "roadmap",
+  "slug": "/roadmap/",
+  "permalink": "/docs/v1.3/roadmap/",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "KubeVela Roadmap"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-key-pair",
+  "id": "end-user/components/cloud-services/terraform/aws-key-pair",
+  "title": "AWS KEY-PAIR",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-key-pair.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-key-pair",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-key-pair",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS KEY-PAIR"
+  }
+}

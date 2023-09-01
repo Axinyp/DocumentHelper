@@ -1,0 +1,19 @@
+{
+  "unversionedId": "how-to/dashboard/user/project",
+  "id": "version-v1.5/how-to/dashboard/user/project",
+  "title": "Project Management",
+  "description": "Project provides a logical separation of applications、environments and delivery targets, this is helpful when VelaUX is used by multiple teams. Project can provide the following features:",
+  "source": "@site/versioned_docs/version-v1.5/how-to/dashboard/user/project.md",
+  "sourceDirName": "how-to/dashboard/user",
+  "slug": "/how-to/dashboard/user/project",
+  "permalink": "/docs/how-to/dashboard/user/project",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Project Management"
+  }
+}

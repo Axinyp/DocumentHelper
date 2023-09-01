@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-cloudwatch-log-group",
+  "id": "end-user/components/cloud-services/terraform/aws-cloudwatch-log-group",
+  "title": "AWS CLOUDWATCH-LOG-GROUP",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-cloudwatch-log-group.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-cloudwatch-log-group",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-cloudwatch-log-group",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS CLOUDWATCH-LOG-GROUP"
+  }
+}

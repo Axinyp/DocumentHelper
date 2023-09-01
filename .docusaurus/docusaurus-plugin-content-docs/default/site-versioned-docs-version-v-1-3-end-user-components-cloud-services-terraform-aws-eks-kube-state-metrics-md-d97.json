@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-eks-kube-state-metrics",
+  "id": "version-v1.3/end-user/components/cloud-services/terraform/aws-eks-kube-state-metrics",
+  "title": "AWS EKS-KUBE-STATE-METRICS",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.3/end-user/components/cloud-services/terraform/aws-eks-kube-state-metrics.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-eks-kube-state-metrics",
+  "permalink": "/docs/v1.3/end-user/components/cloud-services/terraform/aws-eks-kube-state-metrics",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS EKS-KUBE-STATE-METRICS"
+  }
+}

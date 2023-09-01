@@ -1,0 +1,28 @@
+{
+  "unversionedId": "quick-start",
+  "id": "quick-start",
+  "title": "Deploy First Application",
+  "description": "Before starting, please confirm that you've installed KubeVela and enabled the VelaUX addon according to the installation guide.",
+  "source": "@site/docs/quick-start.md",
+  "sourceDirName": ".",
+  "slug": "/quick-start",
+  "permalink": "/docs/quick-start",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Deploy First Application"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Install KubeVela on Kubernetes",
+    "permalink": "/docs/installation/kubernetes"
+  },
+  "next": {
+    "title": "Roadmap",
+    "permalink": "/docs/roadmap/"
+  }
+}

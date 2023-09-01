@@ -1,0 +1,19 @@
+{
+  "unversionedId": "reference/addons/ai",
+  "id": "version-v1.5/reference/addons/ai",
+  "title": "Machine Learning",
+  "description": "Machine learning addon is divided into model-training addon and model-serving addon. Run the following command to install the addon:",
+  "source": "@site/versioned_docs/version-v1.5/reference/addons/ai.md",
+  "sourceDirName": "reference/addons",
+  "slug": "/reference/addons/ai",
+  "permalink": "/docs/reference/addons/ai",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Machine Learning"
+  }
+}

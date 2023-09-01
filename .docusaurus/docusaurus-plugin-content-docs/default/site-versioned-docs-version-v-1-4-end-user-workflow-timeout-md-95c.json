@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/workflow/timeout",
+  "id": "version-v1.4/end-user/workflow/timeout",
+  "title": "Timeout of Step",
+  "description": "Note: You need to upgrade to version 1.5 or above to use the timeout.",
+  "source": "@site/versioned_docs/version-v1.4/end-user/workflow/timeout.md",
+  "sourceDirName": "end-user/workflow",
+  "slug": "/end-user/workflow/timeout",
+  "permalink": "/docs/v1.4/end-user/workflow/timeout",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Timeout of Step"
+  }
+}

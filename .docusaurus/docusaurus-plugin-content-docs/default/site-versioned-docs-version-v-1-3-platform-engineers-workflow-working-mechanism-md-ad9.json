@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/workflow/working-mechanism",
+  "id": "version-v1.3/platform-engineers/workflow/working-mechanism",
+  "title": "Working Mechanism",
+  "description": "This document will give a brief introduction to the core mechanisms of KubeVela Workflow.",
+  "source": "@site/versioned_docs/version-v1.3/platform-engineers/workflow/working-mechanism.md",
+  "sourceDirName": "platform-engineers/workflow",
+  "slug": "/platform-engineers/workflow/working-mechanism",
+  "permalink": "/docs/v1.3/platform-engineers/workflow/working-mechanism",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Working Mechanism"
+  }
+}

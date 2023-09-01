@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-kms-key",
+  "id": "version-v1.3/end-user/components/cloud-services/terraform/aws-kms-key",
+  "title": "AWS KMS-KEY",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.3/end-user/components/cloud-services/terraform/aws-kms-key.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-kms-key",
+  "permalink": "/docs/v1.3/end-user/components/cloud-services/terraform/aws-kms-key",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS KMS-KEY"
+  }
+}

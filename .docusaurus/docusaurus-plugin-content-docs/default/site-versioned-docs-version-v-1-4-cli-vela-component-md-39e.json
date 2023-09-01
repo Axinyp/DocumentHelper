@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_component",
+  "id": "version-v1.4/cli/vela_component",
+  "title": "vela component",
+  "description": "List/get components",
+  "source": "@site/versioned_docs/version-v1.4/cli/vela_component.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_component",
+  "permalink": "/docs/v1.4/cli/vela_component",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela component"
+  }
+}

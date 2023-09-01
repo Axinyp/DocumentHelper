@@ -1,0 +1,19 @@
+{
+  "unversionedId": "reference/addons/nginx-ingress-controller",
+  "id": "version-v1.5/reference/addons/nginx-ingress-controller",
+  "title": "Nginx Ingress Controller",
+  "description": "Nginx Ingress controller is an Ingress controller for Kubernetes using NGINX as a reverse proxy and load balancer.",
+  "source": "@site/versioned_docs/version-v1.5/reference/addons/nginx-ingress-controller.md",
+  "sourceDirName": "reference/addons",
+  "slug": "/reference/addons/nginx-ingress-controller",
+  "permalink": "/docs/reference/addons/nginx-ingress-controller",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Nginx Ingress Controller"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "client/troubleshooting",
+  "id": "client/troubleshooting",
+  "title": "12.Easy Troubleshooting",
+  "description": "",
+  "source": "@site/docs/client/troubleshooting.mdx",
+  "sourceDirName": "client",
+  "slug": "/client/troubleshooting",
+  "permalink": "/en/docs/client/troubleshooting",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "12.Easy Troubleshooting"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "11.Application market",
+    "permalink": "/en/docs/client/appmarket"
+  }
+}

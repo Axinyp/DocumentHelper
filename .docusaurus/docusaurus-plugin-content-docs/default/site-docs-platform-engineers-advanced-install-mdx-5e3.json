@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/advanced-install",
+  "id": "platform-engineers/advanced-install",
+  "title": "Custom Installation/Upgrade",
+  "description": "",
+  "source": "@site/docs/platform-engineers/advanced-install.mdx",
+  "sourceDirName": "platform-engineers",
+  "slug": "/platform-engineers/advanced-install",
+  "permalink": "/docs/platform-engineers/advanced-install",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Custom Installation/Upgrade"
+  }
+}

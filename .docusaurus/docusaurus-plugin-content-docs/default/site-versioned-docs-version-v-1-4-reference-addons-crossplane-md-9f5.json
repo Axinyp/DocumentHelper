@@ -1,0 +1,19 @@
+{
+  "unversionedId": "reference/addons/crossplane",
+  "id": "version-v1.4/reference/addons/crossplane",
+  "title": "Cloud Resources orchestrated by Crossplane",
+  "description": "Crossplane addon",
+  "source": "@site/versioned_docs/version-v1.4/reference/addons/crossplane.md",
+  "sourceDirName": "reference/addons",
+  "slug": "/reference/addons/crossplane",
+  "permalink": "/docs/v1.4/reference/addons/crossplane",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Cloud Resources orchestrated by Crossplane"
+  }
+}

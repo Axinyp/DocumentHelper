@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_addon_upgrade",
+  "id": "version-v1.4/cli/vela_addon_upgrade",
+  "title": "vela addon upgrade",
+  "description": "upgrade an addon",
+  "source": "@site/versioned_docs/version-v1.4/cli/vela_addon_upgrade.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_addon_upgrade",
+  "permalink": "/docs/v1.4/cli/vela_addon_upgrade",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela addon upgrade"
+  }
+}

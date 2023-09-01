@@ -1,0 +1,19 @@
+{
+  "unversionedId": "developers/extensions/set-rollout",
+  "id": "developers/extensions/set-rollout",
+  "title": "Setting Rollout Strategy",
+  "description": "Note: rollout is one of the extension capabilities installed from cap center,",
+  "source": "@site/docs/developers/extensions/set-rollout.md",
+  "sourceDirName": "developers/extensions",
+  "slug": "/developers/extensions/set-rollout",
+  "permalink": "/docs/developers/extensions/set-rollout",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Setting Rollout Strategy"
+  }
+}

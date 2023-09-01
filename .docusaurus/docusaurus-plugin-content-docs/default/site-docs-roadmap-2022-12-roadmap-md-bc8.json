@@ -1,0 +1,19 @@
+{
+  "unversionedId": "roadmap/2022-12-roadmap",
+  "id": "roadmap/2022-12-roadmap",
+  "title": "Roadmap 2022.12",
+  "description": "Date: 2022-10-01 to 2022-12-31",
+  "source": "@site/docs/roadmap/2022-12-roadmap.md",
+  "sourceDirName": "roadmap",
+  "slug": "/roadmap/2022-12-roadmap",
+  "permalink": "/docs/roadmap/2022-12-roadmap",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Roadmap 2022.12"
+  }
+}

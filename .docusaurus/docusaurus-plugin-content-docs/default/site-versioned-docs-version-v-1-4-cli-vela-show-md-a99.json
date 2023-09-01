@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_show",
+  "id": "version-v1.4/cli/vela_show",
+  "title": "vela show",
+  "description": "Show the reference doc for a component, trait or workflow.",
+  "source": "@site/versioned_docs/version-v1.4/cli/vela_show.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_show",
+  "permalink": "/docs/v1.4/cli/vela_show",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela show"
+  }
+}

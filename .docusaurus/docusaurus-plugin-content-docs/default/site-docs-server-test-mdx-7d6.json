@@ -1,0 +1,25 @@
+{
+  "unversionedId": "server/test",
+  "id": "server/test",
+  "title": "1.登录",
+  "description": "",
+  "source": "@site/docs/server/test.mdx",
+  "sourceDirName": "server",
+  "slug": "/server/test",
+  "permalink": "/en/docs/server/test",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "1.登录"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "广东保伦电子股份有限公司",
+    "permalink": "/en/docs/getting-started/test"
+  },
+  "next": {
+    "title": "1.Meeting mode",
+    "permalink": "/en/docs/client/meetingmode"
+  }
+}

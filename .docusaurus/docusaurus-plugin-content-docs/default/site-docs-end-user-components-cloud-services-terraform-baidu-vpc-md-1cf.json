@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/baidu-vpc",
+  "id": "end-user/components/cloud-services/terraform/baidu-vpc",
+  "title": "Baidu-Vpc",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/baidu-vpc.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/baidu-vpc",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/baidu-vpc",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Baidu-Vpc"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/gcp-compute-forwarding-rule-dcos",
+  "id": "version-v1.5/end-user/components/cloud-services/terraform/gcp-compute-forwarding-rule-dcos",
+  "title": "Gcp-Compute-Forwarding-Rule-Dcos",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.5/end-user/components/cloud-services/terraform/gcp-compute-forwarding-rule-dcos.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/gcp-compute-forwarding-rule-dcos",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/gcp-compute-forwarding-rule-dcos",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Gcp-Compute-Forwarding-Rule-Dcos"
+  }
+}

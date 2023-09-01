@@ -1,0 +1,19 @@
+{
+  "unversionedId": "developers/references/devex/cli",
+  "id": "version-v1.4/developers/references/devex/cli",
+  "title": "KubeVela CLI",
+  "description": "Auto-completion",
+  "source": "@site/versioned_docs/version-v1.4/developers/references/devex/cli.md",
+  "sourceDirName": "developers/references/devex",
+  "slug": "/developers/references/devex/cli",
+  "permalink": "/docs/v1.4/developers/references/devex/cli",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "KubeVela CLI"
+  }
+}

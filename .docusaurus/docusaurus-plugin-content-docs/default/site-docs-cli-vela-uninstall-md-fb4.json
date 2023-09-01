@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_uninstall",
+  "id": "cli/vela_uninstall",
+  "title": "vela uninstall",
+  "description": "Uninstalls KubeVela from a Kubernetes cluster",
+  "source": "@site/docs/cli/vela_uninstall.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_uninstall",
+  "permalink": "/docs/cli/vela_uninstall",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela uninstall"
+  }
+}

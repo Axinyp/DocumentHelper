@@ -1,0 +1,19 @@
+{
+  "unversionedId": "contributor/cli-ref-doc",
+  "id": "contributor/cli-ref-doc",
+  "title": "Update Reference Docs",
+  "description": "This guide is an introduction of how to generate docs automatically from Golang scripts.",
+  "source": "@site/docs/contributor/cli-ref-doc.md",
+  "sourceDirName": "contributor",
+  "slug": "/contributor/cli-ref-doc",
+  "permalink": "/docs/contributor/cli-ref-doc",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Update Reference Docs"
+  }
+}

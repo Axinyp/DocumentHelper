@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_revision_list",
+  "id": "version-v1.3/cli/vela_revision_list",
+  "title": "vela revision list",
+  "description": "list application revisions",
+  "source": "@site/versioned_docs/version-v1.3/cli/vela_revision_list.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_revision_list",
+  "permalink": "/docs/v1.3/cli/vela_revision_list",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela revision list"
+  }
+}

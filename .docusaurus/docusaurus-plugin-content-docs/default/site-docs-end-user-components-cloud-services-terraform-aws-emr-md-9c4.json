@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-emr",
+  "id": "end-user/components/cloud-services/terraform/aws-emr",
+  "title": "AWS EMR",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-emr.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-emr",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-emr",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS EMR"
+  }
+}

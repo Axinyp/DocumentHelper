@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/alibaba-rds-preview",
+  "id": "end-user/components/cloud-services/terraform/alibaba-rds-preview",
+  "title": "Alibaba Cloud RDS-PREVIEW",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/alibaba-rds-preview.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/alibaba-rds-preview",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/alibaba-rds-preview",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Alibaba Cloud RDS-PREVIEW"
+  }
+}

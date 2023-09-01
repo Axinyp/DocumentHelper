@@ -1,0 +1,28 @@
+{
+  "unversionedId": "client/whiteboard",
+  "id": "client/whiteboard",
+  "title": "3.白板书写",
+  "description": "",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/whiteboard.mdx",
+  "sourceDirName": "client",
+  "slug": "/client/whiteboard",
+  "permalink": "/docs/client/whiteboard",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "3.白板书写"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "2.小工具",
+    "permalink": "/docs/client/tool"
+  },
+  "next": {
+    "title": "4.批注",
+    "permalink": "/docs/client/annotation"
+  }
+}

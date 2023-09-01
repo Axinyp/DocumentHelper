@@ -1,0 +1,25 @@
+{
+  "unversionedId": "client/whiteboard",
+  "id": "client/whiteboard",
+  "title": "3.Whiteboard",
+  "description": "",
+  "source": "@site/docs/client/whiteboard.mdx",
+  "sourceDirName": "client",
+  "slug": "/client/whiteboard",
+  "permalink": "/en/docs/client/whiteboard",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "3.Whiteboard"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "2. Tool",
+    "permalink": "/en/docs/client/tool"
+  },
+  "next": {
+    "title": "4.Annotation",
+    "permalink": "/en/docs/client/annotation"
+  }
+}

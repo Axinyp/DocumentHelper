@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/ref-objects",
+  "id": "version-v1.3/end-user/components/ref-objects",
+  "title": "Multi-cluster Distribution",
+  "description": "This section requires you to know the basics about how to deploy multi-cluster application with policy and workflow. You can refer to Multi-cluster Delivery for container images, they're working in the same way.",
+  "source": "@site/versioned_docs/version-v1.3/end-user/components/ref-objects.md",
+  "sourceDirName": "end-user/components",
+  "slug": "/end-user/components/ref-objects",
+  "permalink": "/docs/v1.3/end-user/components/ref-objects",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Multi-cluster Distribution"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-rds-aurora",
+  "id": "version-v1.3/end-user/components/cloud-services/terraform/aws-rds-aurora",
+  "title": "AWS RDS-AURORA",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.3/end-user/components/cloud-services/terraform/aws-rds-aurora.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-rds-aurora",
+  "permalink": "/docs/v1.3/end-user/components/cloud-services/terraform/aws-rds-aurora",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS RDS-AURORA"
+  }
+}

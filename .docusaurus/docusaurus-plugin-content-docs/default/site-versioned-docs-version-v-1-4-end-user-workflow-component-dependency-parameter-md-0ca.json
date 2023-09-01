@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/workflow/component-dependency-parameter",
+  "id": "version-v1.4/end-user/workflow/component-dependency-parameter",
+  "title": "Component Composition",
+  "description": "This section will introduce the dependencies in components and how to pass data between components.",
+  "source": "@site/versioned_docs/version-v1.4/end-user/workflow/component-dependency-parameter.md",
+  "sourceDirName": "end-user/workflow",
+  "slug": "/end-user/workflow/component-dependency-parameter",
+  "permalink": "/docs/v1.4/end-user/workflow/component-dependency-parameter",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Component Composition"
+  }
+}

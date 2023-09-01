@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/gcp-dns-module",
+  "id": "end-user/components/cloud-services/terraform/gcp-dns-module",
+  "title": "Gcp-Dns-Module",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/gcp-dns-module.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/gcp-dns-module",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/gcp-dns-module",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Gcp-Dns-Module"
+  }
+}

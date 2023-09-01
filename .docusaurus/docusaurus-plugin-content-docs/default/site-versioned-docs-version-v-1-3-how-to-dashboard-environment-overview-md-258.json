@@ -1,0 +1,19 @@
+{
+  "unversionedId": "how-to/dashboard/environment/overview",
+  "id": "version-v1.3/how-to/dashboard/environment/overview",
+  "title": "Overview",
+  "description": "",
+  "source": "@site/versioned_docs/version-v1.3/how-to/dashboard/environment/overview.md",
+  "sourceDirName": "how-to/dashboard/environment",
+  "slug": "/how-to/dashboard/environment/overview",
+  "permalink": "/docs/v1.3/how-to/dashboard/environment/overview",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Overview"
+  }
+}

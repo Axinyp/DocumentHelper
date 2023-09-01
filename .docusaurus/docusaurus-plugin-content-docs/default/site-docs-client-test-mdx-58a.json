@@ -1,0 +1,25 @@
+{
+  "unversionedId": "client/test",
+  "id": "client/test",
+  "title": "1.会议模式",
+  "description": "",
+  "source": "@site/docs/client/test.mdx",
+  "sourceDirName": "client",
+  "slug": "/client/test",
+  "permalink": "/en/docs/client/test",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "1.会议模式"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "1.登录",
+    "permalink": "/en/docs/server/test"
+  },
+  "next": {
+    "title": "2.小工具",
+    "permalink": "/en/docs/client/tool"
+  }
+}

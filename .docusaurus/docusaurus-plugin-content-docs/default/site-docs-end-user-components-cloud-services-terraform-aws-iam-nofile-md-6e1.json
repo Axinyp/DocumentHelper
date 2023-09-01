@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-iam-nofile",
+  "id": "end-user/components/cloud-services/terraform/aws-iam-nofile",
+  "title": "AWS IAM-NOFILE",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-iam-nofile.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-iam-nofile",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-iam-nofile",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS IAM-NOFILE"
+  }
+}

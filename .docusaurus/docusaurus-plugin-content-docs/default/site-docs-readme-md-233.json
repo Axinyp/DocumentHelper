@@ -1,0 +1,20 @@
+{
+  "unversionedId": "README",
+  "id": "README",
+  "title": "readme",
+  "description": "alt",
+  "source": "@site/docs/README.md",
+  "sourceDirName": ".",
+  "slug": "/readme",
+  "permalink": "/docs/readme",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "readme",
+    "slug": "/readme"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cue/task",
+  "id": "version-v1.5/end-user/components/cue/task",
+  "title": "Deploy Task or Cron Task",
+  "description": "This docs are migrated, please refer to the reference documents.",
+  "source": "@site/versioned_docs/version-v1.5/end-user/components/cue/task.md",
+  "sourceDirName": "end-user/components/cue",
+  "slug": "/end-user/components/cue/task",
+  "permalink": "/docs/end-user/components/cue/task",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Deploy Task or Cron Task"
+  }
+}

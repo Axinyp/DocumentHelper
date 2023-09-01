@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/policies/references",
+  "id": "version-v1.4/end-user/policies/references",
+  "title": "Built-in Policy Type",
+  "description": "This documentation will walk through all the built-in policy types sorted alphabetically.",
+  "source": "@site/versioned_docs/version-v1.4/end-user/policies/references.md",
+  "sourceDirName": "end-user/policies",
+  "slug": "/end-user/policies/references",
+  "permalink": "/docs/v1.4/end-user/policies/references",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Built-in Policy Type"
+  }
+}

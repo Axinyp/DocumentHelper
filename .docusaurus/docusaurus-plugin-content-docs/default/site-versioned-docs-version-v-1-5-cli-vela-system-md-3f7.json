@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_system",
+  "id": "version-v1.5/cli/vela_system",
+  "title": "vela system",
+  "description": "Manage system.",
+  "source": "@site/versioned_docs/version-v1.5/cli/vela_system.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_system",
+  "permalink": "/docs/cli/vela_system",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela system"
+  }
+}

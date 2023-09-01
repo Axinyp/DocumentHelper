@@ -1,0 +1,20 @@
+{
+  "unversionedId": "tutorials/webservice",
+  "id": "version-v1.4/tutorials/webservice",
+  "title": "Deploy Container Image",
+  "description": "deploy the business application by kubevela",
+  "source": "@site/versioned_docs/version-v1.4/tutorials/webservice.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/webservice",
+  "permalink": "/docs/v1.4/tutorials/webservice",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Deploy Container Image",
+    "description": "deploy the business application by kubevela"
+  }
+}

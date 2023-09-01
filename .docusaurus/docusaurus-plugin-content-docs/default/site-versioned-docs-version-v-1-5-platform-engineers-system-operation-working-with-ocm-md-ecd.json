@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/system-operation/working-with-ocm",
+  "id": "version-v1.5/platform-engineers/system-operation/working-with-ocm",
+  "title": "Working with OCM",
+  "description": "Open Cluster Management (OCM) is a powerful multi-cluster tool which allows you to connect your managed clusters to the control plane, even if the managed cluster is not directly accessible from the control plane. It is especially useful when your managed clusters and your control plane locate in different VPCs.",
+  "source": "@site/versioned_docs/version-v1.5/platform-engineers/system-operation/working-with-ocm.md",
+  "sourceDirName": "platform-engineers/system-operation",
+  "slug": "/platform-engineers/system-operation/working-with-ocm",
+  "permalink": "/docs/platform-engineers/system-operation/working-with-ocm",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Working with OCM"
+  }
+}

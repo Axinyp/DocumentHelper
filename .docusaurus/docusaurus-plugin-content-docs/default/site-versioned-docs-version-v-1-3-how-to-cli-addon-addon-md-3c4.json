@@ -1,0 +1,20 @@
+{
+  "unversionedId": "how-to/cli/addon/addon",
+  "id": "version-v1.3/how-to/cli/addon/addon",
+  "title": "Addon management",
+  "description": "You can get more capabilities from KubeVela ecosystem by installing addons.",
+  "source": "@site/versioned_docs/version-v1.3/how-to/cli/addon/addon.md",
+  "sourceDirName": "how-to/cli/addon",
+  "slug": "/how-to/cli/addon/addon",
+  "permalink": "/docs/v1.3/how-to/cli/addon/addon",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Addon management",
+    "slug": "/how-to/cli/addon/addon"
+  }
+}

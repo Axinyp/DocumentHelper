@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/auth/integration",
+  "id": "platform-engineers/auth/integration",
+  "title": "Systems Integration",
+  "description": "KubeVela application natively supports impersonation even without the Authentication flag enabled. That means when the Authentication flag is disabled, you can manually set the identity to impersonate in the application's annotation fields. For example, the following guide will give an example on how to manually set the application to impersonate as a ServiceAccount.",
+  "source": "@site/docs/platform-engineers/auth/integration.md",
+  "sourceDirName": "platform-engineers/auth",
+  "slug": "/platform-engineers/auth/integration",
+  "permalink": "/docs/platform-engineers/auth/integration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Systems Integration"
+  }
+}

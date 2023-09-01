@@ -1,0 +1,25 @@
+{
+  "unversionedId": "client/tool",
+  "id": "client/tool",
+  "title": "2. Tool",
+  "description": "",
+  "source": "@site/docs/client/tool.mdx",
+  "sourceDirName": "client",
+  "slug": "/client/tool",
+  "permalink": "/en/docs/client/tool",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "2. Tool"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "1.Meeting mode",
+    "permalink": "/en/docs/client/meetingmode"
+  },
+  "next": {
+    "title": "3.Whiteboard",
+    "permalink": "/en/docs/client/whiteboard"
+  }
+}

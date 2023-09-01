@@ -1,0 +1,76 @@
+{
+  "permalink": "/blog/2022/06/27/terraform-integrate-with-vela",
+  "editUrl": "https://github.com/kubevela/kubevela.io/tree/main/blog/2022-06-27-terraform-integrate-with-vela.md",
+  "source": "@site/blog/2022-06-27-terraform-integrate-with-vela.md",
+  "title": "Glue Terraform Ecosystem into Kubernetes World",
+  "description": "This article discusses how to Integrate terraform ecosystem with KubeVela.",
+  "date": "2022-06-27T00:00:00.000Z",
+  "formattedDate": "June 27, 2022",
+  "tags": [
+    {
+      "label": "KubeVela",
+      "permalink": "/blog/tags/kube-vela"
+    },
+    {
+      "label": "Terraform",
+      "permalink": "/blog/tags/terraform"
+    },
+    {
+      "label": "Kubernetes",
+      "permalink": "/blog/tags/kubernetes"
+    },
+    {
+      "label": "DevOps",
+      "permalink": "/blog/tags/dev-ops"
+    },
+    {
+      "label": "CNCF",
+      "permalink": "/blog/tags/cncf"
+    },
+    {
+      "label": "CI/CD",
+      "permalink": "/blog/tags/ci-cd"
+    },
+    {
+      "label": "Application delivery",
+      "permalink": "/blog/tags/application-delivery"
+    }
+  ],
+  "readingTime": 7.88,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Jianbo Sun",
+      "title": "KubeVela Team",
+      "url": "https://github.com/kubevela/KubeVela",
+      "imageURL": "https://KubeVela.io/img/logo.svg"
+    }
+  ],
+  "frontMatter": {
+    "title": "Glue Terraform Ecosystem into Kubernetes World",
+    "author": "Jianbo Sun",
+    "author_title": "KubeVela Team",
+    "author_url": "https://github.com/kubevela/KubeVela",
+    "author_image_url": "https://KubeVela.io/img/logo.svg",
+    "tags": [
+      "KubeVela",
+      "Terraform",
+      "Kubernetes",
+      "DevOps",
+      "CNCF",
+      "CI/CD",
+      "Application delivery"
+    ],
+    "description": "This article discusses how to Integrate terraform ecosystem with KubeVela.",
+    "image": "https://raw.githubusercontent.com/oam-dev/KubeVela.io/main/docs/resources/KubeVela-03.png",
+    "hide_table_of_contents": false
+  },
+  "prevItem": {
+    "title": "Helm Chart Delivery in Multi-Cluster",
+    "permalink": "/blog/2022/07/07/helm-multi-cluster"
+  },
+  "nextItem": {
+    "title": "KubeVela 1.4 released, Make Application Delivery Safe, Foolproof, and Transparent",
+    "permalink": "/blog/2022/06/21/release-1.4"
+  }
+}

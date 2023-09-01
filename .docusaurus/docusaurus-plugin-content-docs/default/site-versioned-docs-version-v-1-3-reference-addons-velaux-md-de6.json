@@ -1,0 +1,19 @@
+{
+  "unversionedId": "reference/addons/velaux",
+  "id": "version-v1.3/reference/addons/velaux",
+  "title": "VelaUX",
+  "description": "Install",
+  "source": "@site/versioned_docs/version-v1.3/reference/addons/velaux.md",
+  "sourceDirName": "reference/addons",
+  "slug": "/reference/addons/velaux",
+  "permalink": "/docs/v1.3/reference/addons/velaux",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "VelaUX"
+  }
+}

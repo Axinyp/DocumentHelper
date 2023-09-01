@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_help",
+  "id": "version-v1.5/cli/vela_help",
+  "title": "vela help",
+  "description": "Help about any command",
+  "source": "@site/versioned_docs/version-v1.5/cli/vela_help.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_help",
+  "permalink": "/docs/cli/vela_help",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela help"
+  }
+}

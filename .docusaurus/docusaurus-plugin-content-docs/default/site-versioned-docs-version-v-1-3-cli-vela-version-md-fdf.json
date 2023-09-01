@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_version",
+  "id": "version-v1.3/cli/vela_version",
+  "title": "vela version",
+  "description": "Prints vela build version information",
+  "source": "@site/versioned_docs/version-v1.3/cli/vela_version.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_version",
+  "permalink": "/docs/v1.3/cli/vela_version",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela version"
+  }
+}

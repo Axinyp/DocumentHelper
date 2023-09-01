@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_status",
+  "id": "version-v1.3/cli/vela_status",
+  "title": "vela status",
+  "description": "Show status of an application.",
+  "source": "@site/versioned_docs/version-v1.3/cli/vela_status.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_status",
+  "permalink": "/docs/v1.3/cli/vela_status",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela status"
+  }
+}

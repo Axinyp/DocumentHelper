@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-elasticache-redis",
+  "id": "end-user/components/cloud-services/terraform/aws-elasticache-redis",
+  "title": "AWS ELASTICACHE-REDIS",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-elasticache-redis.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-elasticache-redis",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-elasticache-redis",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS ELASTICACHE-REDIS"
+  }
+}

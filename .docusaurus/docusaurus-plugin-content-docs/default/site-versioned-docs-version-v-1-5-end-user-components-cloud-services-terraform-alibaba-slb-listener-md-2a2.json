@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/alibaba-slb-listener",
+  "id": "version-v1.5/end-user/components/cloud-services/terraform/alibaba-slb-listener",
+  "title": "Alibaba Cloud SLB-LISTENER",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.5/end-user/components/cloud-services/terraform/alibaba-slb-listener.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/alibaba-slb-listener",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/alibaba-slb-listener",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Alibaba Cloud SLB-LISTENER"
+  }
+}

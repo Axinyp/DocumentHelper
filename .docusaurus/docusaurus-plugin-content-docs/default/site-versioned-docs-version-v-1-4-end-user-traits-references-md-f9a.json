@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/traits/references",
+  "id": "version-v1.4/end-user/traits/references",
+  "title": "Built-in Trait Type",
+  "description": "This documentation will walk through all the built-in trait types sorted alphabetically.",
+  "source": "@site/versioned_docs/version-v1.4/end-user/traits/references.md",
+  "sourceDirName": "end-user/traits",
+  "slug": "/end-user/traits/references",
+  "permalink": "/docs/v1.4/end-user/traits/references",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Built-in Trait Type"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "how-to/dashboard/config/image-registry",
+  "id": "version-v1.5/how-to/dashboard/config/image-registry",
+  "title": "Connect Image Registry",
+  "description": "Configure an image registry",
+  "source": "@site/versioned_docs/version-v1.5/how-to/dashboard/config/image-registry.md",
+  "sourceDirName": "how-to/dashboard/config",
+  "slug": "/how-to/dashboard/config/image-registry",
+  "permalink": "/docs/how-to/dashboard/config/image-registry",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Connect Image Registry",
+    "description": "Configure an image registry"
+  }
+}

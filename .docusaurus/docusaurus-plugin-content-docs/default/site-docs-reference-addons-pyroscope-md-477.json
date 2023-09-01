@@ -1,0 +1,19 @@
+{
+  "unversionedId": "reference/addons/pyroscope",
+  "id": "reference/addons/pyroscope",
+  "title": "Pyroscope",
+  "description": "Pyroscope is an open source platform, consisting of server and agent. It allows the user to collect, store, and query the profiling data in a CPU and disk efficient way.",
+  "source": "@site/docs/reference/addons/pyroscope.md",
+  "sourceDirName": "reference/addons",
+  "slug": "/reference/addons/pyroscope",
+  "permalink": "/docs/reference/addons/pyroscope",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Pyroscope"
+  }
+}

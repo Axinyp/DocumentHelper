@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/traits/service-binding",
+  "id": "version-v1.5/end-user/traits/service-binding",
+  "title": "Binding Configuration and Secrets",
+  "description": "Service binding trait will bind data from Kubernetes Secret to the application container's ENV.",
+  "source": "@site/versioned_docs/version-v1.5/end-user/traits/service-binding.md",
+  "sourceDirName": "end-user/traits",
+  "slug": "/end-user/traits/service-binding",
+  "permalink": "/docs/end-user/traits/service-binding",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Binding Configuration and Secrets"
+  }
+}

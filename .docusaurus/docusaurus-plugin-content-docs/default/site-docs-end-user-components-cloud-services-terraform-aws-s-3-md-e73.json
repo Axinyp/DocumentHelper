@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-s3",
+  "id": "end-user/components/cloud-services/terraform/aws-s3",
+  "title": "AWS S3",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-s3.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-s3",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-s3",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS S3"
+  }
+}

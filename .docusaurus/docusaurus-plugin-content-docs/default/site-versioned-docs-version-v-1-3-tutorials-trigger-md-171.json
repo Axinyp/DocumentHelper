@@ -1,0 +1,19 @@
+{
+  "unversionedId": "tutorials/trigger",
+  "id": "version-v1.3/tutorials/trigger",
+  "title": "Integrating with Image registries",
+  "description": "Introduction",
+  "source": "@site/versioned_docs/version-v1.3/tutorials/trigger.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/trigger",
+  "permalink": "/docs/v1.3/tutorials/trigger",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Integrating with Image registries"
+  }
+}

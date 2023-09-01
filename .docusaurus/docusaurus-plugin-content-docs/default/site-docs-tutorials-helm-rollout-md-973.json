@@ -1,0 +1,19 @@
+{
+  "unversionedId": "tutorials/helm-rollout",
+  "id": "tutorials/helm-rollout",
+  "title": "Canary Rollout",
+  "description": "Before starting",
+  "source": "@site/docs/tutorials/helm-rollout.md",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/helm-rollout",
+  "permalink": "/docs/tutorials/helm-rollout",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Canary Rollout"
+  }
+}

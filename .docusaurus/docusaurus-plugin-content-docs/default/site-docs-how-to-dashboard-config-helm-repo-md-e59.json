@@ -1,0 +1,20 @@
+{
+  "unversionedId": "how-to/dashboard/config/helm-repo",
+  "id": "how-to/dashboard/config/helm-repo",
+  "title": "Connect Helm Repository",
+  "description": "Configure a helm repository",
+  "source": "@site/docs/how-to/dashboard/config/helm-repo.md",
+  "sourceDirName": "how-to/dashboard/config",
+  "slug": "/how-to/dashboard/config/helm-repo",
+  "permalink": "/docs/how-to/dashboard/config/helm-repo",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Connect Helm Repository",
+    "description": "Configure a helm repository"
+  }
+}

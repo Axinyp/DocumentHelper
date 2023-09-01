@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/aws-ec2-instance",
+  "id": "end-user/components/cloud-services/terraform/aws-ec2-instance",
+  "title": "AWS EC2-INSTANCE",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/aws-ec2-instance.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/aws-ec2-instance",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/aws-ec2-instance",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "AWS EC2-INSTANCE"
+  }
+}

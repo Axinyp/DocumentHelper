@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/traits/rollout",
+  "id": "version-v1.4/end-user/traits/rollout",
+  "title": "Canary rollout",
+  "description": "In this section, we will introduce how to canary rollout a container service.",
+  "source": "@site/versioned_docs/version-v1.4/end-user/traits/rollout.md",
+  "sourceDirName": "end-user/traits",
+  "slug": "/end-user/traits/rollout",
+  "permalink": "/docs/v1.4/end-user/traits/rollout",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Canary rollout"
+  }
+}

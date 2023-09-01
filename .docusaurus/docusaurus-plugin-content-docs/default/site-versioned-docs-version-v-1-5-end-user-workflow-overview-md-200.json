@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/workflow/overview",
+  "id": "version-v1.5/end-user/workflow/overview",
+  "title": "Overview",
+  "description": "Workflows, as part of the Application, can glue together additional delivery processes and specify arbitrary delivery environments. In short, Workflow provides customized control flow and flexibility based on the original delivery model of Kubernetes(Apply). For example, Workflow can be used to implement complex operations such as pause, manual approval, if conditions, waiting status, data flow, multi-environment gray release, A/B testing, etc.",
+  "source": "@site/versioned_docs/version-v1.5/end-user/workflow/overview.md",
+  "sourceDirName": "end-user/workflow",
+  "slug": "/end-user/workflow/overview",
+  "permalink": "/docs/end-user/workflow/overview",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Overview"
+  }
+}

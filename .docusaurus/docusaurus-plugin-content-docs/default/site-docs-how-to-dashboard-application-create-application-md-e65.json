@@ -1,0 +1,20 @@
+{
+  "unversionedId": "how-to/dashboard/application/create-application",
+  "id": "how-to/dashboard/application/create-application",
+  "title": "UI Console Operations",
+  "description": "lifecycle of an application by kubevela dashboard",
+  "source": "@site/docs/how-to/dashboard/application/create-application.md",
+  "sourceDirName": "how-to/dashboard/application",
+  "slug": "/how-to/dashboard/application/create-application",
+  "permalink": "/docs/how-to/dashboard/application/create-application",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "UI Console Operations",
+    "description": "lifecycle of an application by kubevela dashboard"
+  }
+}

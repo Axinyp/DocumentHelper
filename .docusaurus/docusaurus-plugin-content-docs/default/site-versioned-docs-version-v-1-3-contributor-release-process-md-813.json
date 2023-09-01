@@ -1,0 +1,19 @@
+{
+  "unversionedId": "contributor/release-process",
+  "id": "version-v1.3/contributor/release-process",
+  "title": "Release Process And Cadence",
+  "description": "KubeVela is being developed using the following process:",
+  "source": "@site/versioned_docs/version-v1.3/contributor/release-process.md",
+  "sourceDirName": "contributor",
+  "slug": "/contributor/release-process",
+  "permalink": "/docs/v1.3/contributor/release-process",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Release Process And Cadence"
+  }
+}

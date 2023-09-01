@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/alibaba-rabbitmq",
+  "id": "version-v1.5/end-user/components/cloud-services/terraform/alibaba-rabbitmq",
+  "title": "Alibaba Cloud RABBITMQ",
+  "description": "Description",
+  "source": "@site/versioned_docs/version-v1.5/end-user/components/cloud-services/terraform/alibaba-rabbitmq.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/alibaba-rabbitmq",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/alibaba-rabbitmq",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Alibaba Cloud RABBITMQ"
+  }
+}

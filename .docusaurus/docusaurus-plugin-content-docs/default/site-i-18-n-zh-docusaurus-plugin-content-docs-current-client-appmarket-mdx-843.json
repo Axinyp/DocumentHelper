@@ -1,0 +1,28 @@
+{
+  "unversionedId": "client/appmarket",
+  "id": "client/appmarket",
+  "title": "11.应用市场",
+  "description": "",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/appmarket.mdx",
+  "sourceDirName": "client",
+  "slug": "/client/appmarket",
+  "permalink": "/docs/client/appmarket",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018年10月14日",
+  "frontMatter": {
+    "title": "11.应用市场"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "10.NFC投屏",
+    "permalink": "/docs/client/nfc"
+  },
+  "next": {
+    "title": "12.简易故障排查",
+    "permalink": "/docs/client/troubleshooting"
+  }
+}

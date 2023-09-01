@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_provider_delete_terraform-ucloud",
+  "id": "version-v1.4/cli/vela_provider_delete_terraform-ucloud",
+  "title": "vela provider delete terraform-ucloud",
+  "description": "Delete Terraform Cloud Provider terraform-ucloud",
+  "source": "@site/versioned_docs/version-v1.4/cli/vela_provider_delete_terraform-ucloud.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_provider_delete_terraform-ucloud",
+  "permalink": "/docs/v1.4/cli/vela_provider_delete_terraform-ucloud",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela provider delete terraform-ucloud"
+  }
+}

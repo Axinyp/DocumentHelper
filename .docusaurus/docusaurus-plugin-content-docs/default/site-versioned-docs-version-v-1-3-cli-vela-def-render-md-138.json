@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_def_render",
+  "id": "version-v1.3/cli/vela_def_render",
+  "title": "vela def render",
+  "description": "Render X-Definition.",
+  "source": "@site/versioned_docs/version-v1.3/cli/vela_def_render.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_def_render",
+  "permalink": "/docs/v1.3/cli/vela_def_render",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela def render"
+  }
+}

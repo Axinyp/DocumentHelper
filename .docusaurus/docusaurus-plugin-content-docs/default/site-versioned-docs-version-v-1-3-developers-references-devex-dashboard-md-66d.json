@@ -1,0 +1,17 @@
+{
+  "unversionedId": "developers/references/devex/dashboard",
+  "id": "version-v1.3/developers/references/devex/dashboard",
+  "title": "KubeVela Dashboard (WIP)",
+  "description": "KubeVela has a simple client side dashboard for you to interact with. The functionality is equivalent to the vela cli.",
+  "source": "@site/versioned_docs/version-v1.3/developers/references/devex/dashboard.md",
+  "sourceDirName": "developers/references/devex",
+  "slug": "/developers/references/devex/dashboard",
+  "permalink": "/docs/v1.3/developers/references/devex/dashboard",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {}
+}

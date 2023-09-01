@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/provision-cloud-resources-by-crossplane",
+  "id": "version-v1.4/end-user/components/cloud-services/provision-cloud-resources-by-crossplane",
+  "title": "Crossplane",
+  "description": "The guide Deploy Cloud Services shows how to provision cloud resources by Terraform in",
+  "source": "@site/versioned_docs/version-v1.4/end-user/components/cloud-services/provision-cloud-resources-by-crossplane.md",
+  "sourceDirName": "end-user/components/cloud-services",
+  "slug": "/end-user/components/cloud-services/provision-cloud-resources-by-crossplane",
+  "permalink": "/docs/v1.4/end-user/components/cloud-services/provision-cloud-resources-by-crossplane",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Crossplane"
+  }
+}

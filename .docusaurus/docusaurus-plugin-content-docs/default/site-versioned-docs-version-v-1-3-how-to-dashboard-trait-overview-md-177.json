@@ -1,0 +1,21 @@
+{
+  "unversionedId": "how-to/dashboard/trait/overview",
+  "id": "version-v1.3/how-to/dashboard/trait/overview",
+  "title": "Manage Traits",
+  "description": "Manage traits for application",
+  "source": "@site/versioned_docs/version-v1.3/how-to/dashboard/trait/overview.md",
+  "sourceDirName": "how-to/dashboard/trait",
+  "slug": "/how-to/dashboard/trait/overview",
+  "permalink": "/docs/v1.3/how-to/dashboard/trait/overview",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Manage Traits",
+    "description": "Manage traits for application",
+    "draft": true
+  }
+}

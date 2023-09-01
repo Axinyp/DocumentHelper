@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/system-operation/managing-clusters",
+  "id": "version-v1.3/platform-engineers/system-operation/managing-clusters",
+  "title": "Managing Clusters",
+  "description": "Manage the cluster via UI",
+  "source": "@site/versioned_docs/version-v1.3/platform-engineers/system-operation/managing-clusters.md",
+  "sourceDirName": "platform-engineers/system-operation",
+  "slug": "/platform-engineers/system-operation/managing-clusters",
+  "permalink": "/docs/v1.3/platform-engineers/system-operation/managing-clusters",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Managing Clusters"
+  }
+}

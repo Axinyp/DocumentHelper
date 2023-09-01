@@ -1,0 +1,19 @@
+{
+  "unversionedId": "installation/standalone",
+  "id": "version-v1.5/installation/standalone",
+  "title": "Standalone Installation",
+  "description": "",
+  "source": "@site/versioned_docs/version-v1.5/installation/standalone.mdx",
+  "sourceDirName": "installation",
+  "slug": "/installation/standalone",
+  "permalink": "/docs/installation/standalone",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Standalone Installation"
+  }
+}

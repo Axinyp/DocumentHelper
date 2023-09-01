@@ -1,0 +1,20 @@
+{
+  "unversionedId": "platform-engineers/crossplane",
+  "id": "version-v1.3/platform-engineers/crossplane",
+  "title": "Crossplane",
+  "description": "In this documentation, we will use Alibaba Cloud's RDS (Relational Database Service), and Alibaba Cloud's OSS (Object Storage System) as examples to show how to enable cloud services as part of the application deployment.",
+  "source": "@site/versioned_docs/version-v1.3/platform-engineers/crossplane.md",
+  "sourceDirName": "platform-engineers",
+  "slug": "/platform-engineers/crossplane",
+  "permalink": "/docs/v1.3/platform-engineers/crossplane",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Crossplane",
+    "draft": true
+  }
+}

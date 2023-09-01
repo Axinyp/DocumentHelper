@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/kube/trait",
+  "id": "platform-engineers/kube/trait",
+  "title": "Attach Traits",
+  "description": "All traits in the KubeVela system works well with the simple template based Component.",
+  "source": "@site/docs/platform-engineers/kube/trait.md",
+  "sourceDirName": "platform-engineers/kube",
+  "slug": "/platform-engineers/kube/trait",
+  "permalink": "/docs/platform-engineers/kube/trait",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Attach Traits"
+  }
+}

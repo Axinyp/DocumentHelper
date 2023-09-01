@@ -1,0 +1,19 @@
+{
+  "unversionedId": "reference/addons/cert-manager",
+  "id": "reference/addons/cert-manager",
+  "title": "cert-manager",
+  "description": "This addon is for cert-manager, which is managing the kubernetes certificates.",
+  "source": "@site/docs/reference/addons/cert-manager.md",
+  "sourceDirName": "reference/addons",
+  "slug": "/reference/addons/cert-manager",
+  "permalink": "/docs/reference/addons/cert-manager",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "cert-manager"
+  }
+}

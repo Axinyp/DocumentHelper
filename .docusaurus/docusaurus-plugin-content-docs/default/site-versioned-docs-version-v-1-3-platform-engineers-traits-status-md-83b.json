@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/traits/status",
+  "id": "version-v1.3/platform-engineers/traits/status",
+  "title": "Status Write Back",
+  "description": "This documentation will explain how to achieve status write back by using CUE templates in definition objects.",
+  "source": "@site/versioned_docs/version-v1.3/platform-engineers/traits/status.md",
+  "sourceDirName": "platform-engineers/traits",
+  "slug": "/platform-engineers/traits/status",
+  "permalink": "/docs/v1.3/platform-engineers/traits/status",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Status Write Back"
+  }
+}

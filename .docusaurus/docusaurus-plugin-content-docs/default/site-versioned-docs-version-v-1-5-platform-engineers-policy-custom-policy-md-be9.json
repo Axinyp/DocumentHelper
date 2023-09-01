@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/policy/custom-policy",
+  "id": "version-v1.5/platform-engineers/policy/custom-policy",
+  "title": "Policy Definition",
+  "description": "In this section we will introduce how to define a custom policy with CUE. Make sure you've learned the basic knowledge about Definition Concept and how to manage definition.",
+  "source": "@site/versioned_docs/version-v1.5/platform-engineers/policy/custom-policy.md",
+  "sourceDirName": "platform-engineers/policy",
+  "slug": "/platform-engineers/policy/custom-policy",
+  "permalink": "/docs/platform-engineers/policy/custom-policy",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Policy Definition"
+  }
+}

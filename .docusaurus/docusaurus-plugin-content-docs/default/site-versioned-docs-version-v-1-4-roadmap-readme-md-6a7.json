@@ -1,0 +1,19 @@
+{
+  "unversionedId": "roadmap/README",
+  "id": "version-v1.4/roadmap/README",
+  "title": "Roadmap",
+  "description": "- 2022 Fall Roadmap",
+  "source": "@site/versioned_docs/version-v1.4/roadmap/README.md",
+  "sourceDirName": "roadmap",
+  "slug": "/roadmap/",
+  "permalink": "/docs/v1.4/roadmap/",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Roadmap"
+  }
+}

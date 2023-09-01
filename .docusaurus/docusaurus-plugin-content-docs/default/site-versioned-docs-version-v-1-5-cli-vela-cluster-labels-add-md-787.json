@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_cluster_labels_add",
+  "id": "version-v1.5/cli/vela_cluster_labels_add",
+  "title": "vela cluster labels add",
+  "description": "add labels to managed cluster",
+  "source": "@site/versioned_docs/version-v1.5/cli/vela_cluster_labels_add.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_cluster_labels_add",
+  "permalink": "/docs/cli/vela_cluster_labels_add",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela cluster labels add"
+  }
+}

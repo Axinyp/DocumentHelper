@@ -1,0 +1,19 @@
+{
+  "unversionedId": "developers/exec-cmd",
+  "id": "developers/exec-cmd",
+  "title": "Execute Commands in Container",
+  "description": "Run:",
+  "source": "@site/docs/developers/exec-cmd.md",
+  "sourceDirName": "developers",
+  "slug": "/developers/exec-cmd",
+  "permalink": "/docs/developers/exec-cmd",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Execute Commands in Container"
+  }
+}

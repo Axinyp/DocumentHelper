@@ -1,0 +1,19 @@
+{
+  "unversionedId": "tutorials/k8s-object",
+  "id": "version-v1.3/tutorials/k8s-object",
+  "title": "Deploy Kubernetes Objects",
+  "description": "This section introduces that how you can deploy Kubernetes objects into multi environments and clusters.",
+  "source": "@site/versioned_docs/version-v1.3/tutorials/k8s-object.mdx",
+  "sourceDirName": "tutorials",
+  "slug": "/tutorials/k8s-object",
+  "permalink": "/docs/v1.3/tutorials/k8s-object",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Deploy Kubernetes Objects"
+  }
+}

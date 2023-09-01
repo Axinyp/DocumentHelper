@@ -1,0 +1,24 @@
+{
+  "unversionedId": "meetings/meetings",
+  "id": "meetings/meetings",
+  "title": "KubeVela Community Calls",
+  "description": "Community Calls in English",
+  "source": "@site/videos/meetings/meetings.md",
+  "sourceDirName": "meetings",
+  "slug": "/meetings/",
+  "permalink": "/videos/meetings/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "KubeVela Community Calls"
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "Building application management platform with Open Application Model",
+    "permalink": "/videos/talks/cn/oam-application"
+  }
+}

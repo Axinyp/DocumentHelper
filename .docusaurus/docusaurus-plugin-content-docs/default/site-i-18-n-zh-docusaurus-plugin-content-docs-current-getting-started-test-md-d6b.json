@@ -1,0 +1,21 @@
+{
+  "unversionedId": "getting-started/test",
+  "id": "getting-started/test",
+  "title": "测试",
+  "description": "这是一个测试文件",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/getting-started/test.md",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/test",
+  "permalink": "/docs/getting-started/test",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "测试"
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "登录",
+    "permalink": "/docs/server/test"
+  }
+}

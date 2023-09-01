@@ -1,0 +1,28 @@
+{
+  "unversionedId": "talks/cn/multi-cluster",
+  "id": "talks/cn/multi-cluster",
+  "title": "KubeCon China 2021 - Build and Manage Multi-cluster Application with Consistent Experience",
+  "description": "This video is posted in 2021-12-19.",
+  "source": "@site/videos/talks/cn/multi-cluster.md",
+  "sourceDirName": "talks/cn",
+  "slug": "/talks/cn/multi-cluster",
+  "permalink": "/videos/talks/cn/multi-cluster",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "KubeCon China 2021 - Build and Manage Multi-cluster Application with Consistent Experience"
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "下一代云原生应用交付会怎样发展？KubeVela帮大忙！",
+    "permalink": "/videos/talks/cn/next-app-delivery"
+  },
+  "next": {
+    "title": "Go开源说第三期 - KubeVela",
+    "permalink": "/videos/talks/cn/gopher-china"
+  }
+}

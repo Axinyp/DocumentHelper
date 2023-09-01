@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/system-operation/offline-installation",
+  "id": "version-v1.4/platform-engineers/system-operation/offline-installation",
+  "title": "Air-gapped Installation",
+  "description": "velad provides the air-gapped installation experience, it's now the default installation guide.",
+  "source": "@site/versioned_docs/version-v1.4/platform-engineers/system-operation/offline-installation.md",
+  "sourceDirName": "platform-engineers/system-operation",
+  "slug": "/platform-engineers/system-operation/offline-installation",
+  "permalink": "/docs/v1.4/platform-engineers/system-operation/offline-installation",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Air-gapped Installation"
+  }
+}

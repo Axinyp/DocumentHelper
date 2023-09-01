@@ -1,0 +1,21 @@
+{
+  "unversionedId": "getting-started/test",
+  "id": "getting-started/test",
+  "title": "Guangdong Baolun Electronics Co., Ltd.",
+  "description": "",
+  "source": "@site/docs/getting-started/test.mdx",
+  "sourceDirName": "getting-started",
+  "slug": "/getting-started/test",
+  "permalink": "/en/docs/getting-started/test",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Guangdong Baolun Electronics Co., Ltd."
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "1. Smart Meeting Management Platform",
+    "permalink": "/en/docs/server/login"
+  }
+}

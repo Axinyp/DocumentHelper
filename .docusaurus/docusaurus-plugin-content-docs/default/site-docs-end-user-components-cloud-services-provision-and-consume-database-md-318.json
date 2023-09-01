@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/provision-and-consume-database",
+  "id": "end-user/components/cloud-services/provision-and-consume-database",
+  "title": "Provision and Binding Database",
+  "description": "This tutorial will talk about how to provision and consume Alibaba Cloud RDS (and OSS) by Terraform.",
+  "source": "@site/docs/end-user/components/cloud-services/provision-and-consume-database.md",
+  "sourceDirName": "end-user/components/cloud-services",
+  "slug": "/end-user/components/cloud-services/provision-and-consume-database",
+  "permalink": "/docs/end-user/components/cloud-services/provision-and-consume-database",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Provision and Binding Database"
+  }
+}

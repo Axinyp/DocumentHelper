@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/keda",
+  "id": "platform-engineers/keda",
+  "title": "KEDA as Autoscaling Trait",
+  "description": "Before continue, make sure you have learned about the concepts of Definition Objects and Defining Traits with CUE section.",
+  "source": "@site/docs/platform-engineers/keda.md",
+  "sourceDirName": "platform-engineers",
+  "slug": "/platform-engineers/keda",
+  "permalink": "/docs/platform-engineers/keda",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "KEDA as Autoscaling Trait"
+  }
+}

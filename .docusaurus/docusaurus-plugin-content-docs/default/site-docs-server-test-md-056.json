@@ -1,0 +1,21 @@
+{
+  "unversionedId": "server/test",
+  "id": "server/test",
+  "title": "Architecture",
+  "description": "The overall architecture of KubeVela is shown as below:",
+  "source": "@site/docs/server/test.md",
+  "sourceDirName": "server",
+  "slug": "/server/test",
+  "permalink": "/en/docs/server/test",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Architecture"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Architecture",
+    "permalink": "/en/docs/getting-started/test"
+  }
+}

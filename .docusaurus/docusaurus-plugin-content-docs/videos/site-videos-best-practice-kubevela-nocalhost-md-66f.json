@@ -1,0 +1,28 @@
+{
+  "unversionedId": "best-practice/kubevela-nocalhost",
+  "id": "best-practice/kubevela-nocalhost",
+  "title": "Use Nocalhost and KubeVela for cloud debugging and multi-cluster hybrid cloud deployment",
+  "description": "With the rapid development of cloud-native, how can we use cloud to empower business development? When launching applications, how can cloud developers easily develop and debug applications in a multi-cluster and hybrid cloud environment? In the deployment process, how to make the application deployment have sufficient verification and reliability?",
+  "source": "@site/videos/best-practice/kubevela-nocalhost.md",
+  "sourceDirName": "best-practice",
+  "slug": "/best-practice/kubevela-nocalhost",
+  "permalink": "/videos/best-practice/kubevela-nocalhost",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Use Nocalhost and KubeVela for cloud debugging and multi-cluster hybrid cloud deployment"
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "Using GitOps + KubeVela for Application Continuous Delivery",
+    "permalink": "/videos/best-practice/gitops"
+  },
+  "next": {
+    "title": "1024 Live Lessons",
+    "permalink": "/videos/lessons/live-1024"
+  }
+}

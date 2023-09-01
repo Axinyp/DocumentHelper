@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_env_init",
+  "id": "cli/vela_env_init",
+  "title": "vela env init",
+  "description": "Create environment for vela applications to run.",
+  "source": "@site/docs/cli/vela_env_init.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_env_init",
+  "permalink": "/docs/cli/vela_env_init",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela env init"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "developers/references/restful-api/rest",
+  "id": "version-v1.3/developers/references/restful-api/rest",
+  "title": "Restful API",
+  "description": "",
+  "source": "@site/versioned_docs/version-v1.3/developers/references/restful-api/rest.mdx",
+  "sourceDirName": "developers/references/restful-api",
+  "slug": "/developers/references/restful-api/rest",
+  "permalink": "/docs/v1.3/developers/references/restful-api/rest",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Restful API"
+  }
+}

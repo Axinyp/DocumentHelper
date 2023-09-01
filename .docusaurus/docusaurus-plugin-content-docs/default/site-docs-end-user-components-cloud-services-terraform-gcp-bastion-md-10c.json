@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/gcp-bastion",
+  "id": "end-user/components/cloud-services/terraform/gcp-bastion",
+  "title": "Gcp-Bastion",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/gcp-bastion.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/gcp-bastion",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/gcp-bastion",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Gcp-Bastion"
+  }
+}

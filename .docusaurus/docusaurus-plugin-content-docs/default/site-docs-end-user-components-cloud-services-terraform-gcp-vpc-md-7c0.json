@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/gcp-vpc",
+  "id": "end-user/components/cloud-services/terraform/gcp-vpc",
+  "title": "Gcp-Vpc",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/gcp-vpc.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/gcp-vpc",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/gcp-vpc",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Gcp-Vpc"
+  }
+}

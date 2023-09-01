@@ -1,0 +1,19 @@
+{
+  "unversionedId": "reference/addons/netlify",
+  "id": "version-v1.5/reference/addons/netlify",
+  "title": "netlify",
+  "description": "- Netlify is a SaaS platform that can serve website especially for frontend service, it provides free allowances that was pretty cool to be used for demo and test. We can create an addon which provides a netlify component type for frontend service.",
+  "source": "@site/versioned_docs/version-v1.5/reference/addons/netlify.md",
+  "sourceDirName": "reference/addons",
+  "slug": "/reference/addons/netlify",
+  "permalink": "/docs/reference/addons/netlify",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "netlify"
+  }
+}

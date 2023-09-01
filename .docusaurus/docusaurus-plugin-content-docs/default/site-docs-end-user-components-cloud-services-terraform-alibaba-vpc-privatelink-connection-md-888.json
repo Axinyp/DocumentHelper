@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/components/cloud-services/terraform/alibaba-vpc-privatelink-connection",
+  "id": "end-user/components/cloud-services/terraform/alibaba-vpc-privatelink-connection",
+  "title": "Alibaba Cloud VPC-PRIVATELINK-CONNECTION",
+  "description": "Description",
+  "source": "@site/docs/end-user/components/cloud-services/terraform/alibaba-vpc-privatelink-connection.md",
+  "sourceDirName": "end-user/components/cloud-services/terraform",
+  "slug": "/end-user/components/cloud-services/terraform/alibaba-vpc-privatelink-connection",
+  "permalink": "/docs/end-user/components/cloud-services/terraform/alibaba-vpc-privatelink-connection",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Alibaba Cloud VPC-PRIVATELINK-CONNECTION"
+  }
+}

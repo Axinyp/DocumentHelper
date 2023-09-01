@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/workflow/step-group",
+  "id": "version-v1.4/end-user/workflow/step-group",
+  "title": "Sub Steps",
+  "description": "This section describes how to use sub steps in KubeVela.",
+  "source": "@site/versioned_docs/version-v1.4/end-user/workflow/step-group.md",
+  "sourceDirName": "end-user/workflow",
+  "slug": "/end-user/workflow/step-group",
+  "permalink": "/docs/v1.4/end-user/workflow/step-group",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Sub Steps"
+  }
+}

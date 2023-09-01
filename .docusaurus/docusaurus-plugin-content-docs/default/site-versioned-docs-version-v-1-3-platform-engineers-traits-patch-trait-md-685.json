@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/traits/patch-trait",
+  "id": "version-v1.3/platform-engineers/traits/patch-trait",
+  "title": "Patch Traits",
+  "description": "Patch is a very common pattern of trait definitions, i.e. the app operators can amend/patch attributes to the component instance (normally the workload) to enable certain operational features such as sidecar or node affinity rules (and this should be done before the resources applied to target cluster).",
+  "source": "@site/versioned_docs/version-v1.3/platform-engineers/traits/patch-trait.md",
+  "sourceDirName": "platform-engineers/traits",
+  "slug": "/platform-engineers/traits/patch-trait",
+  "permalink": "/docs/v1.3/platform-engineers/traits/patch-trait",
+  "draft": false,
+  "tags": [],
+  "version": "v1.3",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Patch Traits"
+  }
+}

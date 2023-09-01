@@ -1,0 +1,28 @@
+{
+  "unversionedId": "talks/cn/gopher-china",
+  "id": "talks/cn/gopher-china",
+  "title": "Go开源说第三期 - KubeVela",
+  "description": "Powerpoint//github.com/gocn/opentalk",
+  "source": "@site/videos/talks/cn/gopher-china.md",
+  "sourceDirName": "talks/cn",
+  "slug": "/talks/cn/gopher-china",
+  "permalink": "/videos/talks/cn/gopher-china",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Go开源说第三期 - KubeVela"
+  },
+  "sidebar": "videos",
+  "previous": {
+    "title": "KubeCon China 2021 - Build and Manage Multi-cluster Application with Consistent Experience",
+    "permalink": "/videos/talks/cn/multi-cluster"
+  },
+  "next": {
+    "title": "基于 Kubernetes 构建标准可扩展的云原生应用管理平台",
+    "permalink": "/videos/talks/cn/app-platform"
+  }
+}

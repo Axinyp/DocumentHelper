@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_port-forward",
+  "id": "version-v1.5/cli/vela_port-forward",
+  "title": "vela port-forward",
+  "description": "Forward local ports to container/service port of vela application.",
+  "source": "@site/versioned_docs/version-v1.5/cli/vela_port-forward.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_port-forward",
+  "permalink": "/docs/cli/vela_port-forward",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela port-forward"
+  }
+}

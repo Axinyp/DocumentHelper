@@ -1,0 +1,19 @@
+{
+  "unversionedId": "contributor/principle-of-test",
+  "id": "version-v1.5/contributor/principle-of-test",
+  "title": "Principle of Test",
+  "description": "Definition of Concept",
+  "source": "@site/versioned_docs/version-v1.5/contributor/principle-of-test.md",
+  "sourceDirName": "contributor",
+  "slug": "/contributor/principle-of-test",
+  "permalink": "/docs/contributor/principle-of-test",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Principle of Test"
+  }
+}

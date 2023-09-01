@@ -1,0 +1,19 @@
+{
+  "unversionedId": "platform-engineers/oam/x-definition",
+  "id": "platform-engineers/oam/x-definition",
+  "title": "OAM Definition Protocol",
+  "description": "KubeVela is fully programmable via CUE, while it leverage Kubernetes as control plane and align with the API in yaml.",
+  "source": "@site/docs/platform-engineers/oam/x-definition.md",
+  "sourceDirName": "platform-engineers/oam",
+  "slug": "/platform-engineers/oam/x-definition",
+  "permalink": "/docs/platform-engineers/oam/x-definition",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "OAM Definition Protocol"
+  }
+}

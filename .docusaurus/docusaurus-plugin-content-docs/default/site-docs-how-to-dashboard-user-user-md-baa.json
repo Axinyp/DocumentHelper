@@ -1,0 +1,19 @@
+{
+  "unversionedId": "how-to/dashboard/user/user",
+  "id": "how-to/dashboard/user/user",
+  "title": "Overview",
+  "description": "Once VelaUX is installed, there's a built-in administrator user with full access to the system. It is recommended to use the admin user only for the initial configuration, then switch to another user or configure the SSO integration.",
+  "source": "@site/docs/how-to/dashboard/user/user.md",
+  "sourceDirName": "how-to/dashboard/user",
+  "slug": "/how-to/dashboard/user/",
+  "permalink": "/docs/how-to/dashboard/user/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Overview"
+  }
+}

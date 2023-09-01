@@ -1,0 +1,19 @@
+{
+  "unversionedId": "end-user/rollout-scaler",
+  "id": "version-v1.4/end-user/rollout-scaler",
+  "title": "Rollout & Scaler",
+  "description": "WIP",
+  "source": "@site/versioned_docs/version-v1.4/end-user/rollout-scaler.md",
+  "sourceDirName": "end-user",
+  "slug": "/end-user/rollout-scaler",
+  "permalink": "/docs/v1.4/end-user/rollout-scaler",
+  "draft": false,
+  "tags": [],
+  "version": "v1.4",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Rollout & Scaler"
+  }
+}

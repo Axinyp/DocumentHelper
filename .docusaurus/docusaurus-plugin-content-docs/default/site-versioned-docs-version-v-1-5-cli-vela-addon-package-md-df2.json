@@ -1,0 +1,19 @@
+{
+  "unversionedId": "cli/vela_addon_package",
+  "id": "version-v1.5/cli/vela_addon_package",
+  "title": "vela addon package",
+  "description": "package an addon directory",
+  "source": "@site/versioned_docs/version-v1.5/cli/vela_addon_package.md",
+  "sourceDirName": "cli",
+  "slug": "/cli/vela_addon_package",
+  "permalink": "/docs/cli/vela_addon_package",
+  "draft": false,
+  "tags": [],
+  "version": "v1.5",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "vela addon package"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "unversionedId": "end-user/debug/health",
+  "id": "end-user/debug/health",
+  "title": "Aggregated Health Probe",
+  "description": "The HealthyScope allows you to define an aggregated health probe for all components in same application.",
+  "source": "@site/docs/end-user/debug/health.md",
+  "sourceDirName": "end-user/debug",
+  "slug": "/end-user/debug/health",
+  "permalink": "/docs/end-user/debug/health",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "frontMatter": {
+    "title": "Aggregated Health Probe",
+    "draft": true
+  }
+}
