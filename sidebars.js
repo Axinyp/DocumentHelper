@@ -30,6 +30,10 @@ module.exports = {
       items: [
         {
           type: "doc",
+          id: 'client/register'
+        },
+        {
+          type: "doc",
           id: 'client/meetingmode'
         },
         {
