@@ -13,14 +13,14 @@
           "tagsPath": "/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "E:\\广州保伦电子\\一体机帮助文档\\sidebars.js",
-          "contentPath": "E:\\广州保伦电子\\一体机帮助文档\\docs",
-          "contentPathLocalized": "E:\\广州保伦电子\\一体机帮助文档\\i18n\\zh\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "E:\\广州保伦电子\\DocumentHelper\\sidebars.js",
+          "contentPath": "E:\\广州保伦电子\\DocumentHelper\\docs",
+          "contentPathLocalized": "E:\\广州保伦电子\\DocumentHelper\\i18n\\zh\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "unversionedId": "client/annotation",
               "id": "client/annotation",
-              "title": "4.批注",
+              "title": "5.批注",
               "description": "",
               "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/annotation.mdx",
               "sourceDirName": "client",
@@ -33,22 +33,22 @@
               "lastUpdatedAt": 1539502055,
               "formattedLastUpdatedAt": "2018年10月14日",
               "frontMatter": {
-                "title": "4.批注"
+                "title": "5.批注"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "3.白板书写",
+                "title": "4.白板书写",
                 "permalink": "/docs/client/whiteboard"
               },
               "next": {
-                "title": "5.文件展示",
+                "title": "6.文件展示",
                 "permalink": "/docs/client/filepreviewer"
               }
             },
             {
               "unversionedId": "client/appmarket",
               "id": "client/appmarket",
-              "title": "11.应用市场",
+              "title": "12.应用市场",
               "description": "",
               "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/appmarket.mdx",
               "sourceDirName": "client",
@@ -61,22 +61,22 @@
               "lastUpdatedAt": 1539502055,
               "formattedLastUpdatedAt": "2018年10月14日",
               "frontMatter": {
-                "title": "11.应用市场"
+                "title": "12.应用市场"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "10.NFC投屏",
+                "title": "11.NFC投屏",
                 "permalink": "/docs/client/nfc"
               },
               "next": {
-                "title": "12.简易故障排查",
+                "title": "13.简易故障排查",
                 "permalink": "/docs/client/troubleshooting"
               }
             },
             {
               "unversionedId": "client/filepreviewer",
               "id": "client/filepreviewer",
-              "title": "5.文件展示",
+              "title": "6.文件展示",
               "description": "",
               "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/filepreviewer.mdx",
               "sourceDirName": "client",
@@ -89,22 +89,22 @@
               "lastUpdatedAt": 1539502055,
               "formattedLastUpdatedAt": "2018年10月14日",
               "frontMatter": {
-                "title": "5.文件展示"
+                "title": "6.文件展示"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "4.批注",
+                "title": "5.批注",
                 "permalink": "/docs/client/annotation"
               },
               "next": {
-                "title": "6.设置",
+                "title": "7.设置",
                 "permalink": "/docs/client/setting"
               }
             },
             {
               "unversionedId": "client/meetingmode",
               "id": "client/meetingmode",
-              "title": "1.会议模式",
+              "title": "2.会议模式",
               "description": "",
               "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/meetingmode.mdx",
               "sourceDirName": "client",
@@ -117,22 +117,22 @@
               "lastUpdatedAt": 1539502055,
               "formattedLastUpdatedAt": "2018年10月14日",
               "frontMatter": {
-                "title": "1.会议模式"
+                "title": "2.会议模式"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "1. 智慧会议管理平台",
-                "permalink": "/docs/server/login"
+                "title": "1.设备激活",
+                "permalink": "/docs/client/register"
               },
               "next": {
-                "title": "2.小工具",
+                "title": "3.小工具",
                 "permalink": "/docs/client/tool"
               }
             },
             {
               "unversionedId": "client/miracast",
               "id": "client/miracast",
-              "title": "9.投屏",
+              "title": "10.投屏",
               "description": "",
               "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/miracast.mdx",
               "sourceDirName": "client",
@@ -145,22 +145,22 @@
               "lastUpdatedAt": 1539502055,
               "formattedLastUpdatedAt": "2018年10月14日",
               "frontMatter": {
-                "title": "9.投屏"
+                "title": "10.投屏"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "8.语音助手",
+                "title": "9.语音助手",
                 "permalink": "/docs/client/voiceassistance"
               },
               "next": {
-                "title": "10.NFC投屏",
+                "title": "11.NFC投屏",
                 "permalink": "/docs/client/nfc"
               }
             },
             {
               "unversionedId": "client/nfc",
               "id": "client/nfc",
-              "title": "10.NFC投屏",
+              "title": "11.NFC投屏",
               "description": "",
               "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/nfc.mdx",
               "sourceDirName": "client",
@@ -173,22 +173,50 @@
               "lastUpdatedAt": 1539502055,
               "formattedLastUpdatedAt": "2018年10月14日",
               "frontMatter": {
-                "title": "10.NFC投屏"
+                "title": "11.NFC投屏"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "9.投屏",
+                "title": "10.投屏",
                 "permalink": "/docs/client/miracast"
               },
               "next": {
-                "title": "11.应用市场",
+                "title": "12.应用市场",
                 "permalink": "/docs/client/appmarket"
+              }
+            },
+            {
+              "unversionedId": "client/register",
+              "id": "client/register",
+              "title": "1.设备激活",
+              "description": "",
+              "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/register.mdx",
+              "sourceDirName": "client",
+              "slug": "/client/register",
+              "permalink": "/docs/client/register",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "lastUpdatedBy": "Author",
+              "lastUpdatedAt": 1539502055,
+              "formattedLastUpdatedAt": "2018年10月14日",
+              "frontMatter": {
+                "title": "1.设备激活"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "1. 智慧会议管理平台",
+                "permalink": "/docs/server/login"
+              },
+              "next": {
+                "title": "2.会议模式",
+                "permalink": "/docs/client/meetingmode"
               }
             },
             {
               "unversionedId": "client/setting",
               "id": "client/setting",
-              "title": "6.设置",
+              "title": "7.设置",
               "description": "",
               "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/setting.mdx",
               "sourceDirName": "client",
@@ -201,22 +229,22 @@
               "lastUpdatedAt": 1539502055,
               "formattedLastUpdatedAt": "2018年10月14日",
               "frontMatter": {
-                "title": "6.设置"
+                "title": "7.设置"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "5.文件展示",
+                "title": "6.文件展示",
                 "permalink": "/docs/client/filepreviewer"
               },
               "next": {
-                "title": "7.单机模式",
+                "title": "8.单机模式",
                 "permalink": "/docs/client/singlemode"
               }
             },
             {
               "unversionedId": "client/singlemode",
               "id": "client/singlemode",
-              "title": "7.单机模式",
+              "title": "8.单机模式",
               "description": "",
               "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/singlemode.mdx",
               "sourceDirName": "client",
@@ -229,22 +257,22 @@
               "lastUpdatedAt": 1539502055,
               "formattedLastUpdatedAt": "2018年10月14日",
               "frontMatter": {
-                "title": "7.单机模式"
+                "title": "8.单机模式"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "6.设置",
+                "title": "7.设置",
                 "permalink": "/docs/client/setting"
               },
               "next": {
-                "title": "8.语音助手",
+                "title": "9.语音助手",
                 "permalink": "/docs/client/voiceassistance"
               }
             },
             {
               "unversionedId": "client/tool",
               "id": "client/tool",
-              "title": "2.小工具",
+              "title": "3.小工具",
               "description": "",
               "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/tool.mdx",
               "sourceDirName": "client",
@@ -257,22 +285,22 @@
               "lastUpdatedAt": 1539502055,
               "formattedLastUpdatedAt": "2018年10月14日",
               "frontMatter": {
-                "title": "2.小工具"
+                "title": "3.小工具"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "1.会议模式",
+                "title": "2.会议模式",
                 "permalink": "/docs/client/meetingmode"
               },
               "next": {
-                "title": "3.白板书写",
+                "title": "4.白板书写",
                 "permalink": "/docs/client/whiteboard"
               }
             },
             {
               "unversionedId": "client/troubleshooting",
               "id": "client/troubleshooting",
-              "title": "12.简易故障排查",
+              "title": "13.简易故障排查",
               "description": "",
               "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/troubleshooting.mdx",
               "sourceDirName": "client",
@@ -285,18 +313,18 @@
               "lastUpdatedAt": 1539502055,
               "formattedLastUpdatedAt": "2018年10月14日",
               "frontMatter": {
-                "title": "12.简易故障排查"
+                "title": "13.简易故障排查"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "11.应用市场",
+                "title": "12.应用市场",
                 "permalink": "/docs/client/appmarket"
               }
             },
             {
               "unversionedId": "client/voiceassistance",
               "id": "client/voiceassistance",
-              "title": "8.语音助手",
+              "title": "9.语音助手",
               "description": "",
               "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/voiceassistance.mdx",
               "sourceDirName": "client",
@@ -309,22 +337,22 @@
               "lastUpdatedAt": 1539502055,
               "formattedLastUpdatedAt": "2018年10月14日",
               "frontMatter": {
-                "title": "8.语音助手"
+                "title": "9.语音助手"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "7.单机模式",
+                "title": "8.单机模式",
                 "permalink": "/docs/client/singlemode"
               },
               "next": {
-                "title": "9.投屏",
+                "title": "10.投屏",
                 "permalink": "/docs/client/miracast"
               }
             },
             {
               "unversionedId": "client/whiteboard",
               "id": "client/whiteboard",
-              "title": "3.白板书写",
+              "title": "4.白板书写",
               "description": "",
               "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/whiteboard.mdx",
               "sourceDirName": "client",
@@ -337,15 +365,15 @@
               "lastUpdatedAt": 1539502055,
               "formattedLastUpdatedAt": "2018年10月14日",
               "frontMatter": {
-                "title": "3.白板书写"
+                "title": "4.白板书写"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "2.小工具",
+                "title": "3.小工具",
                 "permalink": "/docs/client/tool"
               },
               "next": {
-                "title": "4.批注",
+                "title": "5.批注",
                 "permalink": "/docs/client/annotation"
               }
             },
@@ -397,8 +425,8 @@
                 "permalink": "/docs/getting-started/test"
               },
               "next": {
-                "title": "1.会议模式",
-                "permalink": "/docs/client/meetingmode"
+                "title": "1.设备激活",
+                "permalink": "/docs/client/register"
               }
             }
           ],
@@ -434,6 +462,10 @@
                 "label": "客户端",
                 "collapsed": false,
                 "items": [
+                  {
+                    "type": "doc",
+                    "id": "client/register"
+                  },
                   {
                     "type": "doc",
                     "id": "client/meetingmode"

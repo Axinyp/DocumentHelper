@@ -1,7 +1,7 @@
 {
   "unversionedId": "client/troubleshooting",
   "id": "client/troubleshooting",
-  "title": "12.Easy Troubleshooting",
+  "title": "13.Easy Troubleshooting",
   "description": "",
   "source": "@site/docs/client/troubleshooting.mdx",
   "sourceDirName": "client",
@@ -10,12 +10,15 @@
   "draft": false,
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "liufx",
+  "lastUpdatedAt": 1693808902,
+  "formattedLastUpdatedAt": "Sep 4, 2023",
   "frontMatter": {
-    "title": "12.Easy Troubleshooting"
+    "title": "13.Easy Troubleshooting"
   },
   "sidebar": "docs",
   "previous": {
-    "title": "11.Application market",
+    "title": "12.Application market",
     "permalink": "/en/docs/client/appmarket"
   }
 }

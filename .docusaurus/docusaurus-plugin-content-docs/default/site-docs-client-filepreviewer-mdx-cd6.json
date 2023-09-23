@@ -1,7 +1,7 @@
 {
   "unversionedId": "client/filepreviewer",
   "id": "client/filepreviewer",
-  "title": "5.File display",
+  "title": "6.File display",
   "description": "",
   "source": "@site/docs/client/filepreviewer.mdx",
   "sourceDirName": "client",
@@ -10,16 +10,19 @@
   "draft": false,
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "liufx",
+  "lastUpdatedAt": 1693808902,
+  "formattedLastUpdatedAt": "Sep 4, 2023",
   "frontMatter": {
-    "title": "5.File display"
+    "title": "6.File display"
   },
   "sidebar": "docs",
   "previous": {
-    "title": "4.Annotation",
+    "title": "5.Annotation",
     "permalink": "/en/docs/client/annotation"
   },
   "next": {
-    "title": "6.Settings",
+    "title": "7.Settings",
     "permalink": "/en/docs/client/setting"
   }
 }

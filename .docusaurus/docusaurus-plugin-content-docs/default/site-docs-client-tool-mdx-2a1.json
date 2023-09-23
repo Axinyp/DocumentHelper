@@ -1,7 +1,7 @@
 {
   "unversionedId": "client/tool",
   "id": "client/tool",
-  "title": "2. Tool",
+  "title": "3. Tool",
   "description": "",
   "source": "@site/docs/client/tool.mdx",
   "sourceDirName": "client",
@@ -10,16 +10,19 @@
   "draft": false,
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "liufx",
+  "lastUpdatedAt": 1693808902,
+  "formattedLastUpdatedAt": "Sep 4, 2023",
   "frontMatter": {
-    "title": "2. Tool"
+    "title": "3. Tool"
   },
   "sidebar": "docs",
   "previous": {
-    "title": "1.Meeting mode",
+    "title": "2.Meeting mode",
     "permalink": "/en/docs/client/meetingmode"
   },
   "next": {
-    "title": "3.Whiteboard",
+    "title": "4.Whiteboard",
     "permalink": "/en/docs/client/whiteboard"
   }
 }

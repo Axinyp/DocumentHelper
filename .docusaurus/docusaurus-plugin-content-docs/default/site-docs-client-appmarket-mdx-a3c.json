@@ -1,7 +1,7 @@
 {
   "unversionedId": "client/appmarket",
   "id": "client/appmarket",
-  "title": "11.Application market",
+  "title": "12.Application market",
   "description": "",
   "source": "@site/docs/client/appmarket.mdx",
   "sourceDirName": "client",
@@ -10,16 +10,19 @@
   "draft": false,
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "liufx",
+  "lastUpdatedAt": 1693808902,
+  "formattedLastUpdatedAt": "Sep 4, 2023",
   "frontMatter": {
-    "title": "11.Application market"
+    "title": "12.Application market"
   },
   "sidebar": "docs",
   "previous": {
-    "title": "10.NFC screen mirroring",
+    "title": "11.NFC screen mirroring",
     "permalink": "/en/docs/client/nfc"
   },
   "next": {
-    "title": "12.Easy Troubleshooting",
+    "title": "13.Easy Troubleshooting",
     "permalink": "/en/docs/client/troubleshooting"
   }
 }

@@ -3,138 +3,109 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'a48'),
+    path: '/en/search',
+    component: ComponentCreator('/en/search', '0d9'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '008'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '110'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '3fb'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'c14'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', 'f7f'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '2df'),
-    exact: true
-  },
-  {
-    path: '/search',
-    component: ComponentCreator('/search', '605'),
-    exact: true
-  },
-  {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'f91'),
+    path: '/en/docs',
+    component: ComponentCreator('/en/docs', '19f'),
     routes: [
       {
-        path: '/docs/client/annotation',
-        component: ComponentCreator('/docs/client/annotation', 'bfc'),
+        path: '/en/docs/client/annotation',
+        component: ComponentCreator('/en/docs/client/annotation', 'f70'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/client/appmarket',
-        component: ComponentCreator('/docs/client/appmarket', '9f1'),
+        path: '/en/docs/client/appmarket',
+        component: ComponentCreator('/en/docs/client/appmarket', '361'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/client/filepreviewer',
-        component: ComponentCreator('/docs/client/filepreviewer', '5cf'),
+        path: '/en/docs/client/filepreviewer',
+        component: ComponentCreator('/en/docs/client/filepreviewer', 'fc4'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/client/meetingmode',
-        component: ComponentCreator('/docs/client/meetingmode', '237'),
+        path: '/en/docs/client/meetingmode',
+        component: ComponentCreator('/en/docs/client/meetingmode', '5a8'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/client/miracast',
-        component: ComponentCreator('/docs/client/miracast', 'cc0'),
+        path: '/en/docs/client/miracast',
+        component: ComponentCreator('/en/docs/client/miracast', '57f'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/client/nfc',
-        component: ComponentCreator('/docs/client/nfc', 'f4b'),
+        path: '/en/docs/client/nfc',
+        component: ComponentCreator('/en/docs/client/nfc', 'aef'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/client/setting',
-        component: ComponentCreator('/docs/client/setting', '07e'),
+        path: '/en/docs/client/register',
+        component: ComponentCreator('/en/docs/client/register', '3e7'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/client/singlemode',
-        component: ComponentCreator('/docs/client/singlemode', '4cc'),
+        path: '/en/docs/client/setting',
+        component: ComponentCreator('/en/docs/client/setting', 'f72'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/client/tool',
-        component: ComponentCreator('/docs/client/tool', '76a'),
+        path: '/en/docs/client/singlemode',
+        component: ComponentCreator('/en/docs/client/singlemode', '0c9'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/client/troubleshooting',
-        component: ComponentCreator('/docs/client/troubleshooting', '4d6'),
+        path: '/en/docs/client/tool',
+        component: ComponentCreator('/en/docs/client/tool', '4a2'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/client/voiceassistance',
-        component: ComponentCreator('/docs/client/voiceassistance', '58b'),
+        path: '/en/docs/client/troubleshooting',
+        component: ComponentCreator('/en/docs/client/troubleshooting', '81c'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/client/whiteboard',
-        component: ComponentCreator('/docs/client/whiteboard', 'e11'),
+        path: '/en/docs/client/voiceassistance',
+        component: ComponentCreator('/en/docs/client/voiceassistance', 'aa0'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/getting-started/test',
-        component: ComponentCreator('/docs/getting-started/test', '8aa'),
+        path: '/en/docs/client/whiteboard',
+        component: ComponentCreator('/en/docs/client/whiteboard', '71b'),
         exact: true,
         sidebar: "docs"
       },
       {
-        path: '/docs/server/login',
-        component: ComponentCreator('/docs/server/login', '0b3'),
+        path: '/en/docs/getting-started/test',
+        component: ComponentCreator('/en/docs/getting-started/test', 'ced'),
+        exact: true,
+        sidebar: "docs"
+      },
+      {
+        path: '/en/docs/server/login',
+        component: ComponentCreator('/en/docs/server/login', 'a82'),
         exact: true,
         sidebar: "docs"
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'ce3'),
+    path: '/en/',
+    component: ComponentCreator('/en/', 'ce6'),
     exact: true
   },
   {

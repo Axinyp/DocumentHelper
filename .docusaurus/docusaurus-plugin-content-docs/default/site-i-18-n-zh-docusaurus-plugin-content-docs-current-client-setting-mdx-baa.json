@@ -1,7 +1,7 @@
 {
   "unversionedId": "client/setting",
   "id": "client/setting",
-  "title": "6.设置",
+  "title": "7.设置",
   "description": "",
   "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/setting.mdx",
   "sourceDirName": "client",
@@ -10,19 +10,19 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Author",
-  "lastUpdatedAt": 1539502055,
-  "formattedLastUpdatedAt": "2018年10月14日",
+  "lastUpdatedBy": "liufx",
+  "lastUpdatedAt": 1693808902,
+  "formattedLastUpdatedAt": "2023年9月4日",
   "frontMatter": {
-    "title": "6.设置"
+    "title": "7.设置"
   },
   "sidebar": "docs",
   "previous": {
-    "title": "5.文件展示",
+    "title": "6.文件展示",
     "permalink": "/docs/client/filepreviewer"
   },
   "next": {
-    "title": "7.单机模式",
+    "title": "8.单机模式",
     "permalink": "/docs/client/singlemode"
   }
 }

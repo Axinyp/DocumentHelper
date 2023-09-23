@@ -10,9 +10,9 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Author",
-  "lastUpdatedAt": 1539502055,
-  "formattedLastUpdatedAt": "2018年10月14日",
+  "lastUpdatedBy": "liufx",
+  "lastUpdatedAt": 1693551688,
+  "formattedLastUpdatedAt": "2023年9月1日",
   "frontMatter": {
     "title": "1. 智慧会议管理平台"
   },
@@ -22,7 +22,7 @@
     "permalink": "/docs/getting-started/test"
   },
   "next": {
-    "title": "1.会议模式",
-    "permalink": "/docs/client/meetingmode"
+    "title": "1.设备激活",
+    "permalink": "/docs/client/register"
   }
 }

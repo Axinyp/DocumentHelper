@@ -1,7 +1,7 @@
 {
   "pluginId": "default",
   "version": "current",
-  "label": "预览版",
+  "label": "Next",
   "banner": null,
   "badge": false,
   "noIndex": false,
@@ -11,13 +11,13 @@
     "docs": [
       {
         "type": "category",
-        "label": "快速开始",
+        "label": "Getting Started",
         "collapsed": false,
         "items": [
           {
             "type": "link",
-            "label": "广东保伦电子股份有限公司",
-            "href": "/docs/getting-started/test",
+            "label": "Guangdong Baolun Electronics Co., Ltd.",
+            "href": "/en/docs/getting-started/test",
             "docId": "getting-started/test"
           }
         ],
@@ -25,13 +25,13 @@
       },
       {
         "type": "category",
-        "label": "服务端",
+        "label": "Server",
         "collapsed": false,
         "items": [
           {
             "type": "link",
-            "label": "1. 智慧会议管理平台",
-            "href": "/docs/server/login",
+            "label": "1. Smart Meeting Management Platform",
+            "href": "/en/docs/server/login",
             "docId": "server/login"
           }
         ],
@@ -39,79 +39,85 @@
       },
       {
         "type": "category",
-        "label": "客户端",
+        "label": "Client",
         "collapsed": false,
         "items": [
           {
             "type": "link",
-            "label": "1.会议模式",
-            "href": "/docs/client/meetingmode",
+            "label": "1.Device activation",
+            "href": "/en/docs/client/register",
+            "docId": "client/register"
+          },
+          {
+            "type": "link",
+            "label": "2.Meeting mode",
+            "href": "/en/docs/client/meetingmode",
             "docId": "client/meetingmode"
           },
           {
             "type": "link",
-            "label": "2.小工具",
-            "href": "/docs/client/tool",
+            "label": "3. Tool",
+            "href": "/en/docs/client/tool",
             "docId": "client/tool"
           },
           {
             "type": "link",
-            "label": "3.白板书写",
-            "href": "/docs/client/whiteboard",
+            "label": "4.Whiteboard",
+            "href": "/en/docs/client/whiteboard",
             "docId": "client/whiteboard"
           },
           {
             "type": "link",
-            "label": "4.批注",
-            "href": "/docs/client/annotation",
+            "label": "5.Annotation",
+            "href": "/en/docs/client/annotation",
             "docId": "client/annotation"
           },
           {
             "type": "link",
-            "label": "5.文件展示",
-            "href": "/docs/client/filepreviewer",
+            "label": "6.File display",
+            "href": "/en/docs/client/filepreviewer",
             "docId": "client/filepreviewer"
           },
           {
             "type": "link",
-            "label": "6.设置",
-            "href": "/docs/client/setting",
+            "label": "7.Settings",
+            "href": "/en/docs/client/setting",
             "docId": "client/setting"
           },
           {
             "type": "link",
-            "label": "7.单机模式",
-            "href": "/docs/client/singlemode",
+            "label": "8.Standalone mode",
+            "href": "/en/docs/client/singlemode",
             "docId": "client/singlemode"
           },
           {
             "type": "link",
-            "label": "8.语音助手",
-            "href": "/docs/client/voiceassistance",
+            "label": "9.Voice assistant",
+            "href": "/en/docs/client/voiceassistance",
             "docId": "client/voiceassistance"
           },
           {
             "type": "link",
-            "label": "9.投屏",
-            "href": "/docs/client/miracast",
+            "label": "10.Screen mirroring",
+            "href": "/en/docs/client/miracast",
             "docId": "client/miracast"
           },
           {
             "type": "link",
-            "label": "10.NFC投屏",
-            "href": "/docs/client/nfc",
+            "label": "11.NFC screen mirroring",
+            "href": "/en/docs/client/nfc",
             "docId": "client/nfc"
           },
           {
             "type": "link",
-            "label": "11.应用市场",
-            "href": "/docs/client/appmarket",
+            "label": "12.Application market",
+            "href": "/en/docs/client/appmarket",
             "docId": "client/appmarket"
           },
           {
             "type": "link",
-            "label": "12.简易故障排查",
-            "href": "/docs/client/troubleshooting",
+            "label": "13.Easy Troubleshooting",
+            "href": "/en/docs/client/troubleshooting",
             "docId": "client/troubleshooting"
           }
         ],
@@ -122,85 +128,91 @@
   "docs": {
     "client/annotation": {
       "id": "client/annotation",
-      "title": "4.批注",
+      "title": "5.Annotation",
       "description": "",
       "sidebar": "docs"
     },
     "client/appmarket": {
       "id": "client/appmarket",
-      "title": "11.应用市场",
+      "title": "12.Application market",
       "description": "",
       "sidebar": "docs"
     },
     "client/filepreviewer": {
       "id": "client/filepreviewer",
-      "title": "5.文件展示",
+      "title": "6.File display",
       "description": "",
       "sidebar": "docs"
     },
     "client/meetingmode": {
       "id": "client/meetingmode",
-      "title": "1.会议模式",
+      "title": "2.Meeting mode",
       "description": "",
       "sidebar": "docs"
     },
     "client/miracast": {
       "id": "client/miracast",
-      "title": "9.投屏",
+      "title": "10.Screen mirroring",
       "description": "",
       "sidebar": "docs"
     },
     "client/nfc": {
       "id": "client/nfc",
-      "title": "10.NFC投屏",
+      "title": "11.NFC screen mirroring",
+      "description": "",
+      "sidebar": "docs"
+    },
+    "client/register": {
+      "id": "client/register",
+      "title": "1.Device activation",
       "description": "",
       "sidebar": "docs"
     },
     "client/setting": {
       "id": "client/setting",
-      "title": "6.设置",
+      "title": "7.Settings",
       "description": "",
       "sidebar": "docs"
     },
     "client/singlemode": {
       "id": "client/singlemode",
-      "title": "7.单机模式",
+      "title": "8.Standalone mode",
       "description": "",
       "sidebar": "docs"
     },
     "client/tool": {
       "id": "client/tool",
-      "title": "2.小工具",
+      "title": "3. Tool",
       "description": "",
       "sidebar": "docs"
     },
     "client/troubleshooting": {
       "id": "client/troubleshooting",
-      "title": "12.简易故障排查",
+      "title": "13.Easy Troubleshooting",
       "description": "",
       "sidebar": "docs"
     },
     "client/voiceassistance": {
       "id": "client/voiceassistance",
-      "title": "8.语音助手",
+      "title": "9.Voice assistant",
       "description": "",
       "sidebar": "docs"
     },
     "client/whiteboard": {
       "id": "client/whiteboard",
-      "title": "3.白板书写",
+      "title": "4.Whiteboard",
       "description": "",
       "sidebar": "docs"
     },
     "getting-started/test": {
       "id": "getting-started/test",
-      "title": "广东保伦电子股份有限公司",
+      "title": "Guangdong Baolun Electronics Co., Ltd.",
       "description": "",
       "sidebar": "docs"
     },
     "server/login": {
       "id": "server/login",
-      "title": "1. 智慧会议管理平台",
+      "title": "1. Smart Meeting Management Platform",
       "description": "",
       "sidebar": "docs"
     }

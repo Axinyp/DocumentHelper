@@ -1,7 +1,7 @@
 {
   "unversionedId": "client/singlemode",
   "id": "client/singlemode",
-  "title": "7.Standalone mode",
+  "title": "8.Standalone mode",
   "description": "",
   "source": "@site/docs/client/singlemode.mdx",
   "sourceDirName": "client",
@@ -10,16 +10,19 @@
   "draft": false,
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "liufx",
+  "lastUpdatedAt": 1693808902,
+  "formattedLastUpdatedAt": "Sep 4, 2023",
   "frontMatter": {
-    "title": "7.Standalone mode"
+    "title": "8.Standalone mode"
   },
   "sidebar": "docs",
   "previous": {
-    "title": "6.Settings",
+    "title": "7.Settings",
     "permalink": "/en/docs/client/setting"
   },
   "next": {
-    "title": "8.Voice assistant",
+    "title": "9.Voice assistant",
     "permalink": "/en/docs/client/voiceassistance"
   }
 }

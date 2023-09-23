@@ -7,7 +7,7 @@ export default {
   "title": "itcHUB OS",
   "tagline": "itcHUB docs.",
   "url": "https://kubevela.io",
-  "baseUrl": "/",
+  "baseUrl": "/en/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicons/favicon.ico",
@@ -33,7 +33,7 @@ export default {
   },
   "themes": [
     [
-      "E:\\广州保伦电子\\一体机帮助文档\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      "E:\\广州保伦电子\\DocumentHelper\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
       {
         "hashed": true,
         "language": [
@@ -60,7 +60,7 @@ export default {
         {
           "to": "docs/getting-started/test",
           "activeBasePath": "docs",
-          "label": "文档",
+          "label": "Documentation",
           "position": "left"
         },
         {
@@ -73,7 +73,7 @@ export default {
       "hideOnScroll": false
     },
     "footer": {
-      "copyright": "\n        <br />\n        <strong>Copyright ©2022 广东保伦电子股份有限公司</strong> \n        <br />\n      ",
+      "copyright": "\n        <span> Copyright ©Guangdong Baolun Electronics Co., Ltd. </a></span>\n      ",
       "style": "light",
       "links": []
     },
@@ -214,7 +214,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "E:\\广州保伦电子\\一体机帮助文档\\sidebars.js",
+          "sidebarPath": "E:\\广州保伦电子\\DocumentHelper\\sidebars.js",
           "showLastUpdateAuthor": true,
           "showLastUpdateTime": true,
           "includeCurrentVersion": true,
@@ -227,7 +227,7 @@ export default {
           "anonymizeIP": false
         },
         "theme": {
-          "customCss": "E:\\广州保伦电子\\一体机帮助文档\\src\\css\\custom.scss"
+          "customCss": "E:\\广州保伦电子\\DocumentHelper\\src\\css\\custom.scss"
         }
       }
     ]
@@ -235,7 +235,7 @@ export default {
   "plugins": [
     "docusaurus-plugin-sass",
     "./src/plugins/faviconCustomPlugin",
-    "E:\\广州保伦电子\\一体机帮助文档\\node_modules\\docusaurus-plugin-image-zoom\\src\\index.js"
+    "E:\\广州保伦电子\\DocumentHelper\\node_modules\\docusaurus-plugin-image-zoom\\src\\index.js"
   ],
   "scripts": [
     {

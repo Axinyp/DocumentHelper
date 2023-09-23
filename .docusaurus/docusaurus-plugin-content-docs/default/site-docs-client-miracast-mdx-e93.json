@@ -1,7 +1,7 @@
 {
   "unversionedId": "client/miracast",
   "id": "client/miracast",
-  "title": "9.Screen mirroring",
+  "title": "10.Screen mirroring",
   "description": "",
   "source": "@site/docs/client/miracast.mdx",
   "sourceDirName": "client",
@@ -10,16 +10,19 @@
   "draft": false,
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "liufx",
+  "lastUpdatedAt": 1693808902,
+  "formattedLastUpdatedAt": "Sep 4, 2023",
   "frontMatter": {
-    "title": "9.Screen mirroring"
+    "title": "10.Screen mirroring"
   },
   "sidebar": "docs",
   "previous": {
-    "title": "8.Voice assistant",
+    "title": "9.Voice assistant",
     "permalink": "/en/docs/client/voiceassistance"
   },
   "next": {
-    "title": "10.NFC screen mirroring",
+    "title": "11.NFC screen mirroring",
     "permalink": "/en/docs/client/nfc"
   }
 }

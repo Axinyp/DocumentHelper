@@ -1,7 +1,7 @@
 {
   "unversionedId": "client/nfc",
   "id": "client/nfc",
-  "title": "10.NFC screen mirroring",
+  "title": "11.NFC screen mirroring",
   "description": "",
   "source": "@site/docs/client/nfc.mdx",
   "sourceDirName": "client",
@@ -10,16 +10,19 @@
   "draft": false,
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "liufx",
+  "lastUpdatedAt": 1693808902,
+  "formattedLastUpdatedAt": "Sep 4, 2023",
   "frontMatter": {
-    "title": "10.NFC screen mirroring"
+    "title": "11.NFC screen mirroring"
   },
   "sidebar": "docs",
   "previous": {
-    "title": "9.Screen mirroring",
+    "title": "10.Screen mirroring",
     "permalink": "/en/docs/client/miracast"
   },
   "next": {
-    "title": "11.Application market",
+    "title": "12.Application market",
     "permalink": "/en/docs/client/appmarket"
   }
 }

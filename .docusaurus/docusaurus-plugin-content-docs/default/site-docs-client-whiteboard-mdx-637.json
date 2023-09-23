@@ -1,7 +1,7 @@
 {
   "unversionedId": "client/whiteboard",
   "id": "client/whiteboard",
-  "title": "3.Whiteboard",
+  "title": "4.Whiteboard",
   "description": "",
   "source": "@site/docs/client/whiteboard.mdx",
   "sourceDirName": "client",
@@ -10,16 +10,19 @@
   "draft": false,
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "liufx",
+  "lastUpdatedAt": 1693808902,
+  "formattedLastUpdatedAt": "Sep 4, 2023",
   "frontMatter": {
-    "title": "3.Whiteboard"
+    "title": "4.Whiteboard"
   },
   "sidebar": "docs",
   "previous": {
-    "title": "2. Tool",
+    "title": "3. Tool",
     "permalink": "/en/docs/client/tool"
   },
   "next": {
-    "title": "4.Annotation",
+    "title": "5.Annotation",
     "permalink": "/en/docs/client/annotation"
   }
 }

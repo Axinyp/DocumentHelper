@@ -1,7 +1,7 @@
 {
   "unversionedId": "client/annotation",
   "id": "client/annotation",
-  "title": "4.Annotation",
+  "title": "5.Annotation",
   "description": "",
   "source": "@site/docs/client/annotation.mdx",
   "sourceDirName": "client",
@@ -10,16 +10,19 @@
   "draft": false,
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "liufx",
+  "lastUpdatedAt": 1693808902,
+  "formattedLastUpdatedAt": "Sep 4, 2023",
   "frontMatter": {
-    "title": "4.Annotation"
+    "title": "5.Annotation"
   },
   "sidebar": "docs",
   "previous": {
-    "title": "3.Whiteboard",
+    "title": "4.Whiteboard",
     "permalink": "/en/docs/client/whiteboard"
   },
   "next": {
-    "title": "5.File display",
+    "title": "6.File display",
     "permalink": "/en/docs/client/filepreviewer"
   }
 }

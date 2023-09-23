@@ -10,6 +10,9 @@
   "draft": false,
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "liufx",
+  "lastUpdatedAt": 1693551688,
+  "formattedLastUpdatedAt": "Sep 1, 2023",
   "frontMatter": {
     "title": "1. Smart Meeting Management Platform"
   },
@@ -19,7 +22,7 @@
     "permalink": "/en/docs/getting-started/test"
   },
   "next": {
-    "title": "1.Meeting mode",
-    "permalink": "/en/docs/client/meetingmode"
+    "title": "1.Device activation",
+    "permalink": "/en/docs/client/register"
   }
 }

@@ -1,7 +1,7 @@
 {
   "unversionedId": "client/voiceassistance",
   "id": "client/voiceassistance",
-  "title": "8.语音助手",
+  "title": "9.语音助手",
   "description": "",
   "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/voiceassistance.mdx",
   "sourceDirName": "client",
@@ -10,19 +10,19 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Author",
-  "lastUpdatedAt": 1539502055,
-  "formattedLastUpdatedAt": "2018年10月14日",
+  "lastUpdatedBy": "liufx",
+  "lastUpdatedAt": 1693808902,
+  "formattedLastUpdatedAt": "2023年9月4日",
   "frontMatter": {
-    "title": "8.语音助手"
+    "title": "9.语音助手"
   },
   "sidebar": "docs",
   "previous": {
-    "title": "7.单机模式",
+    "title": "8.单机模式",
     "permalink": "/docs/client/singlemode"
   },
   "next": {
-    "title": "9.投屏",
+    "title": "10.投屏",
     "permalink": "/docs/client/miracast"
   }
 }

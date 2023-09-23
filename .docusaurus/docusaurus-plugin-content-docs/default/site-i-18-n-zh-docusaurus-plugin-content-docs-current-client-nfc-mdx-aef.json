@@ -1,7 +1,7 @@
 {
   "unversionedId": "client/nfc",
   "id": "client/nfc",
-  "title": "10.NFC投屏",
+  "title": "11.NFC投屏",
   "description": "",
   "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/nfc.mdx",
   "sourceDirName": "client",
@@ -10,19 +10,19 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Author",
-  "lastUpdatedAt": 1539502055,
-  "formattedLastUpdatedAt": "2018年10月14日",
+  "lastUpdatedBy": "liufx",
+  "lastUpdatedAt": 1693808902,
+  "formattedLastUpdatedAt": "2023年9月4日",
   "frontMatter": {
-    "title": "10.NFC投屏"
+    "title": "11.NFC投屏"
   },
   "sidebar": "docs",
   "previous": {
-    "title": "9.投屏",
+    "title": "10.投屏",
     "permalink": "/docs/client/miracast"
   },
   "next": {
-    "title": "11.应用市场",
+    "title": "12.应用市场",
     "permalink": "/docs/client/appmarket"
   }
 }

@@ -1,7 +1,7 @@
 {
   "unversionedId": "client/meetingmode",
   "id": "client/meetingmode",
-  "title": "1.Meeting mode",
+  "title": "2.Meeting mode",
   "description": "",
   "source": "@site/docs/client/meetingmode.mdx",
   "sourceDirName": "client",
@@ -10,16 +10,19 @@
   "draft": false,
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "liufx",
+  "lastUpdatedAt": 1693808902,
+  "formattedLastUpdatedAt": "Sep 4, 2023",
   "frontMatter": {
-    "title": "1.Meeting mode"
+    "title": "2.Meeting mode"
   },
   "sidebar": "docs",
   "previous": {
-    "title": "1. Smart Meeting Management Platform",
-    "permalink": "/en/docs/server/login"
+    "title": "1.Device activation",
+    "permalink": "/en/docs/client/register"
   },
   "next": {
-    "title": "2. Tool",
+    "title": "3. Tool",
     "permalink": "/en/docs/client/tool"
   }
 }

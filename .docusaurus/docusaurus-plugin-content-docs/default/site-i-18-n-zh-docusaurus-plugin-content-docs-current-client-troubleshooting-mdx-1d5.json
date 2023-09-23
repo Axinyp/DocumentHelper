@@ -1,7 +1,7 @@
 {
   "unversionedId": "client/troubleshooting",
   "id": "client/troubleshooting",
-  "title": "12.简易故障排查",
+  "title": "13.简易故障排查",
   "description": "",
   "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/troubleshooting.mdx",
   "sourceDirName": "client",
@@ -10,15 +10,15 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "lastUpdatedBy": "Author",
-  "lastUpdatedAt": 1539502055,
-  "formattedLastUpdatedAt": "2018年10月14日",
+  "lastUpdatedBy": "liufx",
+  "lastUpdatedAt": 1693808902,
+  "formattedLastUpdatedAt": "2023年9月4日",
   "frontMatter": {
-    "title": "12.简易故障排查"
+    "title": "13.简易故障排查"
   },
   "sidebar": "docs",
   "previous": {
-    "title": "11.应用市场",
+    "title": "12.应用市场",
     "permalink": "/docs/client/appmarket"
   }
 }
