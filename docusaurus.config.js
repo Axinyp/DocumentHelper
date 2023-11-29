@@ -9,7 +9,7 @@ module.exports = {
   favicon: 'img/favicons/favicon.ico',
   i18n: {
     defaultLocale: 'zh',
-    locales: ['zh','en'],
+    locales: ['zh','en','ru'],
     path:'i18n',
     localeConfigs: {
       zh: {
@@ -21,6 +21,11 @@ module.exports = {
         label: 'English',
         direction:'ltr',
         htmlLang: 'en-US'
+      },
+      ru: {
+        label: 'Pусский',
+        direction:'ltr',
+        htmlLang: 'ru'
       }
     },
   },
@@ -35,7 +40,7 @@ module.exports = {
         hashed: true,
         // For Docs using Chinese, The `language` is recommended to set to:
         // ```
-         language: ["en", "zh"],
+         language: ["en", "zh","ru"],
         // ```
       }),
     ],

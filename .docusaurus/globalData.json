@@ -8,88 +8,88 @@
   },
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/en/docs",
+      "path": "/ru/docs",
       "versions": [
         {
           "name": "current",
-          "label": "Next",
+          "label": "预览版",
           "isLast": true,
-          "path": "/en/docs",
+          "path": "/ru/docs",
           "mainDocId": "getting-started/test",
           "docs": [
             {
               "id": "client/annotation",
-              "path": "/en/docs/client/annotation",
+              "path": "/ru/docs/client/annotation",
               "sidebar": "docs"
             },
             {
               "id": "client/appmarket",
-              "path": "/en/docs/client/appmarket",
+              "path": "/ru/docs/client/appmarket",
               "sidebar": "docs"
             },
             {
               "id": "client/filepreviewer",
-              "path": "/en/docs/client/filepreviewer",
+              "path": "/ru/docs/client/filepreviewer",
               "sidebar": "docs"
             },
             {
               "id": "client/meetingmode",
-              "path": "/en/docs/client/meetingmode",
+              "path": "/ru/docs/client/meetingmode",
               "sidebar": "docs"
             },
             {
               "id": "client/miracast",
-              "path": "/en/docs/client/miracast",
+              "path": "/ru/docs/client/miracast",
               "sidebar": "docs"
             },
             {
               "id": "client/nfc",
-              "path": "/en/docs/client/nfc",
+              "path": "/ru/docs/client/nfc",
               "sidebar": "docs"
             },
             {
               "id": "client/register",
-              "path": "/en/docs/client/register",
+              "path": "/ru/docs/client/register",
               "sidebar": "docs"
             },
             {
               "id": "client/setting",
-              "path": "/en/docs/client/setting",
+              "path": "/ru/docs/client/setting",
               "sidebar": "docs"
             },
             {
               "id": "client/singlemode",
-              "path": "/en/docs/client/singlemode",
+              "path": "/ru/docs/client/singlemode",
               "sidebar": "docs"
             },
             {
               "id": "client/tool",
-              "path": "/en/docs/client/tool",
+              "path": "/ru/docs/client/tool",
               "sidebar": "docs"
             },
             {
               "id": "client/troubleshooting",
-              "path": "/en/docs/client/troubleshooting",
+              "path": "/ru/docs/client/troubleshooting",
               "sidebar": "docs"
             },
             {
               "id": "client/voiceassistance",
-              "path": "/en/docs/client/voiceassistance",
+              "path": "/ru/docs/client/voiceassistance",
               "sidebar": "docs"
             },
             {
               "id": "client/whiteboard",
-              "path": "/en/docs/client/whiteboard",
+              "path": "/ru/docs/client/whiteboard",
               "sidebar": "docs"
             },
             {
               "id": "getting-started/test",
-              "path": "/en/docs/getting-started/test",
+              "path": "/ru/docs/getting-started/test",
               "sidebar": "docs"
             },
             {
               "id": "server/login",
-              "path": "/en/docs/server/login",
+              "path": "/ru/docs/server/login",
               "sidebar": "docs"
             }
           ],
@@ -97,7 +97,7 @@
           "sidebars": {
             "docs": {
               "link": {
-                "path": "/en/docs/getting-started/test",
+                "path": "/ru/docs/getting-started/test",
                 "label": "getting-started/test"
               }
             }

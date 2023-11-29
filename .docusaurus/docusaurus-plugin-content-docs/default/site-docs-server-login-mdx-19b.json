@@ -1,7 +1,7 @@
 {
   "unversionedId": "server/login",
   "id": "server/login",
-  "title": "1. Smart Meeting Management Platform",
+  "title": "1. User Register",
   "description": "",
   "source": "@site/docs/server/login.mdx",
   "sourceDirName": "server",
@@ -11,10 +11,10 @@
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "liufx",
-  "lastUpdatedAt": 1693551688,
-  "formattedLastUpdatedAt": "Sep 1, 2023",
+  "lastUpdatedAt": 1697096209,
+  "formattedLastUpdatedAt": "Oct 12, 2023",
   "frontMatter": {
-    "title": "1. Smart Meeting Management Platform"
+    "title": "1. User Register"
   },
   "sidebar": "docs",
   "previous": {

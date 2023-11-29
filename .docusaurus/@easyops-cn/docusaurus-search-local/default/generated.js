@@ -1,12 +1,13 @@
 import lunr from "E:\\广州保伦电子\\DocumentHelper\\node_modules\\lunr\\lunr.js";
 require("E:\\广州保伦电子\\DocumentHelper\\node_modules\\lunr-languages\\lunr.stemmer.support.js")(lunr);
+require("E:\\广州保伦电子\\DocumentHelper\\node_modules\\lunr-languages\\lunr.ru.js")(lunr);
 require("@easyops-cn/docusaurus-search-local/dist/client/shared/lunrLanguageZh").lunrLanguageZh(lunr);
 require("E:\\广州保伦电子\\DocumentHelper\\node_modules\\lunr-languages\\lunr.multi.js")(lunr);
-export const language = ["en","zh"];
+export const language = ["en","zh","ru"];
 export const removeDefaultStopWordFilter = false;
 export const removeDefaultStemmer = false;
 export const Mark = null;
-export const searchIndexUrl = "search-index.json?_=6dededee";
+export const searchIndexUrl = "search-index.json?_=074fc087";
 export const searchResultLimits = 8;
 export const searchResultContextMaxLength = 50;
 export const explicitSearchResultPath = false;

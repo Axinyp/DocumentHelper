@@ -1,7 +1,7 @@
 {
   "unversionedId": "server/login",
   "id": "server/login",
-  "title": "1. 智慧会议管理平台",
+  "title": "1. 用户注册",
   "description": "",
   "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/server/login.mdx",
   "sourceDirName": "server",
@@ -11,10 +11,10 @@
   "tags": [],
   "version": "current",
   "lastUpdatedBy": "liufx",
-  "lastUpdatedAt": 1693551688,
-  "formattedLastUpdatedAt": "2023年9月1日",
+  "lastUpdatedAt": 1697096209,
+  "formattedLastUpdatedAt": "2023年10月12日",
   "frontMatter": {
-    "title": "1. 智慧会议管理平台"
+    "title": "1. 用户注册"
   },
   "sidebar": "docs",
   "previous": {

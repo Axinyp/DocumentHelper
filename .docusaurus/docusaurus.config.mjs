@@ -7,7 +7,7 @@ export default {
   "title": "itcHUB OS",
   "tagline": "itcHUB docs.",
   "url": "https://kubevela.io",
-  "baseUrl": "/en/",
+  "baseUrl": "/ru/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicons/favicon.ico",
@@ -15,7 +15,8 @@ export default {
     "defaultLocale": "zh",
     "locales": [
       "zh",
-      "en"
+      "en",
+      "ru"
     ],
     "path": "i18n",
     "localeConfigs": {
@@ -28,6 +29,11 @@ export default {
         "label": "English",
         "direction": "ltr",
         "htmlLang": "en-US"
+      },
+      "ru": {
+        "label": "Pусский",
+        "direction": "ltr",
+        "htmlLang": "ru"
       }
     }
   },
@@ -38,7 +44,8 @@ export default {
         "hashed": true,
         "language": [
           "en",
-          "zh"
+          "zh",
+          "ru"
         ]
       }
     ]
@@ -60,7 +67,7 @@ export default {
         {
           "to": "docs/getting-started/test",
           "activeBasePath": "docs",
-          "label": "Documentation",
+          "label": "документ",
           "position": "left"
         },
         {
@@ -73,7 +80,7 @@ export default {
       "hideOnScroll": false
     },
     "footer": {
-      "copyright": "\n        <span> Copyright ©Guangdong Baolun Electronics Co., Ltd. </a></span>\n      ",
+      "copyright": "\n        <br />\n        <strong>Copyright ©2022 广东保伦电子股份有限公司</strong> \n        <br />\n      ",
       "style": "light",
       "links": []
     },

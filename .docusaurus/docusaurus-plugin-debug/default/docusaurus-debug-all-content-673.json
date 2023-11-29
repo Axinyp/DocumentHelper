@@ -9,424 +9,424 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/docs",
-          "tagsPath": "/docs/tags",
+          "path": "/ru/docs",
+          "tagsPath": "/ru/docs/tags",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "E:\\广州保伦电子\\DocumentHelper\\sidebars.js",
           "contentPath": "E:\\广州保伦电子\\DocumentHelper\\docs",
-          "contentPathLocalized": "E:\\广州保伦电子\\DocumentHelper\\i18n\\zh\\docusaurus-plugin-content-docs\\current",
+          "contentPathLocalized": "E:\\广州保伦电子\\DocumentHelper\\i18n\\ru\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "unversionedId": "client/annotation",
               "id": "client/annotation",
-              "title": "5.批注",
+              "title": "5.Примечание",
               "description": "",
-              "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/annotation.mdx",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/client/annotation.mdx",
               "sourceDirName": "client",
               "slug": "/client/annotation",
-              "permalink": "/docs/client/annotation",
+              "permalink": "/ru/docs/client/annotation",
               "draft": false,
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
               "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "2018年10月14日",
+              "formattedLastUpdatedAt": "14 окт. 2018 г.",
               "frontMatter": {
-                "title": "5.批注"
+                "title": "5.Примечание"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "4.白板书写",
-                "permalink": "/docs/client/whiteboard"
+                "title": "4.Белая доска",
+                "permalink": "/ru/docs/client/whiteboard"
               },
               "next": {
-                "title": "6.文件展示",
-                "permalink": "/docs/client/filepreviewer"
+                "title": "6.Отображение файлов",
+                "permalink": "/ru/docs/client/filepreviewer"
               }
             },
             {
               "unversionedId": "client/appmarket",
               "id": "client/appmarket",
-              "title": "12.应用市场",
+              "title": "12.Рынок приложений",
               "description": "",
-              "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/appmarket.mdx",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/client/appmarket.mdx",
               "sourceDirName": "client",
               "slug": "/client/appmarket",
-              "permalink": "/docs/client/appmarket",
+              "permalink": "/ru/docs/client/appmarket",
               "draft": false,
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
               "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "2018年10月14日",
+              "formattedLastUpdatedAt": "14 окт. 2018 г.",
               "frontMatter": {
-                "title": "12.应用市场"
+                "title": "12.Рынок приложений"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "11.NFC投屏",
-                "permalink": "/docs/client/nfc"
+                "title": "11.Проецирование на экран NFC",
+                "permalink": "/ru/docs/client/nfc"
               },
               "next": {
-                "title": "13.简易故障排查",
-                "permalink": "/docs/client/troubleshooting"
+                "title": "13.Простое устранение неполадок",
+                "permalink": "/ru/docs/client/troubleshooting"
               }
             },
             {
               "unversionedId": "client/filepreviewer",
               "id": "client/filepreviewer",
-              "title": "6.文件展示",
+              "title": "6.Отображение файлов",
               "description": "",
-              "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/filepreviewer.mdx",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/client/filepreviewer.mdx",
               "sourceDirName": "client",
               "slug": "/client/filepreviewer",
-              "permalink": "/docs/client/filepreviewer",
+              "permalink": "/ru/docs/client/filepreviewer",
               "draft": false,
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
               "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "2018年10月14日",
+              "formattedLastUpdatedAt": "14 окт. 2018 г.",
               "frontMatter": {
-                "title": "6.文件展示"
+                "title": "6.Отображение файлов"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "5.批注",
-                "permalink": "/docs/client/annotation"
+                "title": "5.Примечание",
+                "permalink": "/ru/docs/client/annotation"
               },
               "next": {
-                "title": "7.设置",
-                "permalink": "/docs/client/setting"
+                "title": "7.Настройки",
+                "permalink": "/ru/docs/client/setting"
               }
             },
             {
               "unversionedId": "client/meetingmode",
               "id": "client/meetingmode",
-              "title": "2.会议模式",
+              "title": "2.Режим совещания",
               "description": "",
-              "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/meetingmode.mdx",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/client/meetingmode.mdx",
               "sourceDirName": "client",
               "slug": "/client/meetingmode",
-              "permalink": "/docs/client/meetingmode",
+              "permalink": "/ru/docs/client/meetingmode",
               "draft": false,
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
               "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "2018年10月14日",
+              "formattedLastUpdatedAt": "14 окт. 2018 г.",
               "frontMatter": {
-                "title": "2.会议模式"
+                "title": "2.Режим совещания"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "1.设备激活",
-                "permalink": "/docs/client/register"
+                "title": "1.Активация устройства",
+                "permalink": "/ru/docs/client/register"
               },
               "next": {
-                "title": "3.小工具",
-                "permalink": "/docs/client/tool"
+                "title": "3.гаджетами",
+                "permalink": "/ru/docs/client/tool"
               }
             },
             {
               "unversionedId": "client/miracast",
               "id": "client/miracast",
-              "title": "10.投屏",
+              "title": "10.Проецирование на экран",
               "description": "",
-              "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/miracast.mdx",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/client/miracast.mdx",
               "sourceDirName": "client",
               "slug": "/client/miracast",
-              "permalink": "/docs/client/miracast",
+              "permalink": "/ru/docs/client/miracast",
               "draft": false,
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
               "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "2018年10月14日",
+              "formattedLastUpdatedAt": "14 окт. 2018 г.",
               "frontMatter": {
-                "title": "10.投屏"
+                "title": "10.Проецирование на экран"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "9.语音助手",
-                "permalink": "/docs/client/voiceassistance"
+                "title": "9.Голосовой помощник",
+                "permalink": "/ru/docs/client/voiceassistance"
               },
               "next": {
-                "title": "11.NFC投屏",
-                "permalink": "/docs/client/nfc"
+                "title": "11.Проецирование на экран NFC",
+                "permalink": "/ru/docs/client/nfc"
               }
             },
             {
               "unversionedId": "client/nfc",
               "id": "client/nfc",
-              "title": "11.NFC投屏",
+              "title": "11.Проецирование на экран NFC",
               "description": "",
-              "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/nfc.mdx",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/client/nfc.mdx",
               "sourceDirName": "client",
               "slug": "/client/nfc",
-              "permalink": "/docs/client/nfc",
+              "permalink": "/ru/docs/client/nfc",
               "draft": false,
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
               "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "2018年10月14日",
+              "formattedLastUpdatedAt": "14 окт. 2018 г.",
               "frontMatter": {
-                "title": "11.NFC投屏"
+                "title": "11.Проецирование на экран NFC"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "10.投屏",
-                "permalink": "/docs/client/miracast"
+                "title": "10.Проецирование на экран",
+                "permalink": "/ru/docs/client/miracast"
               },
               "next": {
-                "title": "12.应用市场",
-                "permalink": "/docs/client/appmarket"
+                "title": "12.Рынок приложений",
+                "permalink": "/ru/docs/client/appmarket"
               }
             },
             {
               "unversionedId": "client/register",
               "id": "client/register",
-              "title": "1.设备激活",
+              "title": "1.Активация устройства",
               "description": "",
-              "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/register.mdx",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/client/register.mdx",
               "sourceDirName": "client",
               "slug": "/client/register",
-              "permalink": "/docs/client/register",
+              "permalink": "/ru/docs/client/register",
               "draft": false,
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
               "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "2018年10月14日",
+              "formattedLastUpdatedAt": "14 окт. 2018 г.",
               "frontMatter": {
-                "title": "1.设备激活"
+                "title": "1.Активация устройства"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "1. 智慧会议管理平台",
-                "permalink": "/docs/server/login"
+                "title": "1. Регистрация пользователя",
+                "permalink": "/ru/docs/server/login"
               },
               "next": {
-                "title": "2.会议模式",
-                "permalink": "/docs/client/meetingmode"
+                "title": "2.Режим совещания",
+                "permalink": "/ru/docs/client/meetingmode"
               }
             },
             {
               "unversionedId": "client/setting",
               "id": "client/setting",
-              "title": "7.设置",
+              "title": "7.Настройки",
               "description": "",
-              "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/setting.mdx",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/client/setting.mdx",
               "sourceDirName": "client",
               "slug": "/client/setting",
-              "permalink": "/docs/client/setting",
+              "permalink": "/ru/docs/client/setting",
               "draft": false,
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
               "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "2018年10月14日",
+              "formattedLastUpdatedAt": "14 окт. 2018 г.",
               "frontMatter": {
-                "title": "7.设置"
+                "title": "7.Настройки"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "6.文件展示",
-                "permalink": "/docs/client/filepreviewer"
+                "title": "6.Отображение файлов",
+                "permalink": "/ru/docs/client/filepreviewer"
               },
               "next": {
-                "title": "8.单机模式",
-                "permalink": "/docs/client/singlemode"
+                "title": "8.Автономный режим",
+                "permalink": "/ru/docs/client/singlemode"
               }
             },
             {
               "unversionedId": "client/singlemode",
               "id": "client/singlemode",
-              "title": "8.单机模式",
+              "title": "8.Автономный режим",
               "description": "",
-              "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/singlemode.mdx",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/client/singlemode.mdx",
               "sourceDirName": "client",
               "slug": "/client/singlemode",
-              "permalink": "/docs/client/singlemode",
+              "permalink": "/ru/docs/client/singlemode",
               "draft": false,
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
               "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "2018年10月14日",
+              "formattedLastUpdatedAt": "14 окт. 2018 г.",
               "frontMatter": {
-                "title": "8.单机模式"
+                "title": "8.Автономный режим"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "7.设置",
-                "permalink": "/docs/client/setting"
+                "title": "7.Настройки",
+                "permalink": "/ru/docs/client/setting"
               },
               "next": {
-                "title": "9.语音助手",
-                "permalink": "/docs/client/voiceassistance"
+                "title": "9.Голосовой помощник",
+                "permalink": "/ru/docs/client/voiceassistance"
               }
             },
             {
               "unversionedId": "client/tool",
               "id": "client/tool",
-              "title": "3.小工具",
+              "title": "3.гаджетами",
               "description": "",
-              "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/tool.mdx",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/client/tool.mdx",
               "sourceDirName": "client",
               "slug": "/client/tool",
-              "permalink": "/docs/client/tool",
+              "permalink": "/ru/docs/client/tool",
               "draft": false,
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
               "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "2018年10月14日",
+              "formattedLastUpdatedAt": "14 окт. 2018 г.",
               "frontMatter": {
-                "title": "3.小工具"
+                "title": "3.гаджетами"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "2.会议模式",
-                "permalink": "/docs/client/meetingmode"
+                "title": "2.Режим совещания",
+                "permalink": "/ru/docs/client/meetingmode"
               },
               "next": {
-                "title": "4.白板书写",
-                "permalink": "/docs/client/whiteboard"
+                "title": "4.Белая доска",
+                "permalink": "/ru/docs/client/whiteboard"
               }
             },
             {
               "unversionedId": "client/troubleshooting",
               "id": "client/troubleshooting",
-              "title": "13.简易故障排查",
+              "title": "13.Простое устранение неполадок",
               "description": "",
-              "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/troubleshooting.mdx",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/client/troubleshooting.mdx",
               "sourceDirName": "client",
               "slug": "/client/troubleshooting",
-              "permalink": "/docs/client/troubleshooting",
+              "permalink": "/ru/docs/client/troubleshooting",
               "draft": false,
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
               "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "2018年10月14日",
+              "formattedLastUpdatedAt": "14 окт. 2018 г.",
               "frontMatter": {
-                "title": "13.简易故障排查"
+                "title": "13.Простое устранение неполадок"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "12.应用市场",
-                "permalink": "/docs/client/appmarket"
+                "title": "12.Рынок приложений",
+                "permalink": "/ru/docs/client/appmarket"
               }
             },
             {
               "unversionedId": "client/voiceassistance",
               "id": "client/voiceassistance",
-              "title": "9.语音助手",
+              "title": "9.Голосовой помощник",
               "description": "",
-              "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/voiceassistance.mdx",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/client/voiceassistance.mdx",
               "sourceDirName": "client",
               "slug": "/client/voiceassistance",
-              "permalink": "/docs/client/voiceassistance",
+              "permalink": "/ru/docs/client/voiceassistance",
               "draft": false,
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
               "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "2018年10月14日",
+              "formattedLastUpdatedAt": "14 окт. 2018 г.",
               "frontMatter": {
-                "title": "9.语音助手"
+                "title": "9.Голосовой помощник"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "8.单机模式",
-                "permalink": "/docs/client/singlemode"
+                "title": "8.Автономный режим",
+                "permalink": "/ru/docs/client/singlemode"
               },
               "next": {
-                "title": "10.投屏",
-                "permalink": "/docs/client/miracast"
+                "title": "10.Проецирование на экран",
+                "permalink": "/ru/docs/client/miracast"
               }
             },
             {
               "unversionedId": "client/whiteboard",
               "id": "client/whiteboard",
-              "title": "4.白板书写",
+              "title": "4.Белая доска",
               "description": "",
-              "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/client/whiteboard.mdx",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/client/whiteboard.mdx",
               "sourceDirName": "client",
               "slug": "/client/whiteboard",
-              "permalink": "/docs/client/whiteboard",
+              "permalink": "/ru/docs/client/whiteboard",
               "draft": false,
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
               "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "2018年10月14日",
+              "formattedLastUpdatedAt": "14 окт. 2018 г.",
               "frontMatter": {
-                "title": "4.白板书写"
+                "title": "4.Белая доска"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "3.小工具",
-                "permalink": "/docs/client/tool"
+                "title": "3.гаджетами",
+                "permalink": "/ru/docs/client/tool"
               },
               "next": {
-                "title": "5.批注",
-                "permalink": "/docs/client/annotation"
+                "title": "5.Примечание",
+                "permalink": "/ru/docs/client/annotation"
               }
             },
             {
               "unversionedId": "getting-started/test",
               "id": "getting-started/test",
-              "title": "广东保伦电子股份有限公司",
+              "title": "Гуанчжоу Baolun Electronics Co., Ltd.",
               "description": "",
-              "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/getting-started/test.mdx",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/getting-started/test.mdx",
               "sourceDirName": "getting-started",
               "slug": "/getting-started/test",
-              "permalink": "/docs/getting-started/test",
+              "permalink": "/ru/docs/getting-started/test",
               "draft": false,
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
               "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "2018年10月14日",
+              "formattedLastUpdatedAt": "14 окт. 2018 г.",
               "frontMatter": {
-                "title": "广东保伦电子股份有限公司"
+                "title": "Гуанчжоу Baolun Electronics Co., Ltd."
               },
               "sidebar": "docs",
               "next": {
-                "title": "1. 智慧会议管理平台",
-                "permalink": "/docs/server/login"
+                "title": "1. Регистрация пользователя",
+                "permalink": "/ru/docs/server/login"
               }
             },
             {
               "unversionedId": "server/login",
               "id": "server/login",
-              "title": "1. 智慧会议管理平台",
+              "title": "1. Регистрация пользователя",
               "description": "",
-              "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/server/login.mdx",
+              "source": "@site/i18n/ru/docusaurus-plugin-content-docs/current/server/login.mdx",
               "sourceDirName": "server",
               "slug": "/server/login",
-              "permalink": "/docs/server/login",
+              "permalink": "/ru/docs/server/login",
               "draft": false,
               "tags": [],
               "version": "current",
               "lastUpdatedBy": "Author",
               "lastUpdatedAt": 1539502055,
-              "formattedLastUpdatedAt": "2018年10月14日",
+              "formattedLastUpdatedAt": "14 окт. 2018 г.",
               "frontMatter": {
-                "title": "1. 智慧会议管理平台"
+                "title": "1. Регистрация пользователя"
               },
               "sidebar": "docs",
               "previous": {
-                "title": "广东保伦电子股份有限公司",
-                "permalink": "/docs/getting-started/test"
+                "title": "Гуанчжоу Baolun Electronics Co., Ltd.",
+                "permalink": "/ru/docs/getting-started/test"
               },
               "next": {
-                "title": "1.设备激活",
-                "permalink": "/docs/client/register"
+                "title": "1.Активация устройства",
+                "permalink": "/ru/docs/client/register"
               }
             }
           ],
@@ -435,7 +435,7 @@
             "docs": [
               {
                 "type": "category",
-                "label": "快速开始",
+                "label": "Быстрый старт",
                 "collapsed": false,
                 "items": [
                   {
@@ -447,7 +447,7 @@
               },
               {
                 "type": "category",
-                "label": "服务端",
+                "label": "Сервер",
                 "collapsed": false,
                 "items": [
                   {
@@ -459,7 +459,7 @@
               },
               {
                 "type": "category",
-                "label": "客户端",
+                "label": "Клиенты",
                 "collapsed": false,
                 "items": [
                   {
@@ -529,7 +529,7 @@
       "blogPosts": [],
       "blogListPaginated": [],
       "blogTags": {},
-      "blogTagsListPath": "/blog/tags",
+      "blogTagsListPath": "/ru/blog/tags",
       "blogTagsPaginated": []
     }
   },
@@ -537,7 +537,7 @@
     "default": [
       {
         "type": "jsx",
-        "permalink": "/",
+        "permalink": "/ru/",
         "source": "@site/src/pages/index.js"
       }
     ]
